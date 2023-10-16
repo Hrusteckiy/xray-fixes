@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_additional_quest_1_name">
+		<text>Знайти хабар загиблого сталкера</text>
+	</string>
+	<string id="agr_additional_quest_1_text">
+		<text>Знайти хабар загиблого сталкера</text>
+	</string>
+	<string id="agr_additional_quest_3_name">
+		<text>Знайти зниклого сталкера</text>
+	</string>
+	<string id="agr_additional_quest_3_text">
+		<text>Знайти зниклого сталкера</text>
+	</string>
+	<string id="agr_at_blokpost_name">
+		<text>Поговорити із лідером «Долгу»</text>
+	</string>
+	<string id="agr_at_blokpost_text">
+		<text>Поговорити із лідером «Долгу». Генерал Крилов може знати, де розташований вхід до підземелля НДІ «Агропром» - саме там знаходиться схованка групи сталкерів, які побували у центрі Зони.</text>
+	</string>
+	<string id="agr_attack_bandits_group_1_name">
+		<text>Знищити табір бандитів</text>
+	</string>
+	<string id="agr_attack_bandits_group_1_text">
+		<text>Необхідно знищити табір бандитів у тунелі. Звідси бандити організують напади на табір сталкерів.</text>
+	</string>
+	<string id="agr_attack_bandits_group_2_name">
+		<text>Знищити загін бандитів</text>
+	</string>
+	<string id="agr_attack_bandits_group_2_text">
+		<text>Загін бандитів сторожить один із виходів із підземки і час від часу допомагає своїм підніматися на поверхню. Необхідно знищити його.</text>
+	</string>
+	<string id="agr_attack_bandits_group_3_name">
+		<text>Знищити лігвище мутантів</text>
+	</string>
+	<string id="agr_attack_bandits_group_3_text">
+		<text>Пустир перед базою сталкерів - дика і небезпечна місцина, що кишить монстрами. Необхідно влаштувати зачистку лігвища мутантів.</text>
+	</string>
+	<string id="agr_defend_duty_base_1_name">
+		<text>Захистити базу «Долгу»</text>
+	</string>
+	<string id="agr_defend_duty_base_1_text">
+		<text>Базу «Долгу» атаковано! Якщо допоможеш відбити атаку, одержиш винагороду.</text>
+	</string>
+	<string id="agr_defend_stalkers_base_1_name">
+		<text>Захистити базу сталкерів</text>
+	</string>
+	<string id="agr_defend_stalkers_base_1_text">
+		<text>База сталкерів у небезпеці. Якщо допоможеш сталкерам відбити напад, одержиш винагороду.</text>
+	</string>
+	<string id="agr_go_in_hole_name">
+		<text>Спуститися до підземелля НДІ «Агропром»</text>
+	</string>
+	<string id="agr_go_in_hole_text">
+		<text>Необхідно спуститься до підземелля НДІ «Агропром». Єдина дорога до нього лежить через нору мутантів.</text>
+	</string>
+	<string id="agr_go_out_hole_name">
+		<text>Поговорити із Сахаровим</text>
+	</string>
+	<string id="agr_go_out_hole_text">
+		<text>Листування групи Стрільця, знайдене у підземній схованці, багато що пояснює. Стрілець пішов до вчених на Янтар; отже, необхідно дістатися Янтаря і поговорити із професором Сахаровим. Можливо, той підкаже, де шукати Стрільця.</text>
+	</string>
+	<string id="agr_go_to_hole_name">
+		<text>Дістатися до нори</text>
+	</string>
+	<string id="agr_go_to_hole_text">
+		<text>Солдати «Долгу» закрили усі входи до підземелля та виходи із нього. Єдиний шанс проникнути всередину - через нори мутантів, крізь які звірі виповзають на поверхню. Необхідно дістатися до нори.</text>
+	</string>
+	<string id="agr_mechanic_pda_1_name">
+		<text>Знайти КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_1_text">
+		<text>Знайти КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_2_name">
+		<text>Принести КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_2_text">
+		<text>Принести КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_1_name">
+		<text>Знайти КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_1_text">
+		<text>Знайти КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_2_name">
+		<text>Принести КПК</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_2_text">
+		<text>Принести КПК</text>
+	</string>
+	<string id="agr_no_task_name">
+		<text>Знайти схованку групи сталкерів</text>
+	</string>
+	<string id="agr_no_task_text">
+		<text>На КПК Клика знайшлися координати схованки групи сталкерів, які побували у центрі Зони і спровокували катаклізм. Це важлива зачіпка: там може бути  дуже цінна інформація. Необхідно знайти КПК у схованці.</text>
+	</string>
+	<string id="agr_pda_map_animals_1_name">
+		<text>Знайти карту міграції</text>
+	</string>
+	<string id="agr_pda_map_animals_1_text">
+		<text>Знайти карту міграції рідких монстрів Зони</text>
+	</string>
+	<string id="agr_pda_map_animals_2_name">
+		<text>Принести карту міграції</text>
+	</string>
+	<string id="agr_pda_map_animals_2_text">
+		<text>Принести карту міграції Інквізиторові</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_1_name">
+		<text>Допомогти сталкерам</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_1_text">
+		<text>Група сталкерів пробивається через драговини до вчених на Янтар. Допомогти сталкерам здолати цей шлях живими.</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_2_name">
+		<text>Забрати нагороду</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_2_text">
+		<text>Забрати нагороду в Платонова</text>
+	</string>
+	<string id="agr_start_name">
+		<text>Поговорити із командиром блокпосту</text>
+	</string>
+	<string id="agr_start_text">
+		<text>Отримати інформацію про ситуації на Агропромі в командира блокпосту</text>
+	</string>
+	<string id="agr_take_reward_name">
+		<text>Одержати нагороду в Крилова</text>
+	</string>
+	<string id="agr_take_reward_text">
+		<text>Підземелля затоплене, тому атаки мутантів на «Долг» на якийсь час припиняться. Генерал Крилов готовий добре винагородити за успішно проведену операцію. Одержати нагороду в Крилова.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ab_pkm_name">
+		<text>Знайти інформацію про балансування автоматики кулемета</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ab_pkm_text">
+		<text>Технік Громов відшукує спосіб збільшити скорострільність кулемета шляхом нового балансування механізмів автоматики. За потрібну інформацію такого роду він готовий добре заплатити.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_abcd_pkm_name">
+		<text>Знайти інформацію про модифікації системи відведення газів у кулеметі</text>
+	</string>
+	<string id="st_agr_find_flesh_up_abcd_pkm_text">
+		<text>Громову не вистачає справжніх дрібниць для того, щоб зробити бойові характеристики кулемета максимально досконалими: трохи вільного часу і деякі технічні дані щодо системи відведення газів.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_desert_eagle_name">
+		<text>Знайти інформацію про дулове гальмо для пістолета</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_desert_eagle_text">
+		<text>Технік сталкерів на Агропромі шукає інформацію про дулове гальмо для потужних пістолетів.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_spas12_name">
+		<text>Знайти інформацію про помпові механізми для бойових дробовиків</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_spas12_text">
+		<text>Технік сталкерів на Агропромі шукає інформацію про помпові механізми бойових дробовиків.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_bd_desert_eagle_name">
+		<text>Знайти інформацію про модифікації ствола для пістолетів</text>
+	</string>
+	<string id="st_agr_find_flesh_up_bd_desert_eagle_text">
+		<text>Техніку сталкерів не вистачає досвіду, щоб модифікувати ствол потужного пістолета. Він готовий заплатити за потрібну інформацію.</text>
+	</string>
+	<string id="st_agr_find_flesh_up_cd_pkm_name">
+		<text>Знайти інформацію про дулове гальмо для кулемета</text>
+	</string>
+	<string id="st_agr_find_flesh_up_cd_pkm_text">
+		<text>Технік «Долгу» працює над удосконаленим дулового гальма для кулемета, але йому бракує технічної інформації із цього питання.</text>
+	</string>
+	<string id="agr_attack_monster_group_name">
+		<text>Знищити лігвище монстрів</text>
+	</string>
+	<string id="agr_attack_monster_group_text">
+		<text>Час від часу невеликі зграї мутантів атакують сталкерів на заводі. Якщо влаштувати зачистку в лігвищі мутантів на північ від заводу, то атаки мають припинитися.</text>
+	</string>
+	<string id="agr_recover_item_1_name">
+		<text>Повернути «долговцеві» дробовик</text>
+	</string>
+	<string id="agr_recover_item_1_text">
+		<text>Есть такое дело: мы зачищали территорию от монстров и встретили здоровенную тварь. Бой шёл не меньше часа, патроны на исходе, а тварь и не думала дохнуть. Я дал команду отходить, а сам остался, чтоб её задержать, пока ребята отбегут на безопасное расстояние. Отстрелял оставшиеся патроны - и пришлось, понимаешь, швырять дробовик прямо твари в башку. А она, тупая, стала ствол грызть, на меня в первые секунды ноль внимания, только поэтому и ушёл. Но дробовика жаль. Принеси мне его, все ж таки не раз он мне жизнь спасал.</text>
+	</string>
+	<string id="agr_recover_item_2_name">
+		<text>Повернути КПК із секретною інформацією</text>
+	</string>
+	<string id="agr_recover_item_2_text">
+		<text>Наёмник, меня на свалке ограбили бандиты, забрали всё что было: деньги, оружие, патроны и все медикаменты. Но самое главное то, что со всем этим забрали мой КПК с информацией о расположении групп бандитов на Свалке. Если я не принесу Крылову эти данные, он меня в порошок сотрёт. Помоги вернуть КПК, а?</text>
+	</string>
+	<string id="agr_recover_item_3_name">
+		<text>Повернути кейс «долговця»</text>
+	</string>
+	<string id="agr_recover_item_3_text">
+		<text>Наёмник, когда в подземелье начали появляться монстры, нам пришлось оставить свои позиции и отступить. Но там остался кейс, в котором лежат ценные для меня вещи: оружие, патроны, медикаменты, детектор. Всё это пришлось оставить: нужно было быстро отходить, шкуру спасать. Помоги достать тот кейс.</text>
+	</string>
+	<string id="agr_recover_item_4_name">
+		<text>Принести автомат «долговця»</text>
+	</string>
+	<string id="agr_recover_item_4_text">
+		<text>Я по пустяку поругался с проводником, который не желает меня вести к сталкерам. Говорит, что со мной общаться больше не хочет. А одному идти по Зоне - себе дороже. У сталкеров я оставил свой ствол, когда ходил к ним на прошлой неделе. Мы новое звание нашего товарища малость праздновали, ну выпили немного, как же без этого. В тот вечер еле-еле до казармы дошли, а я автомат свой забыл. Наёмник, принеси мне мой ствол, а то я без своего оружия даже как-то вроде и не боец.</text>
+	</string>
+</string_table>

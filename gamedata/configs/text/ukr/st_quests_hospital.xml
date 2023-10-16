@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>Знайти дорогу до ЧАЕС</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>Шлях до ЧАЕС лежить через зруйнований госпіталь. Слід поспішити: якщо Стрілець пройшов Випалювач, він уже дуже близький до станції. Необхідно знайти вхід до катакомб.</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>Збити вертоліт</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>Збити військовий вертоліт</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>Убити снайпера</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>Із цієї позиції снайпер не захищений. Треба вбити його.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>Підібратися до снайпера</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>Зал госпіталю прострілюють снайпер і кулеметник. Позиція снайпера добре захищена. Загін «Чистого неба» відверне вогонь на себе. Необхідно пройти на інший бік зали, щоб зняти снайпера.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>Пройти на інший бік зали</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>Кулеметник веде шквальний вогонь на нижньому рівні, а снайпер контролює верхній. Загін «Чистого неба» може ненадовго відвернути вогонь на себе. Необхідно просуватися вперед лише за командою командира загону.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>Дістатися мосту</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>Необхідно дістатися мосту. Рухатися за командою командира загону «Чистого неба», коли його люди відвернуть вогонь на себе.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>Перейти через міст</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>Необхідно дістатися мосту. Рухатися за командою командира загону «Чистого неба», коли його люди відвернуть вогонь на себе.</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>Рухатися до наступної зали</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>Вибух упалого вертольота обвалив перекриття і відкрив прохід до наступної зали. Слід просуватися далі.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>Прикрити загін «Чистого неба»</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>Загін «Чистого неба» просувається вперед для того, щоб підірвати кулеметну точку. Необхідно прикривати його від атак «Моноліту».</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>Протриматися до підходу підмоги</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>Загін «Чистого неба» уже на підході. Необхідно протриматися до їхнього підходу.</text>
+	</string>
+</string_table>

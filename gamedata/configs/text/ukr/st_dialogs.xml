@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>До зустрічі!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>Як ти?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>Хріново мені, чи не бачиш? Треба аптечку або бинт хоча б.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Тримай аптечку.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Спасибі, брате, не забуду.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Тримай бинт.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Вибач, нічого немає.</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>Як же ти Зоною ходиш? Зачепить тебе яка зараза, а ти навіть вилікувати себе не в змозі!</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Хе, що ж ти так?.. Вибач, свої я тобі не дам, інакше сам порожній залишуся.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>Твоя справа, однак не думай, що це робить тобі честь.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_1">
+		<text>Будут подниматся все мишени. Тебе нужно сбить десять штук максимум за</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_2">
+		<text>секунд. Готов поставить</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_3">
+		<text>на то, что ты не справишься вовремя.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_1">
+		<text>Цели будут подниматся в произвольном порядке, начиная с</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_3">
+		<text>из них попаданием в десятку за 30 секунд. Я готов поставить на это</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_1">
+		<text>Поднимется десять целей в произвольном порядке, начиная с</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_2">
+		<text>. Уверен, что ты не поразишь</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_3">
+		<text>из них попаданием в «десятку». Я готов поставить на это</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_4">
+		<text>, а ты?</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_bad">
+		<text>Ха, я опять не ошибся! Ну, не расстраивайся, повезёт в другой раз.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_good">
+		<text>Недооценил я тебя! Держи свои деньги: честно заработал.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_1">
+		<text>Я уверен, что ты не наберешь больше</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_2">
+		<text>очков. Готов поставить на это</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_3">
+		<text>. Ты готов поставить столько же?</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_1">
+		<text>Мазила, ты набрал меньше</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_2">
+		<text>. Тебе рановато играть на деньги. Попробуй потренироваться ещё.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_1">
+		<text>Отлично, ты набил больше</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_2">
+		<text>. Можешь смело переходить к игре на деньги.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_1">
+		<text>Постарайся набрать не меньше</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_2">
+		<text>очков. Удачной стрельбы!</text>
+	</string>
+	<string id="bring_item_task_0">
+		<text>От, я приніс, що ти просив.</text>
+	</string>
+	<string id="bring_item_task_1">
+		<text>Спасибо.</text>
+	</string>
+	<string id="crowkiller_dialog_100">
+		<text>Привет. Как дела? Любишь стрелять по воронам? Могу поспорить, что ты не побьёшь мой рекорд.</text>
+	</string>
+	<string id="crowkiller_dialog_200">
+		<text>А, это опять ты?</text>
+	</string>
+	<string id="crowkiller_dialog_210">
+		<text>Хочешь ещё раз попробовать побить рекорд?</text>
+	</string>
+	<string id="crowkiller_dialog_211">
+		<text>Спочатку поясни мені правила.</text>
+	</string>
+	<string id="crowkiller_dialog_2110">
+		<text>Правила простые: надо за одну минуту с помощью твоего оружия сбить возможно большее количество ворон. Только далеко не уходи, а то не засчитаю.</text>
+	</string>
+	<string id="crowkiller_dialog_212">
+		<text>А який рекорд зараз?</text>
+	</string>
+	<string id="crowkiller_dialog_2120">
+		<text>Текущий рекорд 0</text>
+	</string>
+	<string id="crowkiller_dialog_213">
+		<text>Давай постреляем.</text>
+	</string>
+	<string id="crowkiller_dialog_214">
+		<text>Ні, спасибі. Я, мабуть, піду.</text>
+	</string>
+	<string id="crowkiller_dialog_220">
+		<text>Я же говорил, чтобы ты далеко не уходил. Не считается.</text>
+	</string>
+	<string id="crowkiller_dialog_230">
+		<text>Время вышло.</text>
+	</string>
+	<string id="crowkiller_dialog_231">
+		<text>Поздравляю, ты побил рекорд.</text>
+	</string>
+	<string id="crowkiller_dialog_232">
+		<text>К сожалению, ты не справился.</text>
+	</string>
+	<string id="crowkiller_dialog_300">
+		<text>Не трать напрасно время.</text>
+	</string>
+	<string id="crowkiller_dialog_crows_per_minute">
+		<text>Думаю</text>
+	</string>
+	<string id="crowkiller_dialog_money_stake">
+		<text>Ну, тогда ставка</text>
+	</string>
+	<string id="crowkiller_dialog_record_crows">
+		<text>Вот это выбор реального пацана! Тебе нужно за минуту успеть вынести как можно больше ворон. Рекорд сейчас</text>
+	</string>
+	<string id="crowkiller_dialog_record_stake">
+		<text>Ну, при таком рекорде ставка равна</text>
+	</string>
+	<string id="crowkiller_game_get_ready">
+		<text>Приготуватися!</text>
+	</string>
+	<string id="crowkiller_game_runned_out">
+		<text>Ви вийшли із зони!</text>
+	</string>
+	<string id="crowkiller_game_time_is_out">
+		<text>Час вийшов!</text>
+	</string>
+	<string id="crowkiller_game_crows_killed">
+		<text>Убито гав:</text>
+	</string>
+	<string id="default_robbery_dialog_0">
+		<text>Мужик, плати рупь ілі йди, откуда прийшов!</text>
+	</string>
+	<string id="default_robbery_dialog_1">
+		<text>Нема питань. Маєш свій рупь.</text>
+	</string>
+	<string id="default_robbery_dialog_11">
+		<text>Ну, прахаді... Тока не здумай шумєть, а то пристрелимо нах!</text>
+	</string>
+	<string id="default_robbery_dialog_111">
+		<text>Добро.</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>Привіт!</text>
+	</string>
+	<string id="dm_information_general">
+		<text>Що нового у Зоні?</text>
+	</string>
+	<string id="dm_information_no_more">
+		<text>Більше нічого не знаю</text>
+	</string>
+	<string id="dm_occupation_general">
+		<text>Що ти тут робиш?</text>
+	</string>
+	<string id="dm_occupation_no_more">
+		<text>Нічо більше не скажу.</text>
+	</string>
+	<string id="dm_place_general">
+		<text>Розкажи про це місце.</text>
+	</string>
+	<string id="dm_place_no_more">
+		<text>Більше нічого не знаю!</text>
+	</string>
+	<string id="dm_wounded_bandage">
+		<text>Тримай бинт.</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>Допоможіть!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>Тримай аптечку.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>Вибач, нічого немає.</text>
+	</string>
+	<string id="dm_wounded_thanks">
+		<text>Спасибі тобі велике.</text>
+	</string>
+	<string id="exchange_flash_card_0">
+		<text>У мене є інформація про вдосконалення. Готовий глянути?</text>
+	</string>
+	<string id="exchange_flash_card_1">
+		<text>Не те слово. Дивися, які ціни я можу запропонувати за інформацію:</text>
+	</string>
+	<string id="exchange_flash_card_11">
+		<text>Флешка1</text>
+	</string>
+	<string id="exchange_flash_card_12">
+		<text>Флешка2</text>
+	</string>
+	<string id="exchange_flash_card_13">
+		<text>Флешка3</text>
+	</string>
+	<string id="exchange_flash_card_14">
+		<text>Флешка4</text>
+	</string>
+	<string id="exchange_flash_card_15">
+		<text>Бувай.</text>
+	</string>
+	<string id="exchange_flash_card_21">
+		<text>Чудесно. Тримай гроші. Тепер я зможу зробити нові вдосконалення.</text>
+	</string>
+	<string id="exchange_flash_card_22">
+		<text>Чудесно. Тримай гроші. Тепер я зможу зробити нові вдосконалення.</text>
+	</string>
+	<string id="exchange_flash_card_23">
+		<text>Чудесно. Тримай гроші. Тепер я зможу зробити нові вдосконалення.</text>
+	</string>
+	<string id="exchange_flash_card_24">
+		<text>Чудесно. Тримай гроші. Тепер я зможу зробити нові вдосконалення.</text>
+	</string>
+	<string id="find_upgrade_task_0">
+		<text>Я знайшов інформацію про вдосконалення, котру ти шукав.</text>
+	</string>
+	<string id="find_upgrade_task_1">
+		<text>Спасибі за допомогу. Тепер я зможу зробити нові вдосконалення.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>Привіт!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Чуєш, брате, допоможи!</text>
+	</string>
+	<string id="recover_item_task_0">
+		<text>Ось, я повернув те, що ти просив.</text>
+	</string>
+	<string id="recover_item_task_1">
+		<text>Спасибі.</text>
+	</string>
+	<string id="shooting_dialog_0">
+		<text>Чого тобі?</text>
+	</string>
+	<string id="shooting_dialog_1">
+		<text>Хочу тренування!</text>
+	</string>
+	<string id="shooting_dialog_2">
+		<text>Вали!</text>
+	</string>
+	<string id="shooting_dialog_3">
+		<text>Хочу на очки!</text>
+	</string>
+	<string id="shooting_dialog_31">
+		<text>До скольки очков?</text>
+	</string>
+	<string id="shooting_dialog_311">
+		<text>До п'ятдесяти.</text>
+	</string>
+	<string id="shooting_dialog_312">
+		<text>До семидесяти п'яти.</text>
+	</string>
+	<string id="shooting_dialog_313">
+		<text>До сотні.</text>
+	</string>
+	<string id="shooting_dialog_4">
+		<text>Хочу на кількість!</text>
+	</string>
+	<string id="shooting_dialog_41">
+		<text>До скольки мишеней?</text>
+	</string>
+	<string id="shooting_dialog_411">
+		<text>До п'яти.</text>
+	</string>
+	<string id="shooting_dialog_4111">
+		<text>На каком расстоянии?</text>
+	</string>
+	<string id="shooting_dialog_41111">
+		<text>П'ять метрів.</text>
+	</string>
+	<string id="shooting_dialog_411111">
+		<text>Выбирай оружие: пистолет или автомат?</text>
+	</string>
+	<string id="shooting_dialog_4111111">
+		<text>Пістолет.</text>
+	</string>
+	<string id="shooting_dialog_4111112">
+		<text>Автомат.</text>
+	</string>
+	<string id="shooting_dialog_41112">
+		<text>Семь метров.</text>
+	</string>
+	<string id="shooting_dialog_41113">
+		<text>Десять метров.</text>
+	</string>
+	<string id="shooting_dialog_412">
+		<text>До семи.</text>
+	</string>
+	<string id="shooting_dialog_413">
+		<text>До десяти.</text>
+	</string>
+	<string id="shooting_dialog_5">
+		<text>Ну как?</text>
+	</string>
+	<string id="shooting_dialog_51">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_5111">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_511111">
+		<text>Хочешь ещё?</text>
+	</string>
+	<string id="shooting_dialog_52">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_5211">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_53">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_5311">
+		<text>нуль</text>
+	</string>
+	<string id="shooting_dialog_6">
+		<text>Пока.</text>
+	</string>
+	<string id="shooting_dialog_71">
+		<text>Ну?..</text>
+	</string>
+	<string id="test_dialog_0">
+		<text>Привіт.</text>
+	</string>
+	<string id="test_dialog_1">
+		<text>Так.</text>
+	</string>
+	<string id="test_dialog_3">
+		<text>Не знаю.</text>
+	</string>
+	<string id="tm_mechanic_task_0">
+		<text>Яку зброю ти можеш удосконалити?</text>
+	</string>
+	<string id="tm_random_task_0">
+		<text>Чим я можу допомогти вам?</text>
+	</string>
+	<string id="tm_random_task_1">
+		<text>Є дещо:</text>
+	</string>
+	<string id="tm_random_task_11">
+		<text>Захопити об'єкт:</text>
+	</string>
+	<string id="tm_random_task_12">
+		<text>Захоплення2</text>
+	</string>
+	<string id="tm_random_task_13">
+		<text>Повернути предмет.</text>
+	</string>
+	<string id="tm_random_task_14">
+		<text>Принести предмети.</text>
+	</string>
+	<string id="tm_random_task_15">
+		<text>Спасибі, передумав.</text>
+	</string>
+	<string id="tm_random_task_2">
+		<text>Нічим.</text>
+	</string>
+	<string id="tm_random_task_21">
+		<text>ОК</text>
+	</string>
+	<string id="tm_random_task_22">
+		<text>ОК</text>
+	</string>
+	<string id="tm_random_task_23">
+		<text>Ти впевнений, що упораєшся із цим завданням?</text>
+	</string>
+	<string id="tm_random_task_24">
+		<text>ОК</text>
+	</string>
+	<string id="tm_random_task_33">
+		<text>Так.</text>
+	</string>
+	<string id="tm_random_task_34">
+		<text>Ні.</text>
+	</string>
+	<string id="tm_random_task_43">
+		<text>ОК</text>
+	</string>
+	<string id="tm_reward_task_0">
+		<text>Є щось для мене?</text>
+	</string>
+	<string id="tm_reward_task_1">
+		<text>Так, ти добре допоміг нам. Маєш нагороду.</text>
+	</string>
+	<string id="tm_reward_task_2">
+		<text>Вибач, але тобі поки нема за що видавати нагороду.</text>
+	</string>
+	<string id="tm_upgr_task_0">
+		<text>Чи є для мене яка робота?</text>
+	</string>
+	<string id="tm_upgr_task_1">
+		<text>Мені необхідна інформація про вдосконалення.</text>
+	</string>
+	<string id="tm_upgr_task_11">
+		<text>Зброя та броня.</text>
+	</string>
+	<string id="tm_upgr_task_21">
+		<text>Є. Я давно шукаю схеми деяких удосконалень. Якщо раптом вони тобі трапляться, не поспішай викидати, краще мені принеси. Дивися, оце список схем, що мене цікавлять:</text>
+	</string>
+	<string id="tm_upgr_task_31">
+		<text>Завдання1</text>
+	</string>
+	<string id="tm_upgr_task_32">
+		<text>Завдання2</text>
+	</string>
+	<string id="tm_upgr_task_33">
+		<text>Завдання3</text>
+	</string>
+	<string id="tm_upgr_task_34">
+		<text>Завдання4</text>
+	</string>
+	<string id="tm_upgr_task_35">
+		<text>Завдання5</text>
+	</string>
+	<string id="tm_upgr_task_41">
+		<text>Згоден?</text>
+	</string>
+	<string id="tm_upgr_task_42">
+		<text>Згоден?</text>
+	</string>
+	<string id="tm_upgr_task_43">
+		<text>Згоден?</text>
+	</string>
+	<string id="tm_upgr_task_44">
+		<text>Згоден?</text>
+	</string>
+	<string id="tm_upgr_task_45">
+		<text>Згоден?</text>
+	</string>
+	<string id="tm_upgr_task_51">
+		<text>Добре, як щось знайду - принесу.</text>
+	</string>
+	<string id="tm_upgr_task_52">
+		<text>Так.</text>
+	</string>
+	<string id="tm_upgr_task_53">
+		<text>Так.</text>
+	</string>
+	<string id="tm_upgr_task_54">
+		<text>Так.</text>
+	</string>
+	<string id="tm_upgr_task_55">
+		<text>Так.</text>
+	</string>
+	<string id="tm_upgr_task_56">
+		<text>Можливо, іншим разом.</text>
+	</string>
+	<string id="tm_upgr_task_61">
+		<text>Щасти тобі.</text>
+	</string>
+	<string id="tm_upgr_task_62">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_63">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_64">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_65">
+		<text>text in default</text>
+	</string>
+	<string id="tm_weapon_up_task_0">
+		<text>Є спецзавдання?</text>
+	</string>
+	<string id="tm_weapon_up_task_1">
+		<text>Дещо є:</text>
+	</string>
+	<string id="tm_weapon_up_task_11">
+		<text>Пістолети.</text>
+	</string>
+	<string id="tm_weapon_up_task_111">
+		<text>ОК</text>
+	</string>
+	<string id="tm_weapon_up_task_12">
+		<text>Автомати.</text>
+	</string>
+	<string id="tm_weapon_up_task_121">
+		<text>ОК</text>
+	</string>
+	<string id="tm_weapon_up_task_13">
+		<text>Гвинтівки.</text>
+	</string>
+	<string id="tm_weapon_up_task_131">
+		<text>ОК</text>
+	</string>
+	<string id="tm_weapon_up_task_14">
+		<text>Дробовики.</text>
+	</string>
+	<string id="tm_weapon_up_task_141">
+		<text>ОК</text>
+	</string>
+	<string id="tm_weapon_up_task_2">
+		<text>Немає.</text>
+	</string>
+	<string id="treasure_dialog_0">
+		<text>Що ти можеш мені запропонувати?</text>
+	</string>
+	<string id="treasure_dialog_11">
+		<text>І скільки мені це коштуватиме?</text>
+	</string>
+	<string id="treasure_dialog_1111">
+		<text>То що ж там усе-таки лежить?</text>
+	</string>
+	<string id="treasure_dialog_11111">
+		<text>Тоді скидаю тобі координати.</text>
+	</string>
+	<string id="treasure_dialog_1112">
+		<text>Згоден.</text>
+	</string>
+	<string id="treasure_dialog_11121">
+		<text>Ну, заходь, як назбираєш.</text>
+	</string>
+	<string id="treasure_dialog_1113">
+		<text>Це навряд чи. Нема в мене стільки.</text>
+	</string>
+	<string id="treasure_dialog_11131">
+		<text>Гадки не маю.</text>
+	</string>
+	<string id="treasure_dialog_1114">
+		<text>Не цікавить.</text>
+	</string>
+	<string id="treasure_dialog_12">
+		<text>Ні, спасибі.</text>
+	</string>
+	<string id="treasure_dialog_121">
+		<text>Ну як хочеш.</text>
+	</string>
+	<string id="treasure_dialog_131">
+		<text>text in default</text>
+	</string>
+	<string id="treasure_dialog_2">
+		<text>Нічого цікавого нема.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>Добре, бувай.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>До зустрічі.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>Тоді пока.</text>
+	</string>
+	<string id="st_tm_guide_0">
+		<text>Куди ти можеш мене відвести?</text>
+	</string>
+	<string id="st_tm_guide_1">
+		<text>Поки нікуди.</text>
+	</string>
+	<string id="st_tm_guide_2">
+		<text>Та є пара місць. Однак ти врахуй, я воджу лише туди, куди знаю безпечний шлях, і оплату беру за відстань із того, хто не наш. То куди треба?</text>
+	</string>
+	<string id="st_tm_guide_21">
+		<text>Готовий вирушати?</text>
+	</string>
+	<string id="st_tm_guide_211">
+		<text>Так, пішли.</text>
+	</string>
+	<string id="st_tm_guide_212">
+		<text>Трохи пізніше.</text>
+	</string>
+	<string id="st_tm_guide_3">
+		<text>Порожньо</text>
+	</string>
+</string_table>

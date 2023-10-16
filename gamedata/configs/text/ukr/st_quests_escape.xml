@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="esc_additional_quest_1_name">
+		<text>Документи на базі військових</text>
+	</string>
+	<string id="esc_additional_quest_1_text">
+		<text>Документи на базі військових</text>
+	</string>
+	<string id="esc_additional_quest_2_name">
+		<text>Продовольство</text>
+	</string>
+	<string id="esc_additional_quest_2_text">
+		<text>Продовольство</text>
+	</string>
+	<string id="esc_bring_habar">
+		<text>Повернути торговцеві хабар</text>
+	</string>
+	<string id="esc_bring_habar_text">
+		<text>Необхідно повернути торговцеві кейс із хабаром</text>
+	</string>
+	<string id="esc_defend_stalkers_base_name">
+		<text>Захистити базу сталкерів</text>
+	</string>
+	<string id="esc_defend_stalkers_base_text">
+		<text>Захистити базу сталкерів від нападу</text>
+	</string>
+	<string id="esc_defend_stalkers_bus_station_name">
+		<text>Захистити патруль</text>
+	</string>
+	<string id="esc_defend_stalkers_bus_station_text">
+		<text>Захистити патруль сталкерів у районі автобусної зупинки</text>
+	</string>
+	<string id="esc_defend_stalkers_tonnel_name">
+		<text>Допомогти відбити атаку</text>
+	</string>
+	<string id="esc_defend_stalkers_tonnel_text">
+		<text>Допомогти відбити атаку</text>
+	</string>
+	<string id="esc_dopros">
+		<text>Допитати командира військових</text>
+	</string>
+	<string id="esc_dopros_text">
+		<text>Допитати Халецького і з'ясувати, де захований кейс із хабаром, що так необхідний Сидоровичу</text>
+	</string>
+	<string id="esc_driver_friend_1_name">
+		<text>Знайти КПК</text>
+	</string>
+	<string id="esc_driver_friend_1_text">
+		<text>Знайти КПК із цінною інформацією у військового, загиблого в аномалії</text>
+	</string>
+	<string id="esc_driver_friend_2_name">
+		<text>Повернути КПК</text>
+	</string>
+	<string id="esc_driver_friend_2_text">
+		<text>Повернути знайдений КПК сержантові Овечку</text>
+	</string>
+	<string id="esc_eliminate_smart_military_5_9">
+		<text>Знищити військових на елеваторі</text>
+	</string>
+	<string id="esc_eliminate_smart_military_5_9_text">
+		<text>Знищити групу військових на елеваторі, що була помічена розвідниками</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_name">
+		<text>Знищити бандитів</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_reward_name">
+		<text>Одержати нагороду</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_reward_text">
+		<text>Забрати нагороду за знищених бандитів у торговця</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_text">
+		<text>Знищити бандитів на зруйнованому хуторі. Це допоможе покінчити із пограбуваннями сталкерів, які повертаються із хабаром на базу</text>
+	</string>
+	<string id="esc_eliminate_smart_military_7_11">
+		<text>Знищити військових на АТП</text>
+	</string>
+	<string id="esc_eliminate_smart_military_7_11_text">
+		<text>Знищити загін військових у районі АТП, що був помічений розвідниками. Це основні сили операції зі звільнення Халецького</text>
+	</string>
+	<string id="esc_eliminate_smart_stalker_6_8">
+		<text>Знищити снайперів</text>
+	</string>
+	<string id="esc_eliminate_smart_stalker_6_8_text">
+		<text>Знищити снайперів</text>
+	</string>
+	<string id="esc_eliminate_stalkerbase_5_7">
+		<text>Захопити базу сталкерів</text>
+	</string>
+	<string id="esc_eliminate_stalkerbase_5_7_text">
+		<text>Захопити базу сталкерів</text>
+	</string>
+	<string id="esc_find_upgrade_1_name">
+		<text>Знайти вдосконалення</text>
+	</string>
+	<string id="esc_find_upgrade_1_text">
+		<text>Один із моїх друзів-механіків послав до мене людину - той ніс із собою на флеш-карті деяку інформацію про модифікації АКМ. Тільки дорогою він наткнувся на лігвище псевдособак і загинув. Кого я тільки не просив повернути мені картку, ніхто не зголосився туди піти: бояться. Зможеш повернути мені флешку? Винагороду гарантую.</text>
+	</string>
+	<string id="esc_find_upgrade_2_name">
+		<text>Знайти вдосконалення</text>
+	</string>
+	<string id="esc_find_upgrade_2_text">
+		<text>Один із моїх друзів-механіків послав до мене людину - той ніс із собою на флеш-карті деяку інформацію про модифікації АКМ. Тільки дорогою він наткнувся на лігвище псевдособак і загинув. Кого я тільки не просив повернути мені картку, ніхто не зголосився туди піти: бояться. Зможеш повернути мені флешку? Винагороду гарантую.</text>
+	</string>
+	<string id="esc_novice_stalker_1_name">
+		<text>Допомогти сталкерові</text>
+	</string>
+	<string id="esc_novice_stalker_1_text">
+		<text>Допомогти сталкерові відбитися від зграї сліпих псів</text>
+	</string>
+	<string id="esc_novice_stalker_2_name">
+		<text>Супроводити сталкера</text>
+	</string>
+	<string id="esc_novice_stalker_2_text">
+		<text>Супроводити сталкера до Селища новачків</text>
+	</string>
+	<string id="esc_novice_stalker_3_name">
+		<text>Одержати нагороду</text>
+	</string>
+	<string id="esc_novice_stalker_3_text">
+		<text>Одержати нагороду у Вовка за порятунок сталкера від зграї сліпих псів</text>
+	</string>
+	<string id="esc_prapor">
+		<text>Зустрітися із прапором</text>
+	</string>
+	<string id="esc_prapor_text">
+		<text>Зустрітися із прапором</text>
+	</string>
+	<string id="esc_reach_garbage">
+		<text>Зустрітися з дигером на Смітнику</text>
+	</string>
+	<string id="esc_reach_garbage_text">
+		<text>Зустрітися з дигером на Смітнику</text>
+	</string>
+	<string id="esc_reach_stalker_base">
+		<text>Зустрітися зі сталкерами за насипом</text>
+	</string>
+	<string id="esc_reach_stalker_base_text">
+		<text>Поговорити із командиром сталкеров Валеріаном. Саме він може знати подробиці про хабар, що його шукає Сидорович</text>
+	</string>
+	<string id="esc_reach_trader">
+		<text>Поговорити із торговцем</text>
+	</string>
+	<string id="esc_reach_trader_text">
+		<text>Поговорити із торговцем</text>
+	</string>
+	<string id="esc_rescue_patrol">
+		<text>Допомогти сталкерам</text>
+	</string>
+	<string id="esc_rescue_patrol_text">
+		<text>Допомогти сталкерам</text>
+	</string>
+	<string id="esc_stalker_enemy_name">
+		<text>Повернути собі довіру сталкерів</text>
+	</string>
+	<string id="esc_stalker_enemy_text">
+		<text>Відносини з угрупованням сталкерів зіпсовано. Необхідно повернути собі їхню довіру за посередництва Сидоровича</text>
+	</string>
+	<string id="esc_take_habar">
+		<text>Забрати хабар</text>
+	</string>
+	<string id="esc_take_habar_text">
+		<text>Забрати хабар</text>
+	</string>
+	<string id="esc_take_prisoner_secret">
+		<text>Знайти схованку Халецького</text>
+	</string>
+	<string id="esc_take_prisoner_secret_text">
+		<text>Знайти схованку Халецького</text>
+	</string>
+	<string id="esc_take_weapon_name">
+		<text>Забрати зброю</text>
+	</string>
+	<string id="esc_take_weapon_text">
+		<text>Забрати зброю</text>
+	</string>
+	<string id="esc_talk2_comm">
+		<text>Поговорити із Халецьким</text>
+	</string>
+	<string id="esc_talk2_comm_text">
+		<text>Поговорити із Халецьким</text>
+	</string>
+	<string id="esc_talk2_leader">
+		<text>Зустрітися із лідером сталкерів</text>
+	</string>
+	<string id="esc_talk2_leader_2">
+		<text>Поговорити із лідером сталкерів</text>
+	</string>
+	<string id="esc_talk2_leader_2_text">
+		<text>Поговорити із лідером сталкерів</text>
+	</string>
+	<string id="esc_talk2_leader_text">
+		<text>Зустрітися із лідером сталкерів</text>
+	</string>
+	<string id="esc_talk2_trader">
+		<text>Поговорити із торговцем</text>
+	</string>
+	<string id="esc_wolf_brother_1_name">
+		<text>Врятувати брата з полону</text>
+	</string>
+	<string id="esc_wolf_brother_1_text">
+		<text>Врятувати брата з полону</text>
+	</string>
+	<string id="esc_wolf_brother_2_name">
+		<text>Супроводити брата до Селища новачків</text>
+	</string>
+	<string id="esc_wolf_brother_2_text">
+		<text>Супроводити брата до Селища новачків</text>
+	</string>
+	<string id="esc_wolf_brother_3_name">
+		<text>Забрати нагороду</text>
+	</string>
+	<string id="esc_wolf_brother_3_text">
+		<text>Забрати нагороду у Вовка</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_ak74u_name">
+		<text>Знайти інформацію про балансування автоматики</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_ak74u_text">
+		<text>Фургонові - техніку сталкерів біля Кордону - необхідна інформація про балансування автоматики.</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_wincheaster1300_name">
+		<text>Знайти інформацію про помпові механізми для дробовиків</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_wincheaster1300_text">
+		<text>За наявності інформації про помповий механізм технік сталкерів зможе значно підвищити темп вогню дробовика.</text>
+	</string>
+	<string id="st_esc_find_flesh_up_bd_wincheaster1300_name">
+		<text>Знайти інформацію про електронну стабілізацію</text>
+	</string>
+	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
+		<text>Технік сталкерів може зібрати пристрій, котрий збільшить точність бою помпового дробовика, однак йому бракує технічної інформації.</text>
+	</string>
+	<string id="esc_recover_item_1_name">
+		<text>Принести «чарівну горілку»</text>
+	</string>
+	<string id="esc_recover_item_1_text">
+		<text>Жив у нас тут у Зоні хімік один. Не те, щоб хімією займався чи алхімією якою, але «чарівну горілку» готував на ура. Такий уже цілющий напій! Вип'єш - і одразу забуваєш про всіх: про Зону, про мутантів, про аномалії. Тобі вже нічого не страшно, все одно, хто ти є і що з тобою - коротше, вставляє отак-о! За тую горілку такі ціни набивали, мамцю моя! Врешті до того дійшли, що хіміка чи то через заздрість, чи то через жадібність вирішили отруїти. Ні собі ні людям, як то кажуть... Ну й отруїли, немає більше нашого хіміка, і горілку таку ніхто не знає як робити. Але мені розповіли, що в покійного було кілька схованок у різних місцях. Тож я про одну довідався, і тебе прошу принести з неї того нектару хоча б одну пляшку, а нагорода за мною.</text>
+	</string>
+	<string id="esc_recover_item_2_name">
+		<text>Принести трофейний АКМ-74/2</text>
+	</string>
+	<string id="esc_recover_item_2_text">
+		<text>Знаєш я колекціонер, збираю рідкісні стволи. У мене експонатів на цілий музей уже, та немає однієї дивини - особливого АКМ-74/2. Цей «калаш» - не просто гарна зброя, вона цінніша за будь-яку іншу! З неї вбивали таких мутантів, котрих ти ніколи й не бачив. Я чув, що власник цього дива був не просто відмінним стрільцем, а легендою Зони, міг вибратися із будь-якої ситуації, із будь-якої аномалії... Про нього вже давно новин не чутно, зате я недавно довідався, де захована його зброя. Туди не всяк зможе дістатися, але я маю володіти цим автоматом. Найманцю, принеси мені його.</text>
+	</string>
+	<string id="esc_recover_item_3_name">
+		<text>Повернути щасливий детектор</text>
+	</string>
+	<string id="esc_recover_item_3_text">
+		<text>Найманцю, допоможи мені. Розумієш, тут таке діло: я нещодавно собі новий детектор купив, потужніший за мій старий, і з радощів той старий жбурнув до аномалії. Але ця нова шняга якась нещаслива, уже третій тиждень жодного артефакта знайти не можу, хоч лусни. Я так думаю, продвинутий детектор - це добре, але поверни мені мій старий, він мені як друг був. А з мене нагорода, як то й належить.</text>
+	</string>
+	<string id="esc_recover_item_4_name">
+		<text>Принести спецаптечку</text>
+	</string>
+	<string id="esc_recover_item_4_text">
+		<text>Найманцю, недавно від бандитів на Смітнику втік мій старий приятель. Ті паскуди заради забави ганяли його насипом між аномаліями, де радіація зашкалює. Зараз він ледве живий, звичайний антирад йому не допомагає, тут треба щось сильніше. Я чув, у військових є спеціальні аптечки на такий випадок. Якщо зможеш дістати таку аптечку, то з мене винагорода.</text>
+	</string>
+</string_table>

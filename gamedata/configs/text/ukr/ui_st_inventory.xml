@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_activate_artefact">
+		<text>активувати артефакт</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>прикріпити гранатомет до гвинтівки</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>прикріпити приціл до пістолета</text>
+	</string>
+	<string id="st_attach_scope_to_rifle">
+		<text>прикріпити приціл до гвинтівки</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>прикріпити глушник до пістолета</text>
+	</string>
+	<string id="st_attach_silencer_to_rifle">
+		<text>прикріпити глушник до гвинтівки</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Ціна</text>
+	</string>
+	<string id="st_community">
+		<text>Група:</text>
+	</string>
+	<string id="st_condition">
+		<text>Стан</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>від'єднати гранатомет</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>від'єднати приціл</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>від'єднати глушитель</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>надягти костюм</text>
+	</string>
+	<string id="st_drop">
+		<text>викинути</text>
+	</string>
+	<string id="st_drop_all">
+		<text>викинути все</text>
+	</string>
+	<string id="st_eat">
+		<text>з'їсти</text>
+	</string>
+	<string id="st_kg">
+		<text>кг</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>повісити на пояс</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>прибрати до рюкзака</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>перемістити до слота</text>
+	</string>
+	<string id="st_sell_item">
+		<text>продати предмет</text>
+	</string>
+	<string id="st_ui_acid_sensor">
+		<text>Захист від кислоти</text>
+	</string>
+	<string id="st_ui_armor_static">
+		<text>Стан броні</text>
+	</string>
+	<string id="st_ui_fire_sensor">
+		<text>Захист від вогню</text>
+	</string>
+	<string id="st_ui_health_static">
+		<text>Здоров'я</text>
+	</string>
+	<string id="st_ui_main_sensor">
+		<text>Радіоактивне зараження</text>
+	</string>
+	<string id="st_ui_psi_sensor">
+		<text>Захист від псі-впливу</text>
+	</string>
+	<string id="st_ui_radia_sensor">
+		<text>Захист від радіації</text>
+	</string>
+	<string id="st_ui_stamina_state">
+		<text>Витривалість</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>зняти костюм</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>розрядити</text>
+	</string>
+	<string id="st_use">
+		<text>використати</text>
+	</string>
+	<string id="st_weight">
+		<text>Вага</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Точність</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>Купити базові патрони для пістолета (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Купити патрони для гвинтівки (W)</text>
+	</string>
+	<string id="ui_inv_bag">
+		<text>Рюкзак</text>
+	</string>
+	<string id="ui_inv_belt">
+		<text>Пояс</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Кровотеча</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Скасування</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Неможливо купити зброю</text>
+	</string>
+	<string id="ui_inv_clear">
+		<text>Очистити</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Обмеження по кількості</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Ушкодження</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Стартовий (F5)</text>
+	</string>
+	<string id="ui_inv_description">
+		<text>Опис</text>
+	</string>
+	<string id="ui_inv_drop">
+		<text>Викласти</text>
+	</string>
+	<string id="ui_inv_equipment">
+		<text>Устаткування</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Вихід</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Купити підствольник для гвинтівки (D)</text>
+	</string>
+	<string id="ui_inv_granades">
+		<text>Гранати</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Купити гранати для підствольника (E)</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Зручність</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Зараз</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Здоров'я</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Важке</text>
+	</string>
+	<string id="ui_inv_items_list">
+		<text>Список речей</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Купити останній придбаний набір</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Попередній (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Гроші</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Необхідно</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Недостатньо грошей</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Опік</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Хім. опік</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Вибух</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Стійкість до куль</text>
+	</string>
+	<string id="ui_inv_outfit_params">
+		<text>Параметри</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Радіація</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Електрошок</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Удар</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Телепат.</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Розрив</text>
+	</string>
+	<string id="ui_inv_outfits">
+		<text>Костюми</text>
+	</string>
+	<string id="ui_inv_personal">
+		<text>Костюм</text>
+	</string>
+	<string id="ui_inv_pistols">
+		<text>Пістолети</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Витривалість</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Набір 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Набір 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Набір 3 (F3)</text>
+	</string>
+	<string id="ui_inv_primary_weapons">
+		<text>Основне</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Радіація</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Обмеження за рангом</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Темп вогню</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Очистити (C)</text>
+	</string>
+	<string id="ui_inv_rest">
+		<text>Відпочити</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Автомати</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Ситість</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Купити оптичний приціл для гвинтівки (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Продати всі речі з рюкзака (X)</text>
+	</string>
+	<string id="ui_inv_shop">
+		<text>Магазин</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Рушниці</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Купити глушник для пістолета (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Купити глушник для гвинтівки (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Снайперське</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Час</text>
+	</string>
+	<string id="ui_inv_total_money">
+		<text>Усього грошей</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Вага</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Уже є</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Онлайн-послуги S.T.A.L.K.E.R. недоступні.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Неможливо з'єднатися із майстер-сервером</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Захист:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Стартовий</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Придбаний набір збережено як</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Загальна вага:</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>У персонажа бракує грошей</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>У вас бракує грошей</text>
+	</string>
+</string_table>

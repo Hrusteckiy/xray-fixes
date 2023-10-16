@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>Захопити завод</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>Захопити завод із видобутку аномальної субстанції із дна боліт</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>Захопити сторожову вишку</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>Допомогти загону «Чистого неба» відбити сторожову вишку в бандитів</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>Відбити напад бандитів на вишку</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>Відбити контратаку бандитів на сторожову вишку</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>Захопити ферму</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>Захопити ферму на північному сході Боліт, вибивши звідти бандитів</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>Захопити підходи до стежок</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>Убезпечити стежки на Кордон та Агропром, захопивши позиції поблизу них</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>Посилити присутність «Чистого неба» на Болотах</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>Зміцнити позиції «Чистого неба» на Болотах шляхом знищення сил ворога</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>Відправитися із провідником на Кордон</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>Зустрітися із провідником і вийти з ним на Кордон</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>Відправитися із провідником на Болота</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>Попрохати провідника вивести на Болота</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>Узяти Болота під контроль</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>Узяти Болота під контроль, щоб убезпечити шляхи для провідників</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>Поспілкуватися із барменом</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>Розпитати бармена про базу «Чистого неба»</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>Поговорити із Лебедєвим</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>Довідатися, що хотів Лебедєв</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>З'ясувати в Лебедєва, що сталося</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>Розпитати Лебедєва про те, що сталося після другого викиду</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>Домовитися із Лебедєвим про взаємодопомогу</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>Домовитися із Лебедєвим про допомогу під час виходу з Боліт</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>Відправитися до форпосту із провідником</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>Попросити провідника вивести до форпосту</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>Поговорити із Сидоровичем</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>Розпитати Сидоровича про сталкера, який цікавився дивними деталями. Це єдина зачіпка, котра може допомогти розібратися, чому Зону стало так часто трусити викидами.</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>Узяти спорядження в торговця</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>Одержати комплект спорядження в торговця</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>Допомогти форпосту</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>Відгукнутися на сигнал SOS з форпосту «Чистого неба»</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>Убити кабанів</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>Знищити кабанів, які атакують форпост «Чистого неба»</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>Повернутися на базу «Чистого неба»</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>Дістатися укриття на базі «Чистого неба» до того, як почнеться викид</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>Піднятися на вишку</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>Піднятися на вишку, щоб укритися від мутантів</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>Принести гранати</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>Загін «Чистого неба» попросив принести гранати</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>Принести медикаменти</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>Загін «Чистого неба» відчуває брак медикаментів</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>Принести патрони</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>Загону «Чистого неба» потрібні патрони для дробовика</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>Принести патрони</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>Загону «Чистого неба» потрібні пістолетні патрони</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>Принести патрони</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>Загону «Чистого неба» потрібні автоматні патрони</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>Повернути ПМм</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>Під час нічної вилазки наш загін утрапив до лігвища кабанів. Бійців врятувати вже навряд чи вдасться... Але командир загону був озброєний модифікованим ПМм, а така зброя ще має послужити. Потрібно повернути її.</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>Повернути АКМ-74/2у</text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>Кілька днів тому було вчинено напад на наших бійців, коли вони купували у військових партію зброї. Більшість стволів пропала, однак найкращий зразок удалося сховати. Потрібно добути його.</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>Дістати артефакт</text>
+	</string>
+	<string id="st_recover_item_3_text">
+		<text>Загін «Чистого неба» піймав сигнал SOS від одного зі сталкерів. Той повідомляв, що знайшов рідкий артефакт, однак не знає, як вибратися з аномалії, в якій опинився.. Загін не встиг прийти на допомогу - сигнал невдовзі пропав. Необхідно добути артефакт.</text>
+	</string>
+	<string id="st_recover_item_4_name">
+		<text>Повернути КПК</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>Під час нічної розвідки пропав один із кращих наших слідопитів. Треба знайти хоча б його КПК, щоб не пропала зібрана інформація.</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>Повернути комбінезон</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>Недавно ми втратили острівець на Болотах, де проводили експерименти із просочування одягу всякими речовинами. Треба повернути останній зразок куртки, щоб Каланча зміг уповні оцінити результати експерименту.</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>Прийти на допомогу</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>Знайти інформацію про кевлаврові бронежилети</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>Для поліпшення броні Новикову потрібна інформація про кевлаврові бронежилети.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>Знайти інформацію про дулове гальмо</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>Новиков хоче змайструвати спеціальне дулове гальмо, але знає про приниципи роботи цього пристрою надто мало. Потрібно знайти для нього відповідну інформацію.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>Знайти інформацію про модифікації ствола</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>Новиков може зробити насадку на ствол, котра поліпшить балістичні характеристики зброї, але йому бракує даних.</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>Найманцю, не розслаблюйся! Наша задача - узяти під контроль Болота. Якщо не знаєш, що робити, відкрий КПК: там знайдеш активні завдання.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>КПК з інформацією про Болота, зібрана слідопитом «Чистого неба».</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>КПК розвідника «ЧН»</text>
+	</string>
+</string_table>

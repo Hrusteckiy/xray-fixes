@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Знищити противника на перехресті</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Знищити засідку на перехресті</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Знищити кулеметну точку</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>На перехресті точиться справжній бій. Будинок ліворуч утримують бандити. Необхідно розчистити шлях, знищивши кулеметну точку в будинку.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Знищити кулеметну точку</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>На протилежній стороні моста в будинку закріпився ворог. Територія за мостом добре прострілюється: загін «Чистого неба» не зміг перейти міст. Необхідно пробитися до будинку і знищити противника. Сталкери «Чистого неба» відвернуть вогонь на себе</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Відключити генератор</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Електроустановку знайдено. Необхідно відключити генератор і знеструмити огорожу.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Знайти шлях через будівельний майданчик</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>Окраїни Лиманська вже зовсім близько. Шлях до них лежить через недобудований комплекс. Необхідно знайти дорогу через будмайданчик.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Розвідати дорогу через Лиманськ</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Лебедєв наказав розвідати дорогу через Лиманськ для безпечного проходу основних сил «Чистого неба». У місті точаться вуличні бої, тому просуватися потрібно обережно.</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Просуватися до мосту через канал</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>Вогонь ворога надто щільний. Необхідно швидко просуватися у бік мосту через канал.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Знищити засідку</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Знищити засідку</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Повернутися до командира загону</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Необхідно повернутися до командира загону</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Допомогти бійцеві підібратися до снайпера</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Допоможіть бійцеві «Чистого неба» підібратися до снайпера.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Знайти генератор</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>Шлях до снайпера перекрито огородженням під високою напругою. У місті давно немає електрики - отже, огородження живиться від автономного джерела електроенергії. Дроти від огородження ведуть праворуч, до будівлі інституту. Необхідно знайти генератор і відключити його.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Знищити снайпера</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>Огородження знеструмлено. Тепер треба підійти впритул і знищити снайпера.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Знайти командира загону</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Знайти командира загону</text>
+	</string>
+</string_table>

@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_val_box_01_2">
+		<text>Ящик у підвалі</text>
+	</string>
+	<string id="st_val_box_01_2_descr">
+		<text>Скинув речі у підвалі неподалік від дверей із написом «Висока напруга». Зара часу нема, а потім обов'язково заберу.</text>
+	</string>
+	<string id="st_val_electric_box_01">
+		<text>Ничка в електрощитовій</text>
+	</string>
+	<string id="st_val_electric_box_01_descr">
+		<text>На другому поверсі закинутого заводу в електрощитовій влаштував ничку. Назбираю хабара побільше, тоді усе разом баригам здам.</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free">
+		<text>Схованка у тупику колектора</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free_descr">
+		<text>Випадково заблукав у тупик колектора під базою і приховав там трохи барахла у хрестовині труби.</text>
+	</string>
+	<string id="st_val_pipe_02">
+		<text>Схованка у трубі</text>
+	</string>
+	<string id="st_val_pipe_02_descr">
+		<text>На першому поверсі закитнутого заводу, неподалік від сходів, зробив схованку в трубі.</text>
+	</string>
+	<string id="st_val_pipe_02_0000">
+		<text>Труба під цистерною</text>
+	</string>
+	<string id="st_val_pipe_02_0000_descr">
+		<text>На фермі під цистерною в обрізку труби заховав, коли зграя псів на хвіст упала. За першої-ліпшої нагоди заберу.</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01">
+		<text>Схованка на заводі</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01_descr">
+		<text>Схованка класна на закинутому заводі! Прямо напроти входу хрестовина із вентилем. Головне - з іншими подібними не поплутати.</text>
+	</string>
+	<string id="st_val_rucksack_01">
+		<text>Рюкзак у кабіні</text>
+	</string>
+	<string id="st_val_rucksack_01_descr">
+		<text>Треба буде за своїм рюкзаком у перекинутій кабіні КАМАЗа повернутися. Довелося лахи там скинути, щоб від погоні відірватись.</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base">
+		<text>Схрон під ялинкою</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base_descr">
+		<text>Не забути б ту ялинку, під якою речі скинув. Там, щоправда, вхід до колектора поруч, але все єдно можна переплутати.</text>
+	</string>
+	<string id="st_val_rucksack_02">
+		<text>Рюкзак на дереві</text>
+	</string>
+	<string id="st_val_rucksack_02_descr">
+		<text>Усі свої схрони на землі в різних норах роблять, а я собі на дереві організував - жоден не додумається там шукати.</text>
+	</string>
+	<string id="st_val_rucksack_02_02">
+		<text>Секрет під дахом</text>
+	</string>
+	<string id="st_val_rucksack_02_02_descr">
+		<text>За свою схованку я спокійний: якщо хто раптом і візьме в голову шукати її так високо, то треба ще буде по балках до неї стрибати, мов та вивірка.</text>
+	</string>
+	<string id="st_val_rucksack_02_03">
+		<text>Схованка на вежі</text>
+	</string>
+	<string id="st_val_rucksack_02_03_descr">
+		<text>Рюкзак вирішив від свого напарника заникати - типу впустив дорогою. Цей лох повівся. На водонапірній вежі лежить хабар, на мене чекає.</text>
+	</string>
+	<string id="st_val_rucksack_02_2">
+		<text>Рюкзак в елеваторі</text>
+	</string>
+	<string id="st_val_rucksack_02_2_descr">
+		<text>Як пішла ця бодяга із перестрілкою, хабар ховати особливого часу не було. Скинув рюкзак у «кишці» під дошками. Прийде час - повернуся за ним.</text>
+	</string>
+	<string id="st_val_instrument_case_01">
+		<text>Слюсарний ящик</text>
+	</string>
+	<string id="st_val_instrument_case_01_descr">
+		<text>Знайшов кейс з-під слюсарних інструментів, тимчасово приховав свої скарби там. Буде нагода - перенесу до нормального схрона.</text>
+	</string>
+	<string id="st_val_seif_01">
+		<text>Сейф на заводі</text>
+	</string>
+	<string id="st_val_seif_01_descr">
+		<text>Якщо хтось читає цей запис - значить, пицьнули мене на смерть. Так ото що я маю сказати з приводу моєї схованки у сейфі: щоб ти, сволото, ніколи той сейф відкрити не зміг!</text>
+	</string>
+	<string id="st_val_seif_02_descr">
+		<text>Не знав, чи виберуся із тієї веремії живим, от і сунув речі до іржавого сейфа на закинутій фермі. Тепер прийшов час забрати їх.</text>
+	</string>
+	<string id="st_val_trees_log_01">
+		<text>Пень на острові</text>
+	</string>
+	<string id="st_val_trees_log_01_descr">
+		<text>Друган мій ніс купу добра, коли потрапив на Болотах у засідку. Сам загинув, але мені встиг розказати, що частину хабара сховав до порохнявого пенька неподалік антени. Треба буде забрати. </text>
+	</string>
+	<string id="st_val_trees_log_01_1">
+		<text>Порохнява колода</text>
+	</string>
+	<string id="st_val_trees_log_01_1_descr">
+		<text>Не вірю я своєму напарникові: здається мені, він пограбувати мене збирається. От і почав я від нього хабар приховувати. Біля моста на острівці у колоді моя схованка - сподіваюся, він її не знайде.</text>
+	</string>
+	<string id="st_val_trees_stump_01">
+		<text>Порохнявий пень</text>
+	</string>
+	<string id="st_val_trees_stump_01_descr">
+		<text>У дуплі пня неподалік від старої ферми скинув дещо, коли від кабанів драпав.</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000">
+		<text>Пень біля пагорба</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000_descr">
+		<text>Біля підніжжя пагорба за болотом зробив схованку під старим пнем. Буде знову вдалий вихід, скину там іще щось.</text>
+	</string>
+	<string id="st_val_trees_stump_01_1">
+		<text>Пень біля мостків</text>
+	</string>
+	<string id="st_val_trees_stump_01_1_descr">
+		<text>Бачив я, як Колька до пенька на острові постійно шось бігає. Певен - замотав там своє добро, жмикрут. Якось наскочу туди, а поки хай більше назбирає.</text>
+	</string>
+	<string id="st_val_trees_zaz968">
+		<text>Старий «Запорожець»</text>
+	</string>
+	<string id="st_val_trees_zaz968_descr">
+		<text>Ці чудили розгублені: де ж їхнє добро зі схованок дівається? Ото сміхота! А я його в кабіні старого «запора» біля Боліт никаю. Ніхто туди шукати не полізе.</text>
+	</string>
+	<string id="st_yan_electric_box_01">
+		<text>Електрощитова на заводі</text>
+	</string>
+	<string id="st_yan_electric_box_01_descr">
+		<text>З Андрюхиного КПК переписав. Наче на території заводу в косій такій електрощитовій він сховав хабар, коли Мізкодробилка стала накривати.</text>
+	</string>
+	<string id="st_yan_electric_box_02">
+		<text>Щиток на трансформаторній</text>
+	</string>
+	<string id="st_yan_electric_box_02_descr">
+		<text>Коли стало «рубати» на заводі, закинув усе по-швидкому до щитка на трансформаторній.</text>
+	</string>
+	<string id="st_yan_instrument_case_01">
+		<text>Кейс на заводі</text>
+	</string>
+	<string id="st_yan_instrument_case_01_descr">
+		<text>Знайшов у ангарі ящик з-під інструментів. Усередині щось торохкотіло, але розкрити не встиг, кинув там же до наступного разу.</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000">
+		<text>Ящичок у вантажівці</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000_descr">
+		<text>Гарне місце для схрону - якраз між кабіною та кузовом. Знову ж таки, зомбі та випромінювання охороняють.</text>
+	</string>
+	<string id="st_yan_pipe_01">
+		<text>Схованка біля паркану</text>
+	</string>
+	<string id="st_yan_pipe_01_descr">
+		<text>Дещо приховав у зчленуванні труб біля будівельного вагончика, поруч із парканом.</text>
+	</string>
+	<string id="st_yan_pipe_02">
+		<text>Дріб'язок у трубі</text>
+	</string>
+	<string id="st_yan_pipe_02_descr">
+		<text>Найцінніше із собою забрав, а дріб'язок скинув до труби тої кімнати, що із діркою в стіні.</text>
+	</string>
+	<string id="st_yan_rucksack_01">
+		<text>Рюкзак біля входу</text>
+	</string>
+	<string id="st_yan_rucksack_01_descr">
+		<text>Набив повний рюкзак хабара, але біля самого входу, в руїнах,  довелося кинути. Цікаво, встиг туди вже хтось залізти, чи ні?</text>
+	</string>
+	<string id="st_yan_rucksack_02">
+		<text>Схрон у вентиляційній трубі</text>
+	</string>
+	<string id="st_yan_rucksack_02_descr">
+		<text>Це Сич. Запам'ятай, Тохо, орієнтир: рюкзак всередині вентиляційної труби біля проломленої стіни комплексу.</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000">
+		<text>Рюкзак під сидінням</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000_descr">
+		<text>Часу думати не було: кинув хабар під сидінням водія в іржавому УАЗику</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001">
+		<text>Заначка біля редуктора крана</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001_descr">
+		<text>Сам не знаю, якого дідька я на такій верхотурі заначку зробив. Тепер дістатися не можу, капець!</text>
+	</string>
+	<string id="st_yan_seif_01">
+		<text>Схрон у сейфі</text>
+	</string>
+	<string id="st_yan_seif_01_descr">
+		<text>Найкращий схрон у Зоні мій - сейф на території заводу.</text>
+	</string>
+	<string id="st_yan_trees_log_01">
+		<text>Порожня колода</text>
+	</string>
+	<string id="st_yan_trees_log_01_descr">
+		<text>Біля «колючки» зробив схованку в порожній колоді.</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000">
+		<text>Колода під пагорбом</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000_descr">
+		<text>Як зомбі із заводу поперли, довелося розпрощатися із хабаром і заховати його в колоді біля підніжжя пагорба.</text>
+	</string>
+	<string id="st_yan_trees_stump_01">
+		<text>Пень поруч із вишкою</text>
+	</string>
+	<string id="st_yan_trees_stump_01_descr">
+		<text>У дуплі пня на пагорбі із високовольтною вишкою замутив ще одну схованку. А всі думають, ніби я туди околицями милуватися ходжу, недоумки.</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss">
+		<text>Розтруб</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss_descr">
+		<text>У розтрубі в купі радіоактивних відходів зробив схованку.</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss">
+		<text>Труба біля мотора</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss_descr">
+		<text>Біля дохлого мотора на смітнику - труба із хабаром.</text>
+	</string>
+	<string id="st_agr_cross_1">
+		<text>Під хрестом</text>
+	</string>
+	<string id="st_agr_cross_1_descr">
+		<text>Агропром, кущі, хрест. Під ним у могилі.</text>
+	</string>
+	<string id="st_agr_electric_box_02">
+		<text>Електрощит у цеху</text>
+	</string>
+	<string id="st_agr_electric_box_02_descr">
+		<text>Сушений, падла, весь хабар собі відбирає. Грьо-ба-ний дід! Потроху ховаю від нього барахло всередині щитка цеху на другому поверсі.</text>
+	</string>
+	<string id="st_agr_instrument_case_01">
+		<text>Трактор</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000">
+		<text>Машина в гаражі</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000_descr">
+		<text>У кузові командирського «бобика» ховаю своє барахло. Поки машина поламана стоїть, навряд чи там хтось нишпоритиме.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001">
+		<text>Кейс під вагоном</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001_descr">
+		<text>У саквояжі для інструментів під вагоном на Агропромі.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002">
+		<text>Автобус біля зупинки</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002_descr">
+		<text>Ящик для інструментів у автобусі біля зупинки поруч із базою нейтралів.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_descr">
+		<text>Тимоха полагодив трактор - на п'яну голову вночі Зоною каталися, поки на кровососа не нарвалися. Драпали так, що забули там скриньку із хабаром.</text>
+	</string>
+	<string id="st_agr_pipe_02">
+		<text>Труба у завалі</text>
+	</string>
+	<string id="st_agr_pipe_02_descr">
+		<text>Завалений вхід до підземелля, коліно труби, схрон.</text>
+	</string>
+	<string id="st_agr_rucksack_01">
+		<text>Нічийний рюкзак</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000">
+		<text>База сталкерів</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000_descr">
+		<text>Рюкзак закинув на розгалуження дерева, а то відразу зрозуміють, що то я Вєталя кінчив. Дістатися можна по трубах із бази нейтралів.</text>
+	</string>
+	<string id="st_agr_rucksack_01_descr">
+		<text>Запримітив його на дереві біля бази «Долгу», та нема коли було за ним лазити.</text>
+	</string>
+	<string id="st_agr_rucksack_02">
+		<text>Труба біля Боліт</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000">
+		<text>Загублений рюкзак</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000_descr">
+		<text>Відпочивали після походу. Серед каміння забув рюкзак свій. Знайду час - сходжу за ним.</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001">
+		<text>Рюкзак монтажника</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001_descr">
+		<text>І треба ж було на цю паскудну вишку залізти! Довелося дорогою рюкзак до кущів скинути, поки наші собак не відігнали.</text>
+	</string>
+	<string id="st_agr_rucksack_02_descr">
+		<text>Ничка поблизу Боліт у трубі - там рюкзак із хабаром.</text>
+	</string>
+	<string id="st_agr_seif_01">
+		<text>Сейф у кущах</text>
+	</string>
+	<string id="st_agr_seif_01_descr">
+		<text>Під дощем тягли через яр сейф із добром, там і кинули, а то ноги по глині роз'їжджалися, наче в тих корів.</text>
+	</string>
+	<string id="st_agr_trees_log_01">
+		<text>Колода на відшибі</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000">
+		<text>«Крашанки»</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000_descr">
+		<text>Тоха на Великдень змусив у дощ схованки для клану робити. Одне таке «яєчко» я в колоді затусував.</text>
+	</string>
+	<string id="st_agr_trees_log_01_descr">
+		<text>У такій глушині навряд чи хтось подумає шукати у колоді схованку.</text>
+	</string>
+	<string id="st_agru_treasure_1">
+		<text>Труба в кімнаті управління</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>Заховав до труби зайві речі, коли поперли тварюки: без лахів легше було втекти.</text>
+	</string>
+	<string id="st_agru_treasure_2">
+		<text>Рюкзак у аномалії</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>Коли проходив мостом, рюкзак мій впав униз, до зараженого місця. Так і не зміг його звідти дістати.</text>
+	</string>
+	<string id="st_agru_treasure_3">
+		<text>Кинута шафа</text>
+	</string>
+	<string id="st_agru_treasure_3_descr">
+		<text>Завжди беріг її як зіницю ока: гарна шафа, містка. Забув про неї під час відступу, коли мутанти із нір нагору рушили.</text>
+	</string>
+	<string id="st_agru_treasure_4">
+		<text>Рюкзак біля трупа</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>Дуже злі дрібні мутанти, схожі чи то на пацюків, чи то ще на якихось гризунів, вбили мого товариша. Сам я ледве втік - пощастило, що поруч драбина була.</text>
+	</string>
+	<string id="st_agru_treasure_5">
+		<text>Рюкзак під сходами</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>Бачив великий чорний рюкзак під сходами у воді, але побоявся туди полізти, щоб забрати: там поруч неоковирна аномалія.</text>
+	</string>
+	<string id="st_esc_cross_2">
+		<text>Під хрестом на пагорбі</text>
+	</string>
+	<string id="st_esc_cross_2_descr">
+		<text>Сховав хабар на пагорбі під фальшивою могилою сталкера.</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp">
+		<text>Скринька над мостом</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp_descr">
+		<text>Де перехрестя балок мостових ферм, там упакував свій хабар до скриньки. І зопрів же ж, поки туди ліз! Зате ніхто не знайде.</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater">
+		<text>Труба під вивертнем</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater_descr">
+		<text>Табором стояли недалеко від Селища новачків, я й заховав хабар до труби під поваленим деревом. Заберу, як час прийде.</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater">
+		<text>Труба у тунелі</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater_descr">
+		<text>Кидали до аномалії всякий мотлох і помилково закинули трубу, всередині якої ховали хабар. Так він там і лежить, порохом припадає.</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney">
+		<text>Рюкзак у димоході</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney_descr">
+		<text>Ще коли новачком був, організував невеличку схованку у комині. Навіть уже не пам'ятаю, що там всередині.</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree">
+		<text>Схованка на дереві</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree_descr">
+		<text>Спостерігав із дерева за АТП, залишив нагорі рюкзак. По гілці з боку пагорба лізти найпростіше.</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train">
+		<text>Під локомотивом</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train_descr">
+		<text>Коли старший наказав швидко на допомогу групі Миколаєва чесати, закинув рюкзак зі своїм добром під локомотив, що поруч із насипом.</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush">
+		<text>Рюкзак за кущем</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush_descr">
+		<text>Напоролися на бандюків уночі, після перестрілки швидко втікати довелося. Рюкзак кинув межи валуни, за кущем.</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree">
+		<text>Рюкзак під дровами</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree_descr">
+		<text>Заклав дровами схованку біля двоповерхового будинку навпроти ферми.</text>
+	</string>
+	<string id="st_esc_seif_03">
+		<text>Сейф у трубі</text>
+	</string>
+	<string id="st_esc_seif_03_0000">
+		<text>Сейф на базі</text>
+	</string>
+	<string id="st_esc_seif_03_0000_desc">
+		<text>На базі нейтралів на кордоні Зіл зберігає своє барахло у сейфі.</text>
+	</string>
+	<string id="st_esc_seif_03_descr">
+		<text>На смітнику поруч із Селищем новачків із Коляном зробили ничку в сейфі.</text>
+	</string>
+	<string id="st_esc_trees_log_01">
+		<text>Схрон у колоді</text>
+	</string>
+	<string id="st_esc_trees_log_01_descr">
+		<text>Як собаки напали, особливо вибирати не довелося: сховав хабар до розщепленого дерева посеред поля і дав тягу до табору.</text>
+	</string>
+	<string id="st_esc_trees_log_02">
+		<text>Ничка у колоді</text>
+	</string>
+	<string id="st_esc_trees_log_02_descr">
+		<text>Переписав у загиблого сталкера координати його нички у колоді за фермою.</text>
+	</string>
+	<string id="st_esc_trees_stump_01">
+		<text>Пеньок у ялиннику</text>
+	</string>
+	<string id="st_esc_trees_stump_01_descr">
+		<text>До старого пня, навколо якого ялинки ростуть, сховали із друганом свій нехитрий хабар.</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader">
+		<text>Пень біля Селища новачків</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader_descr">
+		<text>Схованку далеко робити не став: поруч із Селищем новачків знайшов гарний пень із дуплом, у ньому і ховаю свої знахідки.</text>
+	</string>
+	<string id="st_esc_trees_stump_02">
+		<text>Пень у лісі</text>
+	</string>
+	<string id="st_esc_trees_stump_02_descr">
+		<text>Сидорович попрохав зробити схрон поруч із блокпостом перед Великою землею - для новачка якогось. Так я сховав усе під пень біля пагорба.</text>
+	</string>
+	<string id="st_esc_trees_stump_03">
+		<text>Пень на Кордоні</text>
+	</string>
+	<string id="st_esc_trees_stump_03_descr">
+		<text>Як ішов на Смітник, сховав усе біля пня в лісі, щоб бандюкам не дісталося.</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Отримано інформацію про схованку:</text>
+	</string>
+	<string id="st_gar_electric_box_01">
+		<text>Електрощит у мотлоху</text>
+	</string>
+	<string id="st_gar_electric_box_01_descr">
+		<text>Приховав дещо на ніч, щоб потім продати на Барахолці. Мацати у коробці електрощитка поруч із кабіною поваленого крана.</text>
+	</string>
+	<string id="st_gar_electric_box_02">
+		<text>Щиток під навісом</text>
+	</string>
+	<string id="st_gar_electric_box_02_descr">
+		<text>Скину якось на чорному ринку те, що недалеко під навісом до електричного щитка приховав.</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss">
+		<text>Електрощит на Смітнику</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss_descr">
+		<text>Хабар заникано під кришкою електрощита у купі сміття</text>
+	</string>
+	<string id="st_gar_pipe_02">
+		<text>Труба на Смітнику</text>
+	</string>
+	<string id="st_gar_pipe_02_descr">
+		<text>До обрізка труби запхнув своє добро, щоб не відібрали.</text>
+	</string>
+	<string id="st_gar_pipe_05">
+		<text>Труба біля опори крана</text>
+	</string>
+	<string id="st_gar_pipe_05_descr">
+		<text>До труби біля опори зруйнованого крана приховав собі деякі дрібнички про всяк випадок.</text>
+	</string>
+	<string id="st_gar_rucksack_02">
+		<text>Рюкзак під ялинкою</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss">
+		<text>Рюкзак у кабіні крана</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss_descr">
+		<text>Сховав рюкзак до кабіни, коли ще кран стояв. Тепер дістатися не можу.</text>
+	</string>
+	<string id="st_gar_rucksack_02_descr">
+		<text>До кращих часів свій рюкзак із тим, що в ньому, заховав під ялиною.</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss">
+		<text>Схрон від ворогів</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss_descr">
+		<text>Щоб хабар не дістався ворогам, зажбурнув рюкзак до купи радіоактивного мотлоху.</text>
+	</string>
+	<string id="st_gar_rucksack_03">
+		<text>Схованка біля кладовища техніки</text>
+	</string>
+	<string id="st_gar_rucksack_03_descr">
+		<text>Біля цвинтаря зараженої техніки під бетонну плиту кинув деякі речі. Там постійно хтось нипає, то треба буде якнайскоріш усе забрати.</text>
+	</string>
+	<string id="st_gar_rucksack_04">
+		<text>Дах тепловоза</text>
+	</string>
+	<string id="st_gar_rucksack_04_descr">
+		<text>На даху тепловоза прилаштував свій рюкзачок. Дістатися з насипу туди легко, і при цьому тебе не видко.</text>
+	</string>
+	<string id="st_gar_seif_01">
+		<text>Сейф у калюжі</text>
+	</string>
+	<string id="st_gar_seif_01_descr">
+		<text>Я так міркую, мало хто полізе до калюжі длубатися у затопленому сейфі. На перший час - гарне місце для нички.</text>
+	</string>
+	<string id="st_gar_seif_03">
+		<text>Сейф під опорою</text>
+	</string>
+	<string id="st_gar_seif_03_descr">
+		<text>Неподалік знака радіаційної небезпеки запхнув до сейфа хабар. Не думаю, що знайдеться ведмежатник-самогубця!</text>
+	</string>
+	<string id="st_gar_trees_log_01">
+		<text>Дупло в колоді</text>
+	</string>
+	<string id="st_gar_trees_log_01_descr">
+		<text>Мені за сейф править дупло якоїсь колоди неподалік від концтабору.</text>
+	</string>
+	<string id="st_gar_trees_log_02">
+		<text>Колода за дубом</text>
+	</string>
+	<string id="st_gar_trees_log_02_descr">
+		<text>Колян інфу скинув, що Кволий хабар ховає у колоді за сухим дубом.</text>
+	</string>
+	<string id="st_gar_trees_log_03">
+		<text>Колода у кущах</text>
+	</string>
+	<string id="st_gar_trees_log_03_descr">
+		<text>Заникав барахло до колоди в кущах, щоби будь-кому на очі не трапляло.</text>
+	</string>
+	<string id="st_gar_trees_stump_01">
+		<text>Схованка втікачів</text>
+	</string>
+	<string id="st_gar_trees_stump_01_descr">
+		<text>Дигер один вирішив хабар забрати, але йому на хвіст упав Чабан зі своїми хлопцями. Чувачка кінчили, та барахла не знайшли. А я примітив пеньок, до якого хабар було приникано.</text>
+	</string>
+	<string id="st_gar_trees_stump_03">
+		<text>Схованка на відшибі</text>
+	</string>
+	<string id="st_gar_trees_stump_03_descr">
+		<text>На самому відшибі замутив заначку у прогнилому пеньку - на випадок, якщо мене хтось зі своїх попалить.</text>
+	</string>
+	<string id="st_gar_trees_stump_04">
+		<text>Схрон біля бази</text>
+	</string>
+	<string id="st_gar_trees_stump_04_descr">
+		<text>Хто як, а я свій хабар під носом у Йоги ховаю: поруч із парканом під старий пеньок.</text>
+	</string>
+	<string id="st_gar_zaz968">
+		<text>Білий ЗАЗ</text>
+	</string>
+	<string id="st_gar_zaz968_descr">
+		<text>Колись влада Йоги на Смітнику закінчиться, тоді я свій хабарок сміливо із білого «запора» вигребу і спокійненько звалю.</text>
+	</string>
+	<string id="st_hos_electric_box_02">
+		<text>Електрощиток у госпіталі</text>
+	</string>
+	<string id="st_hos_electric_box_02_descr">
+		<text>Зробили запас для своєї групи у розподільному щитку на першому поверсі госпіталю.</text>
+	</string>
+	<string id="st_hos_rucksack_01">
+		<text>Рюкзак під сходами</text>
+	</string>
+	<string id="st_hos_rucksack_01_descr">
+		<text>Як штурмували другий поверх, довелося терміново руки від речей звільняти.</text>
+	</string>
+	<string id="st_hos_seif_01">
+		<text>Барикади у коридорі</text>
+	</string>
+	<string id="st_hos_seif_01_descr">
+		<text>Довелося відстрелюватися, то я хабар сховав до старого сейфа. Шукати у барикадах у коридорі на другому поверсі госпіталю.</text>
+	</string>
+	<string id="st_lim_electric_box_01">
+		<text>Труба в каналізації</text>
+	</string>
+	<string id="st_lim_electric_box_01_2">
+		<text>Електрощит на «Радіохвилі»</text>
+	</string>
+	<string id="st_lim_electric_box_01_2_descr">
+		<text>Брали будівлю інституту, то я надибав у електрощитку на балконі чиюсь заначку, але взяти не встиг: ішли в скаженому темпі.</text>
+	</string>
+	<string id="st_lim_electric_box_01_descr">
+		<text>У стічній трубі знайшов якусь схованку. Як повернемося, заберу.</text>
+	</string>
+	<string id="st_lim_instrument_case_01">
+		<text>Саквояж у ніші</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1">
+		<text>Саквояж на горищі</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1_descr">
+		<text>Два дні від вражин відстрелювалися. Під кінець загнали нас під дах, а тут саме наші підійшли. Я там кейс примітив, але в тій метушні так і забув його на горищі.</text>
+	</string>
+	<string id="st_lim_instrument_case_01_descr">
+		<text>Ішли рейдом мимо того подвір'я, помітив саквояжик біля паркану.</text>
+	</string>
+	<string id="st_lim_pipe_02">
+		<text>Труба під УАЗиком</text>
+	</string>
+	<string id="st_lim_pipe_02_01">
+		<text>За гаражами</text>
+	</string>
+	<string id="st_lim_pipe_02_01_descr">
+		<text>Бачив чиюсь схованку за гаражами, тільки заглянути не встиг. Дивитися у великій трубі за деревом.</text>
+	</string>
+	<string id="st_lim_pipe_02_2">
+		<text>Труба в контейнері</text>
+	</string>
+	<string id="st_lim_pipe_02_2_descr">
+		<text>Затисли нас в якомусь дворі - там у трубі, де сміттєвий контейнер, начебто було щось. Як розберемося зі справами - повернуся, гляну.</text>
+	</string>
+	<string id="st_lim_pipe_02_descr">
+		<text>Із труби під УАЗиком стирчав якийсь лантух із барахлом. Часу перевіряти не було. Живий буду - обстежу.</text>
+	</string>
+	<string id="st_lim_rucksack_01">
+		<text>Рюкзак під бардачком</text>
+	</string>
+	<string id="st_lim_rucksack_01_descr">
+		<text>До старого «москвича» під торпедо кинув рюкзак бідолахи Дзбана.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1">
+		<text>Рюкзак під парканом</text>
+	</string>
+	<string id="st_lim_rucksack_02_12">
+		<text>Речі пораненого</text>
+	</string>
+	<string id="st_lim_rucksack_02_12_descr">
+		<text>Чесануло Санька, коли лізли через стіну. Довелося його рюкзак лишити, щоб хоч самого врятувати.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1_descr">
+		<text>Утікаючи від погоні, скинув рюкзак під парканом отут.</text>
+	</string>
+	<string id="st_lim_rucksack_02_2">
+		<text>Рюкзак убитого</text>
+	</string>
+	<string id="st_lim_rucksack_02_2_descr">
+		<text>Новачка поряд зі мною гранатою накрило, хлопець одразу спікся. А рюкзак його Даня під міст кинув. Мертвому він уже до лампочки, а нам потім може стати в нагоді.</text>
+	</string>
+	<string id="st_lim_seif_03">
+		<text>Сейф у гаражі</text>
+	</string>
+	<string id="st_lim_seif_03_descr">
+		<text>Шукали одного типка по гаражах, в одному наткнулися на сейф. Треба буде потім якось його розкрити.</text>
+	</string>
+	<string id="st_lim_trees_log_01">
+		<text>Прикопана колода</text>
+	</string>
+	<string id="st_lim_trees_log_01_descr">
+		<text>Перед тим як завалили цього виродка, примітив я, що він чогось біля колоди за альтанкою вовтузився.</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1">
+		<text>Згорток у пеньку</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1_descr">
+		<text>У дуплі пенька начебто згорток якийсь був, коли ми в атаку йшли.</text>
+	</string>
+	<string id="st_mar_nichka_0000">
+		<text>Ничка біля бункера</text>
+	</string>
+	<string id="st_mar_nichka_0000_descr">
+		<text>Як банда Косого на стежці показалася, я біля люка з якогось бункера під болотами за два кроки від АТП притопив хабар.</text>
+	</string>
+	<string id="st_mar_nichka_0001">
+		<text>Скринька під вишкою</text>
+	</string>
+	<string id="st_mar_nichka_0001_descr">
+		<text>Зношу поки весь хабар до схованки під одну із високовольтних вишок.</text>
+	</string>
+	<string id="st_mar_nichka_0003">
+		<text>Ящичок у кабіні ЗіЛа</text>
+	</string>
+	<string id="st_mar_nichka_0003_descr">
+		<text>Саньок Кульгавий звідкись ящичок слюсарний притяг, то ми склали туди дещо цінне і кинули до кабіни іржавого ЗіЛа.</text>
+	</string>
+	<string id="st_mar_nichka_0004">
+		<text>Труба на станції</text>
+	</string>
+	<string id="st_mar_nichka_0004_descr">
+		<text>На старій насосній станції посеред болота сховав до розтруба поруч із вентилем.</text>
+	</string>
+	<string id="st_mar_nichka_0005">
+		<text>Труба у болоті</text>
+	</string>
+	<string id="st_mar_nichka_0005_descr">
+		<text>Остобісіло мені в цих драговинах на собі хабар тягати, тому скинув на одному острові до притопленої труби із вентилем. В очеретах усе одно ніхто без точних координат не знайде.</text>
+	</string>
+	<string id="st_mar_nichka_0006">
+		<text>Рюкзак у болоті</text>
+	</string>
+	<string id="st_mar_nichka_0006_descr">
+		<text>Ледве від болотної тварюки відірвався, але наплечник загубив. Нема бажання знову туди лізти, та може приперти.</text>
+	</string>
+	<string id="st_mar_nichka_0007">
+		<text>Притоплений сейф</text>
+	</string>
+	<string id="st_mar_nichka_0007_descr">
+		<text>Неподалік зруйнованого мосту притоплений сейф лежить. Ризикнув туди все своє барахло кинути.</text>
+	</string>
+	<string id="st_mar_nichka_0008">
+		<text>Рюкзак в очеретах</text>
+	</string>
+	<string id="st_mar_nichka_0008_descr">
+		<text>У заростях очеретів скинув рюкзак, коли відбивався від кабанів. Орієнтирів жодних, добре хоч координати місця одразу забив.</text>
+	</string>
+	<string id="st_mar_nichka_0009">
+		<text>Залишений хабар</text>
+	</string>
+	<string id="st_mar_nichka_0009_descr">
+		<text>З-під носа в одного лоха рюкзак із хабаром спер. Далеко, щоправда, не поніс: щоб не погоріти, довелося кинути в очеретах.</text>
+	</string>
+	<string id="st_mar_nichka_0010">
+		<text>Пеньок біля дерева</text>
+	</string>
+	<string id="st_mar_nichka_0010_descr">
+		<text>Вирішив, що хабар складатиму до пенька біля сухого дерева. Як стану чухати із Боліт кудись геть, заберу.</text>
+	</string>
+	<string id="st_mar_nichka_0011">
+		<text>Колода біля вишки</text>
+	</string>
+	<string id="st_mar_nichka_0011_descr">
+		<text>Розщеплене дерево неподалік від високоволььної вишки.</text>
+	</string>
+	<string id="st_mar_nichka_0012">
+		<text>Могила із протигазом</text>
+	</string>
+	<string id="st_mar_nichka_0012_descr">
+		<text>Небіжчикам довіряю більше, ніж живим. Мій схрон на цвинтарі - крайня зліва могила, ще й протигазом позначена.</text>
+	</string>
+	<string id="st_mar_nichka_0013">
+		<text>Дерев'яний хрест</text>
+	</string>
+	<string id="st_mar_nichka_0013_descr">
+		<text>У могилі з єдиним у ряду дерев'яним хрестом на церковному цвинтарі відклав на чорний день невелику заначку.</text>
+	</string>
+	<string id="st_mar_nichka_0014">
+		<text>Стіс дрів під церквою</text>
+	</string>
+	<string id="st_mar_nichka_0014_descr">
+		<text>Під Божий догляд сховав свої речі до тріснутої колоди.</text>
+	</string>
+	<string id="st_mar_nichka_0015">
+		<text>Схрон в очеретах</text>
+	</string>
+	<string id="st_mar_nichka_0015_descr">
+		<text>Залишив рюкзак неподалік церкви в очеретах, та тепер чогось навіть із координатами знайти не можу.</text>
+	</string>
+	<string id="st_mar_nichka_0016">
+		<text>Сейф у бруді</text>
+	</string>
+	<string id="st_mar_nichka_0016_descr">
+		<text>На березі болота неподалік церкви сунув до сейфа всі свої знахідки, щоб грабіжникам не дісталися.</text>
+	</string>
+	<string id="st_mar_nichka_0017">
+		<text>Саквояж під грубкою</text>
+	</string>
+	<string id="st_mar_nichka_0017_descr">
+		<text>Штірліц топив грубку третій день. На четвертий вона потонула. У такій самій я й заховав свій саквояжик.</text>
+	</string>
+	<string id="st_mar_nichka_0018">
+		<text>Барахло у ЗАЗі</text>
+	</string>
+	<string id="st_mar_nichka_0018_descr">
+		<text>Півночі сиділи на даху «запорожця», поки наші не підійшли. Я тоді не знав, хто до нас першим дістанеться, тому кинув десь поруч своє барахло. У світлий час треба буде знайти.</text>
+	</string>
+	<string id="st_mar_nichka_0019">
+		<text>Пень біля залізниці</text>
+	</string>
+	<string id="st_mar_nichka_0019_descr">
+		<text>Проходили біля залізниці, коли постріли почули. Я тоді свої речі швидко до пенька за валунами приховав.</text>
+	</string>
+	<string id="st_mar_nichka_0020">
+		<text>Труба від цистерни</text>
+	</string>
+	<string id="st_mar_nichka_0020_descr">
+		<text>Збираємо із пацанами все у рукаві труби із вентилем, котра від цистерни до Боліт іде.</text>
+	</string>
+	<string id="st_mar_nichka_0021">
+		<text>Рюкзак біля матраца</text>
+	</string>
+	<string id="st_mar_nichka_0021_descr">
+		<text>Льоха, дубина, забув рюкзак свій там, де спав - біля затонулого човна поруч із матрацом.</text>
+	</string>
+	<string id="st_mar_nichka_0022">
+		<text>Ящик на кухні</text>
+	</string>
+	<string id="st_mar_nichka_0022_descr">
+		<text>Відклав для торговця замовлення у блакитному ящику на літній кухні.</text>
+	</string>
+	<string id="st_mar_nichka_0023">
+		<text>Схованка у колоді</text>
+	</string>
+	<string id="st_mar_nichka_0023_descr">
+		<text>Перед походом до іншої частини Боліт довелося розвантажити рюкзак. Частину хабара увіпхнув до колоди.</text>
+	</string>
+	<string id="st_mar_nichka_0024">
+		<text>Схованка в електрощитку</text>
+	</string>
+	<string id="st_mar_nichka_0024_descr">
+		<text>Щиток трансформаторної будки на хуторі. Хто чужий полізе - уб'є.</text>
+	</string>
+	<string id="st_mar_nichka_0025">
+		<text>Електрощит на АТП</text>
+	</string>
+	<string id="st_mar_nichka_0025_descr">
+		<text>Як ішов до Сірого, своє дрібне про всяк випадок запасував на АТП до електрощита. Хтозна, може воно ще знадобиться.</text>
+	</string>
+	<string id="st_mar_nichka_0026">
+		<text>Рюкзак на стежці</text>
+	</string>
+	<string id="st_mar_nichka_0026_descr">
+		<text>На стежці плоть зустрів, а зі зброї самий ніж був. Рюкзак там кинув, щоб другу руку звільнити і ногам легше ворушитись було. Треба буде якось повернутися.</text>
+	</string>
+	<string id="st_mar_nichka_0027">
+		<text>Пеньок біля деревця</text>
+	</string>
+	<string id="st_mar_nichka_0027_descr">
+		<text>Нехай дурні частку Гакові платять. Я своє буду складати під пеньком біля молодого деревця.</text>
+	</string>
+	<string id="st_mar_nichka_0028">
+		<text>Сейф за сухостоєм</text>
+	</string>
+	<string id="st_mar_nichka_0028_descr">
+		<text>Синкові на ліки почну відкладати у схованці: за сухим деревом є сейф. Як набереться достатньо, одразу рвону на Велику землю.</text>
+	</string>
+	<string id="st_mar_nichka_0029">
+		<text>Схованка серед кущів</text>
+	</string>
+	<string id="st_mar_nichka_0029_descr">
+		<text>Із болота вибрався, сил не було самому йти, то весь вантаж прямо поруч зі стежкою серед кущів кинув.</text>
+	</string>
+	<string id="st_mar_nichka_0030">
+		<text>Схованка під кузовом</text>
+	</string>
+	<string id="st_mar_nichka_0030_descr">
+		<text>Під кузовом КАМАЗа навпроти мосту в ящику з-під інструментів.</text>
+	</string>
+	<string id="st_mar_nichka_0031">
+		<text>Посередині болота</text>
+	</string>
+	<string id="st_mar_nichka_0031_descr">
+		<text>Посередині болота на бетонній стирчалці зі шматками арматури залишив скриньку із барахлом, щоб на сухопутне вибратися.</text>
+	</string>
+	<string id="st_mar_nichka_0032">
+		<text>Скринька у грубці</text>
+	</string>
+	<string id="st_mar_nichka_0032_descr">
+		<text>Схованка, як у Кощія в казці: у скриньці, скринька в печі, піч у згорілому будинку, а будинок - на Болотах.</text>
+	</string>
+	<string id="st_mar_nichka_0033">
+		<text>Сейф в очеретах</text>
+	</string>
+	<string id="st_mar_nichka_0033_descr">
+		<text>Не знаю, звідки взагалі на болоті такий сейф узявся, але гріх було не скористатися. До часу нехай усе моє там полежить.</text>
+	</string>
+	<string id="st_mar_nichka_0034">
+		<text>Болотний пеньок</text>
+	</string>
+	<string id="st_mar_nichka_0034_descr">
+		<text>Старший сказав, багато барахла не брати, то я своє сховав до пенька поруч із водонасосною станцією - у кущах там, під деревом.</text>
+	</string>
+	<string id="st_mar_nichka_0035">
+		<text>Корч на Болотах</text>
+	</string>
+	<string id="st_mar_nichka_0035_descr">
+		<text>Ішли через Болота, примітив біля мостків підгнилий корч. Місце гарне, то я туди приникав свої скарби.</text>
+	</string>
+	<string id="st_mar_nichka_0036">
+		<text>Рюкзак на острові</text>
+	</string>
+	<string id="st_mar_nichka_0036_descr">
+		<text>Гнала мене та болотна тварюка кілька кілометрів, тому на якомусь острівці вирішив рюкзака позбутися, а то б здох через той марафон.</text>
+	</string>
+	<string id="st_mar_nichka_0037">
+		<text>Люк біля станції</text>
+	</string>
+	<string id="st_mar_nichka_0037_descr">
+		<text>Під якимось люком біля станції зарив добро, щоб випадковим грабіжникам нічого мого не дісталося.</text>
+	</string>
+	<string id="st_mar_nichka_0038">
+		<text>Схрон у трубі</text>
+	</string>
+	<string id="st_mar_nichka_0038_descr">
+		<text>Чорний рюкзак у великій трубі - уся пам'ять про Митька.</text>
+	</string>
+	<string id="st_mar_nichka_0039">
+		<text>Саквояж у кабіні</text>
+	</string>
+	<string id="st_mar_nichka_0039_descr">
+		<text>Знайшов саквояжик на болоті, склав туди свої пожитки і заникав у кабіні крана до кращих часів.</text>
+	</string>
+	<string id="st_mar_nichka_0040">
+		<text>Рюкзак під вагоном</text>
+	</string>
+	<string id="st_mar_nichka_0040_descr">
+		<text>Щоб бігти було легше, залишив ношу під вагоном на залізничній колії.</text>
+	</string>
+	<string id="st_mar_nichka_0041">
+		<text>На карнизі купола</text>
+	</string>
+	<string id="st_mar_nichka_0041_descr">
+		<text>На карнизі церковного купола приникав свій рюкзак. Скакав дахом, наче отой гірський козел!</text>
+	</string>
+	<string id="st_mar_nichka_0042">
+		<text>Під мостом</text>
+	</string>
+	<string id="st_mar_nichka_0042_descr">
+		<text>Під мостом сиділи, очікували, поки погоня нагорі пробіжить. Там рюкзак із хабарком і лишив - до балки якоїсь примостив.</text>
+	</string>
+	<string id="st_mar_nichka_0043">
+		<text>Серед валунів</text>
+	</string>
+	<string id="st_mar_nichka_0043_descr">
+		<text>Кинув до щілини між трьох валунів сумку із речами, щоб перед пацанами не палитися.</text>
+	</string>
+	<string id="st_mar_nichka_0044">
+		<text>Корч під валунами</text>
+	</string>
+	<string id="st_mar_nichka_0044_descr">
+		<text>Довго шукав надійне місце для своєї схованки і врешті знайшов: серед очеретів під валунами є старий корч із дуплом.</text>
+	</string>
+	<string id="st_mil_cross_1">
+		<text>Схованка у могилі</text>
+	</string>
+	<string id="st_mil_cross_1_descr">
+		<text>Під хрестом до часу закопав своє добро: нехай мертвий сталкер охоронятиме, він відсотків не бере.</text>
+	</string>
+	<string id="st_mil_cross_2">
+		<text>Хрест біля дерева</text>
+	</string>
+	<string id="st_mil_cross_2_descr">
+		<text>Зробив схованку всередині могилки біля дерева.</text>
+	</string>
+	<string id="st_mil_instrument_case_01">
+		<text>Кейс у грубці</text>
+	</string>
+	<string id="st_mil_instrument_case_01_descr">
+		<text>У печі зруйнованої хати прилаштував скриньку із хабаром. По ходу складатиму туди своє барахло.</text>
+	</string>
+	<string id="st_mil_pipe_02">
+		<text>Труба біля входу на базу</text>
+	</string>
+	<string id="st_mil_pipe_02_descr">
+		<text>Сховав речі під самим носом прапора: у трубі за вартівнею біля входу на базу.</text>
+	</string>
+	<string id="st_mil_rucksack_01">
+		<text>Рюкзак біля труби</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000">
+		<text>Заначка у «москвичі»</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000_descr">
+		<text>Макс повернеться, віддам йому його рюкзак. Поки нехай полежить у старому «москвичі».</text>
+	</string>
+	<string id="st_mil_rucksack_01_descr">
+		<text>На даху розваленого будинку поруч із комином кинув свій рюкзак. Через кровососа в селищі повертатися якось стрьомно.</text>
+	</string>
+	<string id="st_mil_rucksack_02">
+		<text>Рюкзак під причепом</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000">
+		<text>Схованка під мостом</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000_descr">
+		<text>Рюкзак на вагоні під мостом на військовій базі.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001">
+		<text>Щілина у тунелі</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001_descr">
+		<text>Впустив свій рюкзак до щілини над тунелем, коли «Жарка» спрацювала, а він там за арматуру зачепився. Шкода залишати, треба буде повернутися.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002">
+		<text>Схованка у туалеті</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002_descr">
+		<text>Навряд чи хто подумає, що схованку можна зробити у сільській параші, тому я майже спокійний.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003">
+		<text>Схрон біля паркану</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003_descr">
+		<text>За ангаром кинув рюкзак Коляна: не стачало сили на собі стільки всього перти!</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004">
+		<text>Рюкзак під деревом</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004_descr">
+		<text>Як побачив монстра біля водонапірної вежі, кинув рюкзак під поваленим деревом і драпонув до своїх налегці.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005">
+		<text>Рюкзак у підвалі</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005_descr">
+		<text>Після викиду так ковбасило, що кинув у підвалі свій рюкзак. Як встану на ноги, повернуся до села і заберу.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006">
+		<text>Забутий рюкзак</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006_descr">
+		<text>Вибухом шматок стіни розвернуло, мене плитою придавило. Довелося рюкзак зняти, щоб вилізти і цим говнюкам по жопі надавати. А рюкзак так там і лишився.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007">
+		<text>Схрон на кухні</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007_descr">
+		<text>Зелений рюкзак у кухонній печі одного з будинків закинутого селища. Координати записую.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008">
+		<text>Схованка під валуном</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008_descr">
+		<text>Утікав від погоні, між валунів у кущах кинув рюкзак із краденим хабаром.</text>
+	</string>
+	<string id="st_mil_rucksack_02_descr">
+		<text>Бачив, як один красень перед викидом кинув якийсь рюкзак під причіп. Виберу час - навідаюся, подивлюся, що там.</text>
+	</string>
+	<string id="st_mil_trees_01_0001">
+		<text>Колода під валунами</text>
+	</string>
+	<string id="st_mil_trees_01_0001_descr">
+		<text>Біля самого краю валунів колода лежить, а в ній мій схрон від завидющих очей.</text>
+	</string>
+	<string id="st_mil_trees_log_01">
+		<text>Тріснута колода</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000">
+		<text>Схованка у дровнях</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000_descr">
+		<text>Схованка у великій колоді поруч із дровнями</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001">
+		<text>Колода під валунами</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001_descr">
+		<text>Біля самого краю валунів колода лежить, а в ній мій схрон від завидющих очей.</text>
+	</string>
+	<string id="st_mil_trees_log_01_descr">
+		<text>Заначку зробив у колоді під сосною поруч із поваленою вишкою.</text>
+	</string>
+	<string id="st_mil_trees_stump_01">
+		<text>Пеньок за плитами</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000">
+		<text>Пеньок біля паркану</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000_descr">
+		<text>Вітьок сказав, що залишив мою частку в дуплі пенькі між парканом військової бази та болотом.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001">
+		<text>Пеньок біля паркану</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001_descr">
+		<text>Вітьок сказав, що залишив мою частку в дуплі пенька між парканом військової бази та болотом.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_descr">
+		<text>Пеньок між двох валунів за купою бетонних плит</text>
+	</string>
+	<string id="st_red_box_01_0000">
+		<text>Синя скринька</text>
+	</string>
+	<string id="st_red_box_01_0000_descr">
+		<text>На другому поверсі будинку біля капера є синя скринька із хабаром.</text>
+	</string>
+	<string id="st_red_pipe_02">
+		<text>Труба у вагонетці</text>
+	</string>
+	<string id="st_red_pipe_02_descr">
+		<text>Запасував речі до труби і скинув до іржавої вагонетки в старому кар'єрі.</text>
+	</string>
+	<string id="st_red_rucksack_01">
+		<text>Чорний рюкзак</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000">
+		<text>Рюкзак на гілці</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000_descr">
+		<text>Сховався від якоїсь тварюки на дереві. Саму монстрятину не бачив, лише чув у тумані. Скинув там рюкзак на гілці, а сам зістрибнув - і бігцем звідти!</text>
+	</string>
+	<string id="st_red_rucksack_01_descr">
+		<text>Курва, втратив чорний рюкзак, як драпонув із лісу! Навіть знаю, де, та другий раз туди не полізу, хіба лише після того, як той ліс напалмом випалять.</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree">
+		<text>Дерево біля паркану</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree_descr">
+		<text>До самої огорожі заповідника кровосос за мною гнався, падлюка! Загнав мене на дерево. Якби рюкзак там не залишив, до огорожі ніяк не доплигнув би.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2">
+		<text>Рюкзак у печері</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2_descr">
+		<text>Заліз вночі до якоїсь печери, заснув. А прокинувся - поруч тварюка якась спить, торбу мою уві сні жує. Чухнув я звідтіль як чемпіон із бігу! А рюкзак так у печері й лишився.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3">
+		<text>Валун біля яру</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3_descr">
+		<text>Собаки до яру притисли, то кинув за валунами рюкзак і пішов на прорив.</text>
+	</string>
+	<string id="st_red_rucksack_02">
+		<text>Рюкзак у кущах</text>
+	</string>
+	<string id="st_red_rucksack_02_0000">
+		<text>Рюкзак у лісі</text>
+	</string>
+	<string id="st_red_rucksack_02_0000_descr">
+		<text>Наче у фільмі жахів побував - не знаю, як і вибрався. Втратив рюкзак. Теоретично «посіяти» я його міг лише в одному місці.</text>
+	</string>
+	<string id="st_red_rucksack_02_0001">
+		<text>Рюкзак під валунами</text>
+	</string>
+	<string id="st_red_rucksack_02_0001_descr">
+		<text>Перед виходом до мосту на Лиманськ під валунами кинув рюкзак Микольчин, він зайвий був. Це щоб, значить, іти далі легше було.</text>
+	</string>
+	<string id="st_red_rucksack_02_4">
+		<text>Проклятий хабар</text>
+	</string>
+	<string id="st_red_rucksack_02_4_descr">
+		<text>Ціла історія із цим наплечником: усі, кому він належав, загинули. Я його і кинув від гріха подалі, щоб очі мої його не бачили.</text>
+	</string>
+	<string id="st_red_rucksack_02_5">
+		<text>Дивне місце</text>
+	</string>
+	<string id="st_red_rucksack_02_5_descr">
+		<text>Заснув уночі під валуном на рюкзаку, а ранком прокинувся зовсім в іншому місці. Намагався розібратися, тільки увесь час по колу ходив.</text>
+	</string>
+	<string id="st_red_rucksack_02_6">
+		<text>Рюкзак під обвалом</text>
+	</string>
+	<string id="st_red_rucksack_02_6_descr">
+		<text>На виході з Рудого лісу валуни зі схила яру зірвалися, і на мене! А за ними щось темне до мене потягнулося. Таки втік, але рюкзак свій там десь загубив.</text>
+	</string>
+	<string id="st_red_rucksack_02_descr">
+		<text>Пробиралися через кущі, впустив до них свій рюкзак.</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone">
+		<text>Сіяло</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone_descr">
+		<text>Абраша, дебіл, посіяв мій рюкзак серед каміння десь у цьому пункті. І повертатися за ним стрімається, виродок. Оце такий друг!..</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel">
+		<text>Схованка у штольні</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel_descr">
+		<text>У закинутій штольні, в самому кінці, заховав хабар.</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000">
+		<text>Пеньок у глухомані</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000_descr">
+		<text>Заблудився в Рудому лісі та й скинув усе своє барахло до дупла пенька ось у цій точці.</text>
+	</string>
+	<string id="st_red_trees_log_01">
+		<text>Речі в дуплі дерева</text>
+	</string>
+	<string id="st_red_trees_log_01_descr">
+		<text>Дорогою на Лиманськ приховали свої речі із Різаком у дуплі поваленого дерева на виході із заповідника.</text>
+	</string>
+	<string id="st_red_trees_stump_01">
+		<text>Дірявий пеньок</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000">
+		<text>Пеньок перед лісом</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000_descr">
+		<text>Мало там що у цьому лісі на нас чекає, то я зайвий вантаж до порохнявого пенька сховав.</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000">
+		<text>Пеньок у яру</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000_descr">
+		<text>Неподалік від опупєнної аномалії всередині пенька затихарили барахло. Самі зара поліземо цю хрінь ближче досліджувати: біля такої по-любасу цінні арти мають лежати.</text>
+	</string>
+	<string id="st_red_trees_stump_01_3">
+		<text>Великий пеньок</text>
+	</string>
+	<string id="st_red_trees_stump_01_3_descr">
+		<text>Сєва сказав, великий порожній пеньок у Рудому лісі. За його наводкою спробую знайти.</text>
+	</string>
+	<string id="st_red_trees_stump_01_4">
+		<text>Схованка у пеньку</text>
+	</string>
+	<string id="st_red_trees_stump_01_4_descr">
+		<text>Приховали із Жекою всяке дрібне у пеньку в Рудому лісі.</text>
+	</string>
+	<string id="st_red_trees_stump_01_7">
+		<text>Пеньок у яру</text>
+	</string>
+	<string id="st_red_trees_stump_01_7_descr">
+		<text>Падав з обриву, гепнувся об цей пеньок. Він великий, то я до нього хабар заникав.</text>
+	</string>
+	<string id="st_red_trees_stump_01_descr">
+		<text>Почув якийсь вереск і виття, драпонув лісом, а речі втулив до дірявого пенька.</text>
+	</string>
+	<string id="st_red_zaz968">
+		<text>«Запор» на капері</text>
+	</string>
+	<string id="st_red_zaz968_descr">
+		<text>Біля спуску до копалень під сидінням «запору» склав свої знахідки. Перед походом до Сидоровича витрушу до великого наплечника.</text>
+	</string>
+	<string id="st_val_seif_02">
+		<text>Сейф на фермі</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001">
+		<text>Колода за гаражами</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001_descr">
+		<text>Поблизу гаражів біля заводу на Янтарі сховав у колоді хабарок: кращого місця не трапилося.</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02">
+		<text>Схрон під молодою ялинкою</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02_descr">
+		<text>Неподалік болота, біля труби, скинув рюкзак під молодою ялинкою.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_descr">
+		<text>У бетонній трубі заховано невеличкий сейф. У ньому трохи запасів на чорний день.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_name">
+		<text>Схованка майора Халецького</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward">
+		<text>Стара схованка</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward_descr">
+		<text>Схованка, в якій дигери колись зберігали свою здобич.</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda">
+		<text>Ящик з інструментами</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda_descr">
+		<text>Старий КПК лежить у подвійному дні в ящику з інструментами</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly">
+		<text>Схованка в аномалії</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly_descr">
+		<text>Якщо вірити Йозі, у схованці серед аномалій лежить якийсь особливий ствол.</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons">
+		<text>Багажник автомобіля</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons_descr">
+		<text>За словами Авоськи, у багажнику старого автомобіля лежить партія товару, що належить якомусь контрабандистові.</text>
+	</string>
+	<string id="st_esc_seif_03_0000_descr">
+		<text>Зіл зберігає своє барахло у сейфі, що базі нейтралів біля Кордону </text>
+	</string>
+	<string id="st_mar_q_n_10">
+		<text>Схрон на Болотах</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>На переробному заводі, що на Болотах, у розтрубі є дуже цінний схрон. Що там у ньому є, тепер твоє.</text>
+	</string>
+	<string id="st_mar_q_n_11">
+		<text>Сейф із винагородою</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>Ці ключі, чувак, відкриють тобі сейф. А там, за моїми даними, є дещо цінне.</text>
+	</string>
+	<string id="st_mar_q_n_12">
+		<text>Нагорода</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>За ваші гроші - наші нички! Розказую все як є - тс-с, тихо! - тобі одному.</text>
+	</string>
+	<string id="st_mar_q_n_13">
+		<text>Валізка</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>Раз таке діло, тримай координати кейса із хабаром. За сміттєвим контейнером біля стінки знайдеш.</text>
+	</string>
+	<string id="st_mar_q_n_14">
+		<text>Сейф під мостом</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>Не буду тебе особливо годувати розповідями. Схованку знайдеш у сейфі під мостом.</text>
+	</string>
+	<string id="st_mar_q_n_6">
+		<text>Рюкзак на сплату</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>Вміст наплечника - його координати я зараз скидаю на твій КПК - компенсує фінансові вливання до моєї кишені.</text>
+	</string>
+	<string id="st_mar_q_n_7">
+		<text>Кодовий сейф</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>Така плата гідна хабара, захованого у сейфі на Болотах.</text>
+	</string>
+	<string id="st_mar_q_n_8">
+		<text>Хабар на сплату</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>Хабар знайдеш у чорному рюкзаку під валунами, він тепер твій.</text>
+	</string>
+	<string id="st_mar_q_n_9">
+		<text>Скринька біля вишки</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>Казала мені одна надійна людина про хабар у безхазяйній схованці, що захована під вишкою.</text>
+	</string>
+	<string id="st_mar_q_t_a_15">
+		<text>Рюкзак мертвого військовослужбовця</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>Одержиш навіть трохи більше, ніж заплатив. Твоя нагорода - у рюкзаку біля трупа військового.</text>
+	</string>
+	<string id="st_mar_q_t_a_3">
+		<text>Додаткові клопоти</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>Ще трохи напружся - й у рюкзаку мертвого вояка знайдеш товар за свої гроші, навіть із верхом. </text>
+	</string>
+	<string id="st_mar_q_t_l_16">
+		<text>Нелегка нагорода</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>Нагороджу тебе інфою про цінний, але важкий для добування хабар. Будь обережний: його колишній господар мої поради профукав - і кірдик.</text>
+	</string>
+	<string id="st_mar_q_t_l_1">
+		<text>Рюкзак на трупі</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>Тримай наводку на тайничок! Він у рюкзаку, а рюкзак на спині в трупа.</text>
+	</string>
+	<string id="st_mar_q_t_l_2">
+		<text>Парашутист</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>Знайдеш «глухаря» за цими координатами: із його рюкзака і забереш те, що тобі належить.</text>
+	</string>
+	<string id="st_mar_q_t_l_4">
+		<text>Труп бійця</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>Моя інформація така: колишній юний боєць мовчки стереже для тебе наплечник у кущах.</text>
+	</string>
+	<string id="st_mar_q_t_l_5">
+		<text>Рюкзак під трубопроводом</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>Оце хапай координати на рюкзак, котрий поруч із трупом сталкера під трубопроводом лежить.</text>
+	</string>
+	<string id="st_esc_q10_n">
+		<text>Пень біля колючого дроту</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>Хлопче, своє законне знайдеш у пеньку неподалік «колючки».</text>
+	</string>
+	<string id="st_esc_q1_n">
+		<text>Зелений ящик</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>Спеціально для тебе приберіг хабар у зеленому армійському ящику на краю Кордону. Врахуй, від серця відриваю!</text>
+	</string>
+	<string id="st_esc_q2_n">
+		<text>Рюкзачок на відшибі</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>Що ж, за твої щедроти дарую тебе схроном із мого плеча, ха-ха! Ну, ясна річ, усім його вмістом теж можеш користуватися.</text>
+	</string>
+	<string id="st_esc_q3_t_l">
+		<text>Дорога до Боліт</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>Гроші наші - схованки ваші. Знайдеш по дорозі на Болота поруч із трупом.</text>
+	</string>
+	<string id="st_esc_q4_t_a">
+		<text>Нагорода для героя</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>Покупка чекає на тебе у вигляді рюкзака поруч із трупом сталкера-невдахи. Орієнтир - старий електровоз неподалік.</text>
+	</string>
+	<string id="st_esc_q5_n">
+		<text>Винагорода</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>Знайдеш схованку за оцими координатами під деревом у рюкзаку.</text>
+	</string>
+	<string id="st_esc_q6_n">
+		<text>Лізь - не вб'є</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>Моя частина угоди - в електрощитку елеватора. Лізь до нього спокійно, якщо аномалій поруч немає. А струм там і так давно скінчився.</text>
+	</string>
+	<string id="st_esc_q7_n">
+		<text>Кейс під вагоном</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>Твій улов - те, що в кейсі під вагоном на залізниці.</text>
+	</string>
+	<string id="st_esc_q8_n">
+		<text>Фальшива могила</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>Неправильно це - бабратися у могилах. Однак тайничок мій захований у фальшивому горбку, тому мертвих аж ніяк не потутрбуєш.</text>
+	</string>
+	<string id="st_esc_q9_t_a">
+		<text>Кейс за смітником</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>Розплачуся я з тобою вмістом кейса, кинутого поруч з аномалією за смітником на Кордоні. Там поруч іще один товариш до нього тягнеться, то його не бійся - він уже не боєць.</text>
+	</string>
+	<string id="st_gar_q10_n">
+		<text>Пеньок на околиці Смітника</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>Що ж, поділюся наводочкою на схованку із хабаром: дивися у пеньку на околиці Смітника, там усе твоє.</text>
+	</string>
+	<string id="st_gar_q1_n">
+		<text>Чорний рюкзак в уламках</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>Те, що тепер буде твоє, знайдеш у чорному рюкзаку в уламках будівельного крана.</text>
+	</string>
+	<string id="st_gar_q2_n">
+		<text>Обрізок труби</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>Я гроші прийняв, а тобі доведеться ще своїм циркулем дочапати до схованки в обрізку труби.</text>
+	</string>
+	<string id="st_gar_q3_n">
+		<text>Бокс електрощитка в уламках</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>Ет, для себе колись тайничок зорганізував... та що вже тепер, доведеться тобі його здати.</text>
+	</string>
+	<string id="st_gar_q4_n">
+		<text>Скринька в радіаційному мотлосі</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>Пропоную координати на скриньку із хабаром. Головне, яйця свої там не присмаж, бо радіаційне тло дуже сильне. </text>
+	</string>
+	<string id="st_gar_q5_n">
+		<text>Скринька у «лапі» бульдозера</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>Біля опори «лапи» бульдозера знайдеш те, що купив.</text>
+	</string>
+	<string id="st_gar_q6_t_l">
+		<text>Рюкзак мерця</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>Привидів не боїшся? Тоді шукай схованку в рюкзаку поруч із мерцем.</text>
+	</string>
+	<string id="st_gar_q7_t_l">
+		<text>Труп біля екскаватора</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>Біля перевернутого екскаватора один незлобивий хлопчик із тобою розплатиться вмістом свого рюкзака.</text>
+	</string>
+	<string id="st_gar_q8_t_a">
+		<text>Труп на Смітнику</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>Доведеться тобі попотіти, щоб забрати своє! Візьмеш хабаром із рюкзака хлопця, вбитого аномалією.</text>
+	</string>
+	<string id="st_gar_q9_n">
+		<text>Дорогою на Агропром</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>В УАЗику по дорозі на Агропром пошукай скриньку, невелику таку. Думаю, вміст тебе не розчарує.</text>
+	</string>
+	<string id="st_val_q10_n">
+		<text>Сейф у ангарі</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>Я своє слово тримаю. Обіцяна ничка на тебе чекає у сейфі на старому заводі.</text>
+	</string>
+	<string id="st_val_q11_t_l">
+		<text>Труп біля каміння</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>У рюкзаку поруч із трупом біля каміння знайдеш те, що тобі на сплату піде.</text>
+	</string>
+	<string id="st_val_q1_n">
+		<text>Під цистерною</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>У рюкзаку під цистерною візьми мій хабар - тепер він твій.</text>
+	</string>
+	<string id="st_val_q2_n">
+		<text>Чагарник біля ялини</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>Приховав я колись у чагарнику хабар із вдалої ходки. От він і придався, щоб із тобою розплатитися.</text>
+	</string>
+	<string id="st_val_q3_t_a">
+		<text>Труп військовослужбовця</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>Запиши інфу про цінний хабар, котрий в рюкзаку невдахи-зольда зберігається. Це прямо поруч із аномалією.</text>
+	</string>
+	<string id="st_val_q4_n">
+		<text>Хабар у кущах</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>Я завжди сплачую свої рахунки, тому ось, тримай координати хабара.</text>
+	</string>
+	<string id="st_val_q5_n">
+		<text>Сейф на базі «Волі»</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>У триповерхівці на базі «Волі» у сейфі щось чекає на шукача гарних хабарів.</text>
+	</string>
+	<string id="st_val_q6_n">
+		<text>Скринька на вишці</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>Оцінив я твій інтерес! Як винагороду за нього візьми вміст синьої скриньки на вишці за базою «Волі».</text>
+	</string>
+	<string id="st_val_q7_n">
+		<text>Сталкерська могила</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>Твоя плата лежить під хрестом сталкерської могили біля старого дерева.</text>
+	</string>
+	<string id="st_val_q8_n">
+		<text>Ящик під сидінням</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>Під водійським сидінням червоного ЛАЗа знайдеш ящик. А вже що там у ньому, розбирайся сам.</text>
+	</string>
+	<string id="st_val_q9_n">
+		<text>Пеньок біля огорожі</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>Для таких випадків приховане в мене барахло у пеньку, що біля огорожі.</text>
+	</string>
+	<string id="st_agr_q10_t_l">
+		<text>Конфіскат в аномалії</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>Вляпався солдатик до аномалії, а рюкзак із хабаром, що в сталкерів відібрав, так і лежить поруч. Якщо ти везучий, то зможеш ним розжитися.</text>
+	</string>
+	<string id="st_agr_q1_n">
+		<text>Під парканом біля колючого дроту</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>Значить, на сплату видам тобі секретний схрон біля паркану в сталкерському рюкзаку. Орієнтуйся на високовольтну вишку.</text>
+	</string>
+	<string id="st_agr_q2_n">
+		<text>Під вивертнем</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>Камер схову в Зоні нема, вибачай. Якщо поквапишся, знайдеш схрон під поваленим деревом, у наплечнику.</text>
+	</string>
+	<string id="st_agr_q3_t_a">
+		<text>Труп у вогнищі радіації</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>Хочеш знатних схованок? Їх єсть у мєня. Одержиш хабар, якщо не страшно до вогнища радіації залізти. Там прямо поруч із трупом твій приз і лежить.</text>
+	</string>
+	<string id="st_agr_q4_n">
+		<text>Балони на могилі</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>Уговор дороже денег! Найдёшь схрон в баллонах на могиле неизвестного.</text>
+	</string>
+	<string id="st_agr_q5_n">
+		<text>Ріг огорожі</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>На розі огорожі в старому пеньку дещо з часів останнього викиду заникав Колька Косий... царство йому небесне.</text>
+	</string>
+	<string id="st_agr_q6_n">
+		<text>Розподільний щит</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>Схованка моя... ну, тепер уже твоя - то вона у розподільному щитку на базі «Долгу».</text>
+	</string>
+	<string id="st_agr_q7_n">
+		<text>Колода біля дерева</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>Добрі люди розповіли мені днями про схованку наших недругів. Вигреби звідти все до нитки, будь ласка!</text>
+	</string>
+	<string id="st_agr_q8_t_a">
+		<text>Труп у мікроавтобусі</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>Вояки так гнали на своєму автобусі, що влетіли до аномалії і розбилися от у цьому квадраті. Весь їхній хабар тепер твій.</text>
+	</string>
+	<string id="st_agr_q9_n">
+		<text>Сейф під зсувом</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>Попід яром прикопав сейф із добром. Будемо вважати, для тебе як для друзяки постарався.</text>
+	</string>
+	<string id="st_agru_q1_n">
+		<text>Хрестовина під сходами</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>У дурнуватому місці схованка, зате можеш бути певен, що ніхто її не пограбував. Шукай у підземці під сходами.</text>
+	</string>
+	<string id="st_agru_q2_n">
+		<text>Кейс у підземеллі</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>Унизу кручених сходів, якщо не потривожиш мешканців підземки, знайдеш загублений кейс із добром.</text>
+	</string>
+	<string id="st_agru_q3_t_a">
+		<text>У підземці</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>Осьо місце, де підбереш рюкзак військового, який у підземці Агропрома втрапив до аномалії. Та сам диви не вляпайся!</text>
+	</string>
+	<string id="st_agru_q4_n">
+		<text>Труба у колекторі</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>Знаю по записах у КПК одного сталкера, що в підземеллі НДІ «Агропром» приховано хабар. Переписуй координати. </text>
+	</string>
+	<string id="st_yan_q8_t_l">
+		<text>Труп в озері</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>Шукати будеш у рюкзаку мертвого солдатика, який в озері плаває.</text>
+	</string>
+	<string id="st_yan_q1_n">
+		<text>Скринька на даху бойлерної</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>Є один тайничок на даху бойлерної в синій скриньці. Навколо зомбі - аж чорно, тож будь обережніший.</text>
+	</string>
+	<string id="st_yan_q2_n">
+		<text>Скриня у вагоні</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>Усе чудово! Ось, тримай у відповідь координати скрині - вона всередині вагона на заводі. На місці все зрозумієш.</text>
+	</string>
+	<string id="st_yan_q3_t_l">
+		<text>Рюкзак біля стічної труби</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>Знайдеш рюкзак біля стічної труби - і ми розрахуємось. Поруч труп лежить, тому визначитись легко.</text>
+	</string>
+	<string id="st_yan_q4_n">
+		<text>Кейс на науковій базі</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>Клас! Візьми собі все, що знайдеш усередині скриньки в багажнику УАЗика на науковій базі.</text>
+	</string>
+	<string id="st_yan_q5_n">
+		<text>Будка електрощитової</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>На грошенята твої відповім координатами схрону в будці поблизу заводу.</text>
+	</string>
+	<string id="st_yan_q6_n">
+		<text>Розтруб цистерни</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>У розтрубі нижньої цистерни на заводі щось приховане. Що саме - не знаю, не перевіряв.</text>
+	</string>
+	<string id="st_yan_q7_n">
+		<text>Кабіна МАЗу</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>Барахло знайдеш у кабіні МАЗу, воно до кейсу спаковане.</text>
+	</string>
+	<string id="st_yan_q9_n">
+		<text>Пеньок навпроти табору вчених</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>Шукай ничку під пеньком навпроти бази вчених.</text>
+	</string>
+	<string id="st_red_q10_n">
+		<text>Труба у шахті</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>Точно знаю: щось цінне лежить у тій схованці в Рудому лісі.</text>
+	</string>
+	<string id="st_red_q1_t_l">
+		<text>Мертвий сталкер</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>Із КПК загиблого сталкера довідався про те, що в його рюкзаку було дещо цікаве. Координати скидаю тобі.</text>
+	</string>
+	<string id="st_red_q2_t_a">
+		<text>Небезпечна схованка</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>Уже давав одному кадрові інфу про цю схованку, але точно знаю, що той бевзь так хабар і не забрав: до аномалії поблизу трапив, там і кінчився.</text>
+	</string>
+	<string id="st_red_q3_n">
+		<text>Червоний вентиль</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>Схованка знаходиться за червоним вентилем трубопроводу в шахті. Що там - біс його зна, мені не цікаво.</text>
+	</string>
+	<string id="st_red_q4_n">
+		<text>Автобус</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>Під заднім сидінням автобуса один знайомий зробив схованку. Знайомого цього зараз серед живих уже немає, тож він не образиться.</text>
+	</string>
+	<string id="st_red_q5_n">
+		<text>Труба в завалі</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>Довідався про цю ничку від полоненого. Коротше, вона в завалі за БТРом у сегменті труби.</text>
+	</string>
+	<string id="st_red_q6_n">
+		<text>Скриня із рюкзаком</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>Скарб твій реально казковий! Запам'ятовуй: нагорода в наплечнику, наплечник у скрині, скриня біля мосту, а міст - за Рудим лісом.</text>
+	</string>
+	<string id="st_red_q7_t_a">
+		<text>Рюкзак бідолахи</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>Один бідолаха мені рюкзак ніс, тільки через Рудий ліс так і не пройшов. Ну, якщо знайдеш, усе твоїм буде.</text>
+	</string>
+	<string id="st_red_q8_n">
+		<text>Сейф біля вагонетки</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>Без балди, у сейфі біля перевернутої вагонетки сховав один кекс щось цінне!</text>
+	</string>
+	<string id="st_red_q9_n">
+		<text>Звичайний старий пеньок</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>Є схованка у порохнявому пні. Місце непримітне - без координат ніц не знайдеш. От зараз я їх тобі...</text>
+	</string>
+	<string id="st_mil_q10_n">
+		<text>Схованка у лісі</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>Прихований під камінням у лісі рюкзак. Лови координати... до хороших рук чом би й не віддати?</text>
+	</string>
+	<string id="st_mil_q1_t_l">
+		<text>Рюкзак під трупом</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>Схованка воно не схованка, та цінний хабар у тім рюкзаку на водонапірній вежі має бути.</text>
+	</string>
+	<string id="st_mil_q2_n">
+		<text>Схрон під вивертнем</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>Передаю із рук у руки інфу про схрон під поваленим деревом.</text>
+	</string>
+	<string id="st_mil_q3_n">
+		<text>Бабусин сейф</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>Звідки на грубці узявся сейф - не знаю, але маю відомості, що він там не порожній стоїть.</text>
+	</string>
+	<string id="st_mil_q4_n">
+		<text>Могильна схованка</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>Є інформація, що можна розбагатіти, покопирсавшись під хрестом от за цими координатами.</text>
+	</string>
+	<string id="st_mil_q5_n">
+		<text>Скриня на армійській базі</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>Якщо зможеш пробратися на армійську базу, знайдеш там на одному з горищ скриню із винагородою за твої зусилля.</text>
+	</string>
+	<string id="st_mil_q6_n_a">
+		<text>Сейф у комірці</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>Маю відомості про те, що у сейфі в бараках вояків зберігається щось.</text>
+	</string>
+	<string id="st_mil_q7_n_a">
+		<text>Маленький сейф</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>Капитан Елтышев всё с этим сейфом носился, пока его в другой квадрат не перекинули. Найдёшь - глянешь, что там есть стоящего.</text>
+	</string>
+	<string id="st_mil_q8_n_a">
+		<text>Купа сміття</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>Ява спеціально схованку до мотлоху затирив, та тільки сам про неї забув. А я усе чітко записав! Тепер тобі дарую.</text>
+	</string>
+	<string id="st_mil_q9_n_a">
+		<text>Скринька із секретом</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>За кабіною армійського МАЗа є скринька - та не проста, із секретом. Тобі цей секрет і продаю.</text>
+	</string>
+</string_table>

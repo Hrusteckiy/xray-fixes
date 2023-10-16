@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>Сховатися від викиду</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>Дочекатися закінчення викиду</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>Бігти до найближчого укриття і сховатися від викиду</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>Увага! Усі в укриття! Наближається викид! Повторюю, наближається викид! Орієнтовний час до викиду:</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>секунд.</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>Принести предмети.</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>Віднести зібрані предмети командирові угруповання</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>Захопити</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>Необхідно захопити й утримати під своїм контролем зазначений об'єкт</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>Утримати точку до приходу союзників</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>Захистити табір</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>Прийти на допомогу</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>Навколо цієї точки помічено ворога. Атака може розпочатися щохвилини.</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>На загін напав ворог. Необхідно допомогти у відбитті нападу.</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>Знищити ворога</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>Знищити ворога у ключовій точці</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>Знайти вдосконалення</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>Згоден?</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>Повернути предмет:</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>Відбити контратаку ворога на точку</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>Одержати нагороду</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>Нагорода чекає в торговця угруповання</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>Розчистити дорогу</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>Необхідно допомогти загону союзників пробитися</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>Знищити ворога</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>Потрібно вибити ворога із цієї території: це послабить його позиції</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>Підійти до бочки</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>шт.</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>Вивести з ладу псі-захист Стрільця</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>Рівень псі-випромінювання на станції зашкалює, але Стрілець захищений від нього. Якщо вивести із ладу пристрій-прототип, Стрільця можна буде зупинити. Електроніку пристрою можна пошкодити на відстані за допомогою електромагнітної рушниці.</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>Знайти телепорт, що веде на теплотрасу</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>Простір навколо станції пронизано телепортами. Щоб вести вогонь по Стрільцю, необхідно повернутися на теплотрасу. Знайти телепорт, котрий веде назад до теплотраси.</text>
+	</string>
+</string_table>

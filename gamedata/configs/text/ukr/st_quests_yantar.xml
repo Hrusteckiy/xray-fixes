@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yan_actor_destroy_wave1">
+		<text>Місце появи зомбі</text>
+	</string>
+	<string id="yan_actor_destroy_wave1_name">
+		<text>Не підпускати зомбі до сталкерів на даху.</text>
+	</string>
+	<string id="yan_actor_destroy_wave1_text">
+		<text>Необхідно прикривати сталкерів на даху, поки вони працюють із клапаном установки. Не можна підпускати зомбі до цієї ремонтної команди.</text>
+	</string>
+	<string id="yan_actor_destroy_wave2">
+		<text>Місце появи зомбі</text>
+	</string>
+	<string id="yan_actor_destroy_wave2_name">
+		<text>Не підпускати зомбі до сталкерів у ангарі.</text>
+	</string>
+	<string id="yan_actor_destroy_wave2_text">
+		<text>Необхідно прикривати сталкерів у ангарі, поки вони працюють із клапаном установки. Не можна підпускати зомбі до цієї ремонтної команди.</text>
+	</string>
+	<string id="yan_actor_go_base_defence">
+		<text>Захистити базу вчених</text>
+	</string>
+	<string id="yan_actor_go_base_defence_name">
+		<text>Захистити базу вчених</text>
+	</string>
+	<string id="yan_actor_go_base_defence_text">
+		<text>Захистити базу вчених</text>
+	</string>
+	<string id="yan_actor_go_base_science">
+		<text>Під час нападу зомбі двері бункера вчених заблоковано. Необхідно відбити атаку зомбі для того, щоб потрапити всередину бункера.</text>
+	</string>
+	<string id="yan_actor_go_base_science_name">
+		<text>Поговорити із Сахаровим</text>
+	</string>
+	<string id="yan_actor_go_base_science_text">
+		<text>Стрілець пішов до вчених на Янтар. Необхідно дістатися до Янтаря і поговорити із професором Сахаровим - можливо, той знає, де шукати Стрільця.</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest">
+		<text>Відкритий прохід до Рудого лісу</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest_name">
+		<text>Іти до Рудого лісу</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest_text">
+		<text>Роботу охолоджувальної установки стабілізовано, рівень псі-випромінювання мінімальний. Прохід до Рудого лісу безпечний. Необхідно рухатися у бік Рудого лісу - саме туди прямує Стрілець.</text>
+	</string>
+	<string id="yan_actor_go_to_stalker">
+		<text>Уточни позицію</text>
+	</string>
+	<string id="yan_actor_go_to_stalker_name">
+		<text>Уточни позицію в лідера групи</text>
+	</string>
+	<string id="yan_actor_go_to_stalker_text">
+		<text>Уточни позицію в лідера групи</text>
+	</string>
+	<string id="yan_main_quest_line">
+		<text>Не дати загинути ремонтній команді</text>
+	</string>
+	<string id="yan_main_quest_line_name">
+		<text>Тримати позицію!</text>
+	</string>
+	<string id="yan_main_quest_line_text">
+		<text>Тримати позицію!</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy">
+		<text>Віднести документи Сахарову</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy_name">
+		<text>Віднести документи Сахарову</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy_text">
+		<text>Віднести документи Сахарову. Можливо, вони пояснять причину появи настільки сильного псі-випромінювання на Янтарі.</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke">
+		<text>Прорватися до установки</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke_name">
+		<text>Прорватися на територію комплексу</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke_text">
+		<text>Околиці комплексу кишать зомбі. Разом із групою Лівші необхідно пробитися на його територію. Потрібно поспішати: рівень псі-випромінювання може досягти критичної межі у будь-який момент.</text>
+	</string>
+	<string id="yan_quest_doc">
+		<text>Знайти документи</text>
+	</string>
+	<string id="yan_quest_doc_name">
+		<text>Знайти КПК із документами</text>
+	</string>
+	<string id="yan_quest_doc_text">
+		<text>Група сталкерів знайшла на території комплексу важливі документи, котрі можуть допомогти Сахарову з'ясувати причину появи потужного псі-випромінювання на Янтарі. Сигнал групи пропав на виході з території комплексу. Необхідно знайти КПК із документами.</text>
+	</string>
+	<string id="yan_quest_levsha">
+		<text>Зустрітися із Лівшею</text>
+	</string>
+	<string id="yan_quest_levsha_name">
+		<text>Зустрітися із загоном Лівші</text>
+	</string>
+	<string id="yan_quest_levsha_text">
+		<text>Група сталкерів готується пробиватися на територію комплексу під час спаду рівня псі-випромінювання. Слід зустрітися із командиром групи - Лівшею.</text>
+	</string>
+	<string id="yan_repair_defend">
+		<text>Зайняти позицію на даху ангара</text>
+	</string>
+	<string id="yan_repair_defend_name">
+		<text>Рухатися за сталкером на дах ангара</text>
+	</string>
+	<string id="yan_repair_defend_text">
+		<text>Лівша наказав усім зайняти позиції. Необхідно йти за сталкером на дах до своєї позиції.</text>
+	</string>
+	<string id="yan_recover_item_1_name">
+		<text>Принести «Червоненьку квіточку»</text>
+	</string>
+	<string id="yan_recover_item_1_text">
+		<text>Допоможи мені, найманцю. Є в Зоні один артефакт, ми його прозвали «Червоненька квіточка». Для сталкерів у ньому немає користі... але жінкам він так сильно подобається, що кожна про такий сувенір може лише мріяти. Із таким подарунком кожна тобі віддасться. У мене скоро побачення намічається, тому мені конче потрібна ця «Квіточка». Лише через неї досі у Зоні стирчу, а цей артефакт недавно тут неподалік бачили. Він і справді схожий на чарівну квітку - світить вдень і вночі. Дістань мені «Квіточку», а я тобі віддячу!</text>
+	</string>
+	<string id="yan_recover_item_2_name">
+		<text>Повернути гранату-сувенір</text>
+	</string>
+	<string id="yan_recover_item_2_text">
+		<text>Найманцю, мені потрібна одна річ... Я, знаєш, втратив сувенір, виглядає як граната.. але це не граната... тобто граната, але навчальна... Коротше кажучи, поверни мені її... Коли територією заводу лазив, то там так гоцнуло... у голові все перемішалося, ледь не забув, хто я такий є... Очуняв лише тут, а граната напевно там лишилася... Принеси її, добре?</text>
+	</string>
+</string_table>

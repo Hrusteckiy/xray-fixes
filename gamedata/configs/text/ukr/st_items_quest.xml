@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_duty_bar_secret_1_descr">
+		<text>Секрет 1 опис</text>
+	</string>
+	<string id="agr_duty_bar_secret_1_name">
+		<text>Секрет 1</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_descr">
+		<text>Секрет 2 опис</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_name">
+		<text>Секрет 2</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_descr">
+		<text>Секрет 3 опис</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_name">
+		<text>Секрет 3</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_descr">
+		<text>Секрет 4 опис</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_name">
+		<text>Секрет 4</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_descr">
+		<text>Секрет 5 опис</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_name">
+		<text>Секрет 5</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_descr">
+		<text>Секрет 6 опис</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_name">
+		<text>Секрет 6</text>
+	</string>
+	<string id="device_pda_old">
+		<text>Старий КПК Свіжака</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_descr">
+		<text>Тут у мене речі на чорний день приховані. Якщо настане пипоть, ці запаси мені неодмінно стануть у пригоді.</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_name">
+		<text>Схованка новачка</text>
+	</string>
+	<string id="esc_treasure_weapon_box_descr">
+		<text>Зброя та патрони потрібні для боротьби проти військових та бандитів</text>
+	</string>
+	<string id="esc_treasure_weapon_box_name">
+		<text>Скриня зі зброєю та патронами</text>
+	</string>
+	<string id="st_agr_map_animals">
+		<text>КПК із картою міграції</text>
+	</string>
+	<string id="st_agr_map_animals_descr">
+		<text>Карта міграції допомагає знайти рідкі види монстрів і згодом використати їх у наукових цілях.</text>
+	</string>
+	<string id="st_agr_mechanic_pda">
+		<text>КПК із даними щодо модифікацій зброї</text>
+	</string>
+	<string id="st_agr_mechanic_pda_descr">
+		<text>Електронні креслення допоможуть удосконалити зброю.</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader">
+		<text>КПК із цінною інформацією</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader_descr">
+		<text>Немає даних</text>
+	</string>
+	<string id="st_device_pda_fang">
+		<text>КПК Клика</text>
+	</string>
+	<string id="st_device_pda_fang_descr">
+		<text>КПК Клика</text>
+	</string>
+	<string id="st_device_pda_lost_squard_descr">
+		<text>Секретна інформація про дії військових на території складів</text>
+	</string>
+	<string id="st_device_pda_lost_squard_fang">
+		<text>КПК командира загону сталкерів</text>
+	</string>
+	<string id="st_device_pda_military">
+		<text>КПК Генерала</text>
+	</string>
+	<string id="st_device_pda_military_descr">
+		<text>КПК містить секретну інформацію щодо найближчих планів військових на Кордоні</text>
+	</string>
+	<string id="st_esc_device_pda_driver">
+		<text>КПК друга водія</text>
+	</string>
+	<string id="st_esc_device_pda_driver_descr">
+		<text>КПК друга водія</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card">
+		<text>Інформація про вдосконалення зброї</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card_descr">
+		<text>Інформація про вдосконалення зброї</text>
+	</string>
+	<string id="st_esc_military_documentation">
+		<text>Секретні дані військових</text>
+	</string>
+	<string id="st_esc_military_documentation_descr">
+		<text>Секретні дані</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard">
+		<text>КПК командира</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard_descr">
+		<text>КПК командира загону сталкерів містить коштовну цінну інформацію про плани захоплення бандитами територій військових складів</text>
+	</string>
+	<string id="st_red_forest_pda_map">
+		<text>КПК із картою Рудого лісу</text>
+	</string>
+	<string id="st_red_forest_pda_map_descr">
+		<text>У цьому КПК є карта Рудого лісу. Серед іншого на ній позначена просторова аномалія. Зважаючи на все, остання може перенести до місця, де мешкає Лісник</text>
+	</string>
+	<string id="device_pda_digger_descr">
+		<text>На цьому КПК знаходиться технічна документація, котра може допомогти вченим розібратися у причині появи настільки сильного псі-випромінювання на Янтарі</text>
+	</string>
+	<string id="device_pda_digger_name">
+		<text>КПК зниклої експедиції</text>
+	</string>
+	<string id="device_pda_garbage_traitor">
+		<text>КПК Контрабандиста</text>
+	</string>
+	<string id="device_pda_garbage_traitor_descr">
+		<text>КПК Контрабандиста, знайдений серед речей Авоськи</text>
+	</string>
+	<string id="device_pda_old_descr">
+		<text>Старий КПК, знайдений у подвійному дні ящика з інструментами у таборі Свіжака</text>
+	</string>
+	<string id="flesh_up_a_novice_outfit_name">
+		<text>Флешка із даними про надлегкі кевларові бронежилети</text>
+	</string>
+	<string id="flesh_up_ab_pkm_name">
+		<text>Флешка із даними про балансування автоматики кулемета</text>
+	</string>
+	<string id="flesh_up_ab_svu_name">
+		<text>Флешка із даними про стволи для снайперських гвинтівок</text>
+	</string>
+	<string id="flesh_up_abcd_pkm_name">
+		<text>Флешка із даними про модифікації системи відведення газів для кулемета</text>
+	</string>
+	<string id="flesh_up_abcd_svu_name">
+		<text>Флешка із даними про електронний стабілізатор для снайперських гвинтівок</text>
+	</string>
+	<string id="flesh_up_ac_ak74u_name">
+		<text>Флешка із даними про балансування автоматики</text>
+	</string>
+	<string id="flesh_up_ac_desert_eagle_name">
+		<text>Флешка із даними про дулове гальмо для пістолета</text>
+	</string>
+	<string id="flesh_up_ac_mp5_name">
+		<text>Флешка із даними про дулове гальмо для пістолетів-кулеметів</text>
+	</string>
+	<string id="flesh_up_ac_spas12_name">
+		<text>Флешка із даними про помпові механізми для бойових дробовиків</text>
+	</string>
+	<string id="flesh_up_ac_wincheaster1300_name">
+		<text>Флешка із даними про помпові механізми для дробовиків</text>
+	</string>
+	<string id="flesh_up_aceg_scientific_outfit_name">
+		<text>Флешка із даними про посилений армійський бронежилет</text>
+	</string>
+	<string id="flesh_up_bd_desert_eagle_name">
+		<text>Флешка із даними про модифікації ствола для пістолетів</text>
+	</string>
+	<string id="flesh_up_bd_mp5_name">
+		<text>Флешка із даними про модифікації ствола для пістолетів-кулеметів</text>
+	</string>
+	<string id="flesh_up_bd_wincheaster1300_name">
+		<text>Флешка із даними про системи електронної стабілізації для дробовиків</text>
+	</string>
+	<string id="flesh_up_bdfh_scientific_outfit_name">
+		<text>Флешка із даними про систему захисту від псі-випромінювання</text>
+	</string>
+	<string id="flesh_up_cd_pkm_name">
+		<text>Флешка із даними про дулове гальмо для кулемета</text>
+	</string>
+	<string id="flesh_up_cd_svu_name">
+		<text>Флешка із даними про дулове гальмо для снайперських гвинтівок</text>
+	</string>
+	<string id="flesh_up_fh_scientific_outfit_name">
+		<text>Флешка із даними про замкнуту систему дихання</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_desc">
+		<text>КПК із кресленнями - розібратися у них, схоже, здатен лише справжній геній.</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_name">
+		<text>КПК друга дядька Яра</text>
+	</string>
+	<string id="st_device_pda_comendant_desc">
+		<text>Особистий КПК Коменданта. Серед іншого містить інформацію про співробітництво із найманцями.</text>
+	</string>
+	<string id="st_device_pda_comendant_name">
+		<text>КПК Коменданта</text>
+	</string>
+	<string id="st_device_pda_freedom">
+		<text>КПК сталкера «Волі»</text>
+	</string>
+	<string id="st_device_pda_freedom_desc">
+		<text>КПК одного з бійців «Волі» із записом розмови тих, хто раптово атакував загін.</text>
+	</string>
+	<string id="st_esc_trader_habar_desc">
+		<text>Валізка із кодовим замком. Становить виняткову цінність для Сидоровича.</text>
+	</string>
+	<string id="st_esc_trader_habar_name">
+		<text>Хабар</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Немає даних.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>КПК</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan">
+		<text>Автомат «долговця»</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan_descr">
+		<text>На автоматі білою фарбою акуратно виписано інвентарний номер. Така завбачливість свідчить про те, що ця зброя належить одному із бійців «Долга».</text>
+	</string>
+	<string id="st_agr_quest_duty_case">
+		<text>Кейс «долговця»</text>
+	</string>
+	<string id="st_agr_quest_duty_case_descr">
+		<text>Кейс закрито на кодовий замок. Судячи зі звуку, всередині знаходяться кілька предметів. На кришці фломастером виведено напис, в якому власник кейса зазначає свій позивний в угрупованні «Долг».</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda">
+		<text>КПК із секретною інформацією</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda_descr">
+		<text>На КПК є кілька записів, з яких зрозуміло, що він належав «долговцеві». Решту інформації добре зашифровано.</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12">
+		<text>Дробовик «Різник»</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12_descr">
+		<text>Судячи із зовнішнього вигляду, цю зброю довго втоптували у землю. Заводський напис на прикладі свідчить, що цей дробовик було випущено дуже нечисленною партією, а особлива його відмінність від стандартного типу полягає у якіснішому зовнішньому покритті. Навіть власна застрашлива назва є - «Потрошитель», себто «Різник».</text>
+	</string>
+	<string id="st_esc_quest_akm47">
+		<text>Трофейний АКМ-74/2</text>
+	</string>
+	<string id="st_esc_quest_akm47_descr">
+		<text>Старий потертий автомат зі слідами чиїхось пазурів на прикладі. Цей екземпляр є зброєю, про яку ходять легенди.</text>
+	</string>
+	<string id="st_esc_quest_luky_detector">
+		<text>Щасливий детектор</text>
+	</string>
+	<string id="st_esc_quest_luky_detector_descr">
+		<text>Старий детектор із наклейками від жувальної гумки та бананів. На вигляд - звичайний собі детектор; навіть дивно, що хтось вважає його особливим.</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka">
+		<text>«Чарівна горілка»</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka_descr">
+		<text>Мутнувата рідина із різким запахом спирту. Судячи із запаху, її міцність -градусів 80-90. Навряд чи варто це пити.</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit">
+		<text>Спецаптечка НПР-21п</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit_descr">
+		<text>На кришці аптечки написано «Набор противорадиационных препаратов НПР-21п (опытный образец)». В інструкції із застосування позначено чималий список малоприємних побічних дій.</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit">
+		<text>Міцна шкіряна куртка</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit_descr">
+		<text>Схоже, що попереднього власника цієї одежі розірвало в аномалії. Дивно, але куртка при цьому виглядає абсолютно цілою.</text>
+	</string>
+	<string id="st_gar_quest_vodka_2">
+		<text>Горілка «Козаки-2»</text>
+	</string>
+	<string id="st_gar_quest_vodka_2_descr">
+		<text>Судячи із криво наліпленої етикетки та незрозумілого осаду на дні пляшки, ця горілка - палена.</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle">
+		<text>Модифікований ствол </text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle_descr">
+		<text>Зброя для справжнього «поганого хлопця». Над цим пістолетом попрацював технік, який знає свою справу, тому базові характеристики суттєво поліпшені.</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm">
+		<text>Іменний пістолет</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm_descr">
+		<text>На рукоятці пістолета є якийсь напис. Розібрати можна лише «За отличн... сл..бу..» та «А.С.» - вочевидь, чиїсь ініціали.</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300">
+		<text>Бандитський «Чейзер-13»</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300_descr">
+		<text>На стволі дробовика надряпано кілька закарлючок - котрі, очевидно, зображують убитих із цієї зброї сталкерів.</text>
+	</string>
+	<string id="st_red_forest_pda_map_2">
+		<text>КПК із картою Рудого лісу</text>
+	</string>
+	<string id="st_red_forest_pda_map_2_descr">
+		<text>У цьому КПК є карта Рудого лісу. Колишній власник позначив купу місцин із підвищеною радіацією. Останній запис зроблено о 23.15: «Слід було переночувати біля мосту, вночі нам звідси не вибратися».</text>
+	</string>
+	<string id="st_red_quest_prototipe_device">
+		<text>Експериментальний пристрій</text>
+	</string>
+	<string id="st_red_quest_prototipe_device_descr">
+		<text>Прилад із безліччю перемикачів та індикаторів. На ньому немає написів, із яких було б можна зрозуміти його призначення.</text>
+	</string>
+	<string id="st_red_quest_tank_minigun">
+		<text>Танковий кулемет</text>
+	</string>
+	<string id="st_red_quest_tank_minigun_descr">
+		<text>Цей кулемет було призначено для встановлення на башті танка, але поза тим він цілком придатний для використання як ручний.</text>
+	</string>
+	<string id="st_val_quest_flash_movies">
+		<text>Флешка із фільмами</text>
+	</string>
+	<string id="st_val_quest_flash_movies_descr">
+		<text>На флешку записано всі останні новинки кіно - але, на жаль, у непідходящому для перегляду на КПК форматі.</text>
+	</string>
+	<string id="st_val_quest_guitar_serg">
+		<text>Гітара Серьоги</text>
+	</string>
+	<string id="st_val_quest_guitar_serg_descr">
+		<text>На гітарі кульковою ручкою зроблено напис, котрий свідчить: цю гітару подарувала такому собі Серьогє його дівчина.</text>
+	</string>
+	<string id="st_val_quest_scope_x8">
+		<text>8-кратний оптичний приціл</text>
+	</string>
+	<string id="st_val_quest_scope_x8_descr">
+		<text>Відмінна оптика зі спеціальним кріпленням. Судячи з усього, її можна поставити лише на мисливську рушницю.</text>
+	</string>
+	<string id="st_yan_quest_granade">
+		<text>Граната-сувенір</text>
+	</string>
+	<string id="st_yan_quest_granade_descr">
+		<text>Навчальна граната. До кільця запобіжника причеплено ланцюжок та брелок для ключів у вигляді білого кролика.</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower">
+		<text>«Червоненька квіточка»</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower_descr">
+		<text>Загадковий артефакт невідомого походження. Майже не випромінює, але про його магічний вплив на жінок ходять легенди.</text>
+	</string>
+</string_table>

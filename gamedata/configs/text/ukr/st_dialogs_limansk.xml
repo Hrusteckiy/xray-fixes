@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>Пацани, поможіть! Дайте аптечку, друг умирає!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>На, тримай.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Зараз, тільки корєшу допоможу.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Вибач, нема аптечки.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Ех, пацани...</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>Обійдешся, суча мордо.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Спасибі, виручив. Я бачу, ти до города йдеш, так там трохи дальше по вулиці люди Рижого засаду влаштували. Біля машини растяжка стоїть, так тобі нада по правой стороні вулиці, тоді обійдеш.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>Хто ще зараз у місті?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Сюди набилось уже повно народу, кругом бардак! Загони «Долгу» та «Волі» прошли до центру города - напевно, шукають прохід в глибину Зони. Ми бачили нєскоко вертольотов, так шо до города вєрняк шо вломились і вояки. Іщо появилися якісь сталкери, тока вони приходять з іншого боку, з центру Зони.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>Що в місті коїться?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Бугор с братвой засів у домі нижче по улицє, дальше вони не сунуться. Якшо хочеш пройти в город, тобі придьоться вибить їх з дома.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Нема за що. Вали, поки не пристрелив.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Давай швидше, нам звалювати звідси треба!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>Усе, валіть.</text>
+	</string>
+</string_table>

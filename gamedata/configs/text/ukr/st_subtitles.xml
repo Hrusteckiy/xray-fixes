@@ -1,0 +1,3081 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_agr_stalker_leader_tip">
+		<text>Найманцю, це Орест, я головний серед місцевих сталкерів. Якщо захочеш поспілкуватися, знайдеш мене на другому поверсі головної будівлі.</text>
+	</string>
+	<string id="st_gar_bandit_lager_warning">
+		<text>Гей, ти! Чужим сюди не можна, це наше місце! Будемо стріляти без попередження!</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_1">
+		<text>О, ну тепер ми їм накладемо повні штани жариння!</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_2">
+		<text>Привіт, мужик. Ну все! Тепер, думаю, відіб'ємося!</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_3">
+		<text>Спасибі, друже! Ех, і як же ж ми їм зараз вломимо!</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_1">
+		<text>Оце виручив! Слухай, ти приходь до нас, хоч віддячимо як слід.</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_2">
+		<text>Спасибі, мужик! Заглянь на нашу базу, там тобі нагорода гідна знайдеться.</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_3">
+		<text>Велике тобі людське спасибі! Будеш де неподалік - ласкаво просимо на нашу базу.</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_1">
+		<text>А от нема чого лізти, куди не просять!</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_2">
+		<text>Відбилися, слава тобі Господи!</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_3">
+		<text>Дурні, нас так просто не візьмеш! Прутня вам іржавого!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_bandit_1">
+		<text>Бандюки пресують! Хлопче, допоможи!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_csky_1">
+		<text>У нас війна із «долговцями»! Допоможи, а ми віддячимо!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_dolg_1">
+		<text>«Долговці» зовсім здуріли! Підмогни, а то перестріляють нас!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_freedom_1">
+		<text>Сталкер, нас «Воля» зобижає! Приєднуйся, дамо їй прочухана!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_military_1">
+		<text>На допомогу! Вояки нашого брата сталкера б'ють!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_mutant_1">
+		<text>Друже, тут монстрів - здуріти можна!</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_zombied_1">
+		<text>Мужик, тут зомбаків туєва хуча!</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_1">
+		<text>Наших валять! Ти де?!</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_2">
+		<text>Одні ми не втримаємось! Швидше!..</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_3">
+		<text>Допоможи нам, а то буде запізно!..</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_1">
+		<text>...Мужики, прийом...</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_2">
+		<text>...Мужики, прийо-ом... Поглухли, чи що?..</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_3">
+		<text>...Там є хто взагалі? Відповідайте!..</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_4">
+		<text>...Мужики, ви нас чуєте? Агов!..</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_1">
+		<text>Там наші мужики не відповідають. Ви гляньте: може, їм допомога потрібна?</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_2">
+		<text>Не можемо встановити зв'язок! Треба глянути, що із мужиками сталося.</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_3">
+		<text>Хлопці наші десь загубилися. Готуйте загін на пошуки.</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_1">
+		<text>Добро, сходимо глянемо.</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_2">
+		<text>Прийняв. Зробимо.</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_3">
+		<text>Ет, ну зовсім нема бажання кудись пертися... Та добре, пробіжимося, звісно.</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_1">
+		<text>Край вам, гади!</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_2">
+		<text>Бий сволоту!</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_3">
+		<text>Кладемо їх усіх!</text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_1">
+		<text>Усі готові? Виходимо! </text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_2">
+		<text>Давайте, мужики. Час іти.</text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_3">
+		<text>Збираємося! Ворушись, ворушись, ну!</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_1">
+		<text>Хлопці, розбилися по одному!</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_2">
+		<text>Мужики, швидко розбіглися із купи!</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_3">
+		<text>Розсипалися, мужики! Скоренько, скоренько!..</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_1">
+		<text>Тільки подрімати зібрався... ех-х...</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_2">
+		<text>Ну що таке... знову?!</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_3">
+		<text>Ох... і що ж я маленьким не здох?..</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_4">
+		<text>Та чи дасте ви хоч раз поїсти, га?!</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_5">
+		<text>Ет, і казали ж мені: не ходи до Зони... Запарили вже ці тривоги!</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_1">
+		<text>Що, ми їх уже того?.. А я тільки розійшовся!</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_2">
+		<text>Ну все, тепер нехай спіднє сушать!</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_3">
+		<text>Мужики, ми кращі! Як ми їх, га?..</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_1">
+		<text>Намічається постріляти! Хто з нами?</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_2">
+		<text>Бачимо ворога... ну, зараз почнеться!</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_3">
+		<text>Бачимо ворога, готуємося до бою!</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_1">
+		<text>Так, усі запам'ятали: вогонь за моєю командою!</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_2">
+		<text>Приготуватися. Вогонь за сигналом!</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_3">
+		<text>Без самодіяльності! Чекаємо на сигнал!</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_1">
+		<text>Бачу! Оно вони!</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_2">
+		<text>Та-ак, набігли, значить...</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_3">
+		<text>Оно, оно! Я їх бачу!</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_1">
+		<text>Оп-па! Ми взяли точку!</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_2">
+		<text>Точку захоплено!</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_3">
+		<text>Усе в ажурі, точку захоплено!</text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_1">
+		<text>Вперед! Вали їх!</text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_2">
+		<text>Бий! </text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_3">
+		<text>Вогонь! Вогонь!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_1">
+		<text>Хлопче, ти про нас не забув?</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_2">
+		<text>Ти куди пропав? Давай уже відмашку!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_3">
+		<text>Любчику, ми все ще тут і чекаємо на твою команду!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_1">
+		<text>Так просто усе не закінчиться, точно кажу. Ще припруться, поганці!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_2">
+		<text>Дивіться як слід: вони можуть з'явитися будь-якої миті…</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_3">
+		<text>Може, і не буде нікого... Але зброю перевірте про всяк випадок...</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_1">
+		<text>Друзяко, чекаємо на твій сигнал до атаки!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_2">
+		<text>У нас усе готове. Чекаємо, коли скомандуєш!</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_3">
+		<text>Усі на позиціях, чекаємо на твій сигнал!</text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_1">
+		<text>Оп-па... паскудство! Нас бачать!</text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_2">
+		<text>Усе, можемо більше не ховатися! </text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_3">
+		<text>Курва, не вдалося підійти тихо!..</text>
+	</string>
+	<string id="military_alife_patrol_run_1">
+		<text>Бегом, быстро!</text>
+	</string>
+	<string id="military_alife_patrol_sneak_1">
+		<text>Отставить разговоры!</text>
+	</string>
+	<string id="military_alife_patrol_walk_1">
+		<text>Шагом! Не отставать!</text>
+	</string>
+	<string id="military_alife_counter_attack_check_1">
+		<text>...Группа, доложите обстановку!..</text>
+	</string>
+	<string id="military_alife_counter_attack_check_2">
+		<text>...Группа, отвечайте. Приём...</text>
+	</string>
+	<string id="military_alife_counter_attack_check_3">
+		<text>...Что за ерунда... Отвечайте, чтоб вас черти драли!...</text>
+	</string>
+	<string id="military_alife_counter_attack_check_4">
+		<text>...Так Вашу маму...</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_1">
+		<text>Внимание, потеряна связь с группой. Проверьте, что там.</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_2">
+		<text>Давайте на место и пробейте, что к чему. Группа на связь не выходит.</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_3">
+		<text>Группе сбор! Задача: выяснить, почему нет связи. При выполнении быть предельно внимательными.</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_1">
+		<text>Есть! Приказ понял!</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_2">
+		<text>Так точно! Выдвигаемся!</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_3">
+		<text>Есть! Отправляю поисковую группу!</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_1">
+		<text>Привал окончен! Выдвигаемся!</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_2">
+		<text>Проверить снарягу! Выходим!</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_3">
+		<text>Группа, строиться!</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_1">
+		<text>Внимание! Рассредоточиться!</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_2">
+		<text>Внимание! Рассыпным строем!..</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_3">
+		<text>Всем рассредоточиться!</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_1">
+		<text>Я с того раза кровищу не отмыл, а тут опять...</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_2">
+		<text>Запарили, уроды...</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_3">
+		<text>Ну всё-о... я уже злой!..</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_4">
+		<text>Опять в бой, ёлки... Достало!</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_5">
+		<text>Как же вы запарили!</text>
+	</string>
+	<string id="military_alife_attack_start_fight_1">
+		<text>Огонь на поражение!</text>
+	</string>
+	<string id="military_alife_attack_start_fight_2">
+		<text>Атаковать!</text>
+	</string>
+	<string id="military_alife_attack_start_fight_3">
+		<text>Вперё-од!..</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_1">
+		<text>Опа, які розкішні люди!</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_2">
+		<text>О-о, які люде! Ну й чудово!</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_3">
+		<text>О-о, чєл, радий тебе бачити! Із тобою ми гори із землі вивернемо!</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_1">
+		<text>Чєл, ти нам здорово допоміг! Забрідай до нас якось на базу - скажемо спасибі та відтягнемося троха, як буде в тебе таке бажання.</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_2">
+		<text>Та-ак, а нам тут уже пипоть вимальовувався!Ти до нас на вогник заглянь якось, га? Уважимо, чим багаті.</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_3">
+		<text>Ох ти-и… ледь зовсім не всипалися! Чуєш, чувак, ти до нас обов'язково забігай: борги треба віддавати швидше, щоб Джа не гнівався.</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_1">
+		<text>Хто із фигньою до нас прийде, той отримає по нахабній «долговській» пиці!</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_2">
+		<text>Нарешті відчепилися, виродки!</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_3">
+		<text>Із таким чудовим планом, як у нас, - і не відбитися? Г-г-г!..</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_bandit_1">
+		<text>Слухай, бандоси вже дістали! Давай із нами, га? Зайвий ствол нам отак потрібен!..</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_csky_1">
+		<text>Виручай, любий! Дістали вже ці мазунчики, сил не стачає!..</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_dolg_1">
+		<text>Допоможи, чувак! Від «долговців» не продихнути!</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_military_1">
+		<text>Чувак, допоможи від вояків відбитися!</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_mutant_1">
+		<text>Чувак, ну в нас тут і цирк! Точніше, мішанина зоопарку із дурдомом...</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_stalker_1">
+		<text>Чуєш, брате, тут сталкери роздухарилися! Допоможи!</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_zombied_1">
+		<text>Чувак, зомбаки на видноколі!</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_1">
+		<text>Втрачаємо хлопців! Швидше на підмогу!</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_2">
+		<text>Егей, скоріше! Нас тут щемлять!</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_3">
+		<text>Ти що, забув про нас?! Ми ж тут гинемо!</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_1">
+		<text>...Народе, а що у вас там зара коїться?..</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_2">
+		<text>…Гей, чуваки, стара хохма - не хохма. Відповідайте, ну...</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_3">
+		<text>...Піпл, досить у піжмурки гратись...</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_4">
+		<text>…Ей, чуваки!.. От лайно, га?..</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_1">
+		<text>Чєли щось на зв'язок не виходять. Дуйте до того району, та дивіться, щоб обережно!</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_2">
+		<text>Дулю ти зрозумієш із цим зв'язком... Гляньте, чи все в порядку в наших, бо пропали - і нічичирк.</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_3">
+		<text>Як би не сталося там щось... Значить, ви народу там скількісь позбирайте і розвідайте, що за ідіотія коїться.</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_1">
+		<text>Добре, прочекаємо, що там із нашими.</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_2">
+		<text>Добре. Гей, народе, потяг відправляється!</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_3">
+		<text>Може, в них у рації батарея сіла... Добре, подивимося.</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_1">
+		<text>На роздачу-у!..</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_2">
+		<text>Тримайте, гади!</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_3">
+		<text>Кінчаємо сволоту!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_1">
+		<text>Слухай сюди, піпл! Є завдання!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_2">
+		<text>Перекур хана! Воруши булками!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_3">
+		<text>Кінчай загоряти! Підйом!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_1">
+		<text>Не кучкуйтесь! Врозсип!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_2">
+		<text>Пішли, пішли врозсип!</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_3">
+		<text>Так, усі розбіглися по місцях!</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_1">
+		<text>От же ж... а якщо в мене патронів катма?</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_2">
+		<text>Куди знову?</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_3">
+		<text>Знову ті самі яйця, хіба у профіль...</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_4">
+		<text>Ха-ха-ха! Та ні... що, правда? Отако, без відпочинку?</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_5">
+		<text>А може, не зараз підемо? Може, за годинку?</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_1">
+		<text>Так буде із кожним!</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_2">
+		<text>Усі зрозуміли? Чешіть до дідька і друзям про цей день розкажіть!</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_3">
+		<text>І треба ж таке! Як добре побігли, супостати!</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_1">
+		<text>Ворог! Готуємося до бою!</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_2">
+		<text>Засікли ворога... Хто сміливий, давай до нас!</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_3">
+		<text>Супостат! Ну добре, пограємося у війнушки...</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_1">
+		<text>Нерви у порядку? Стріляти за сигналом!</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_2">
+		<text>Сидимо тихо! Вогонь за сигналом!</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_3">
+		<text>Так, чекаємо на команду! Зброю всі приготували!</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_1">
+		<text>От, не встигли й скучити... Бачу ворога!</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_2">
+		<text>Не забарилися, субчики...</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_3">
+		<text>Бачу мудаків! </text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_1">
+		<text>Усіх винесли, база. Позиція наша!</text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_2">
+		<text>галло, народе! Ворогу капець, точку ми зайняли!</text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_3">
+		<text>Піпл, усе зашибись! Ми взяли позицію!</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_1">
+		<text>Пішли-пішли-пішли!..</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_2">
+		<text>Валіть усіх! Вперед!</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_3">
+		<text>Вперед, за Че!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_1">
+		<text>Гей, чувак, ти там взагалі живий?</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_2">
+		<text>Приятелю, ти на що чекаєш? Командуй!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_3">
+		<text>Мен, ти чого тупиш? Давай уже почнемо!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_1">
+		<text>Ох, відчуваю, народе, - хтось до нас ломиться…</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_2">
+		<text>Так, не спимо, не спимо! Зараз полізуть, це стопудово!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_3">
+		<text>Вони, може, підкрадаються зараз... Так, а ну пильнуйте як слід і не триндіть!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_1">
+		<text>Хлопці готові. Вступимо у бій за твоїм сигналом!</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_2">
+		<text>Взагалі усе готово. Чекаємо на твою команду щодо атаки.</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_3">
+		<text>Зайняли позиції. Почнемо за твоїм сигналом!</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_1">
+		<text>Е-ех, помітили нас... оце лажа!</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_2">
+		<text>Нас засікли! Тепер у клюбі будуть танці...</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_3">
+		<text>Народе, нас засікли!</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_1">
+		<text>Наконец-то! Хоть один настоящий мужик!</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_2">
+		<text>Отлично, есть пополнение. Ну, сейчас мы им!..</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_3">
+		<text>Здоров. Ну что, поработаем совместно?</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_1">
+		<text>Неплохо, неплохо... Ну, спасибо тебе. Ты приходи, когда можешь: «Долг» добра не забывает!</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_2">
+		<text>Без тебя бы нам туго пришлось. Долги мы всегда возвращаем, так ты приходи к нам на базу.</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_3">
+		<text>Мужик, спасибо тебе. Ты заходи в гости, ладно? Заходи обязательно.</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_1">
+		<text>Отработали! Всем спасибо!</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_2">
+		<text>Ну-у, да мы круты! Удержались!</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_3">
+		<text>Лезли, как с вилами на паровоз... вот ведь тупые!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_stalker_1">
+		<text>Эй, наёмник! Помоги бойцам «Долга» бороться с бандитами!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_bandit_1">
+		<text>Помоги, дружище! Бандиты ведь и тебе враги, а?</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_csky_1">
+		<text>Сталкер, присоединяйся к нам! Вместе сделаем этих болотных выползней!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_freedom_1">
+		<text>Эй, помоги против «свободовской» мрази!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_military_1">
+		<text>Вояки прижали! Присоединяйся, вместе отобъёмся!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_mutant_1">
+		<text>Сталкер, тут зоновского отродья полно!</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_zombied_1">
+		<text>Видим зомби!</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_1">
+		<text>Где ты, сталкер? Нужна твоя помощь!</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_2">
+		<text>Куда ты пропал? Помоги нам!</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_3">
+		<text>Ты где?! Бегом сюда, а то выкосят нас всех!..</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_1">
+		<text>...Бойцы, докладывайте, какие новости...</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_2">
+		<text>...Здесь база! Немедленно ответьте!..</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_3">
+		<text>...Группа, отвечайте! Какого ляда у вас там творится?..</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_4">
+		<text>...Группа, отвеч... А-а, дрянь!..</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_1">
+		<text>Прервалась связь с одной из групп. Давайте на точку, проясните ситуацию.</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_2">
+		<text>Группа пропала. Возможно, проблемы со связью. Пробейте по месту.</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_3">
+		<text>Наши на связь не выходят. Выдвигайтесь туда, и чтоб ушки на макушке!</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_1">
+		<text>Сейчас пробьём.</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_2">
+		<text>Бойцы, сборы в темпе вальса!..</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_3">
+		<text>И что ж там такое... Выдвигаемся.</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_1">
+		<text>Бойцы, вперёд!</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_2">
+		<text>Пошла работа!</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_3">
+		<text>Зачистим в ноль!</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_1">
+		<text>Внимание! Боевая готовность!</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_2">
+		<text>Бойцы, есть работа. Выдвигаемся.</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_3">
+		<text>Всем проверить оружие. Следуем за ведущим.</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_1">
+		<text>Бойцы, по одному!..</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_2">
+		<text>Рассредоточиться, быстро!</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_3">
+		<text>Рассредоточиться и приготовиться к бою!</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_1">
+		<text>Это, блин, кончится когда-нибудь?..</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_2">
+		<text>Долг зовёт... мда-а...</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_3">
+		<text>А они лезут и лезут, лезут и лезут...</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_4">
+		<text>Общее благо... до-олг… Чтоб вас всех, ур-роды...</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_5">
+		<text>Дайте хоть ботинки натянуть!</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_1">
+		<text>Отлично! Точка за нами.</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_2">
+		<text>Ф-фу... выбили уродов.</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_3">
+		<text>Отлично. Противник разбит.</text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_1">
+		<text>Вижу противника! К бою! </text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_2">
+		<text>Противник! Начинаем работать!</text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_3">
+		<text>Контакт с противником! Подтягивайтесь!</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_1">
+		<text>Ждём... я скажу, когда палить!</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_2">
+		<text>Учтите: кто без команды на спуск нажмёт, чешет на гаупвахту...</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_3">
+		<text>Смотрим в оба! Атакуем по команде!</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_1">
+		<text>Вижу противника! Всем приготовиться!</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_2">
+		<text>Есть визуальный контакт! К бою!</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_3">
+		<text>Противник на месте!</text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_1">
+		<text>Докладываю: противника с позиции выбили.</text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_2">
+		<text>База, мы отработали. Точка за нами. </text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_3">
+		<text>Точка за нами. Ждём дальнейших указаний.</text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_1">
+		<text>Ого-онь!</text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_2">
+		<text>Начали!.. </text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_3">
+		<text>Бей!</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_1">
+		<text>Наемник, мы ждём твоего сигнала!</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_2">
+		<text>Эй, ты там не заснул?! Или про сигнал забыл?</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_3">
+		<text>Сталкер, ты там помнилку не потерял? Люди ждут!</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_1">
+		<text>С патронами нормально, ребята? А то вот как принесёт гостей...</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_2">
+		<text>Внимательней, ребята: возможна контратака.</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_3">
+		<text>Не расслабляемся! Нас ещё могут атаковать.</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_1">
+		<text>Группа готова к бою. Ждём твоего сигнала.</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_2">
+		<text>Все бойцы на местах. Командуй атаку!</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_3">
+		<text>Всё готово! Ждем команды начинать.</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_1">
+		<text>Внимание, нас заметили!</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_2">
+		<text>Противник обнаружил нас!</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_3">
+		<text>Мы обнаружены!</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_1">
+		<text>Спасибі, що прийшов. Ми їм зараз!..</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_2">
+		<text>Добре, що прийшов. Тепер нехай тільки спробують!</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_3">
+		<text>Спасибі, що відгукнувся! Покажемо їм, де медом не намазано, га?</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_1">
+		<text>Спасибі, що допоміг! Обов'язково заглянь до нас на базу, тобі віддячать!</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_2">
+		<text>Спасибі за допомогу! За нагоди заглядай: будемо дуже раді.</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_3">
+		<text>Спасибі, найманцю, без тебе ми б... Ти за нагоди заходь до нас по гостинець.</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_1">
+		<text>Уф-ф... втрималися!</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_2">
+		<text>Здорово ми їх причесали, га?</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_3">
+		<text>Ф-фух... ще одну атаку відбили!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_bandit_1">
+		<text>Найманцю, допоможи відбитися від бандитів!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_dolg_1">
+		<text>«Долговці» насідають! Допоможи упоратися із ними, найманцю!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_freedom_1">
+		<text>Друже, нас «волівці» щемлять! Допоможи!..</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_military_1">
+		<text>Хлопче, допоможи упоратися із військовими!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_mutant_1">
+		<text>Найманцю, тут мутантів кишма!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_stalker_1">
+		<text>Найманцю, допоможи від сталкерів відбитися!</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_zombied_1">
+		<text>Найманцю, тут зомбі ціла бісова купа!</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_1">
+		<text>Бігом сюди! А то нас усіх тут кінчать!..</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_2">
+		<text>Довго не витримаємо! Допоможи, швидше!..</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_3">
+		<text>Йолки-моталки, де тебе носить! Потрібна допомога!..</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_1">
+		<text>...Увага, це база...</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_2">
+		<text>...Хлопці, це база. Прийом...</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_3">
+		<text>..Що за чортівня... відповідайте!..</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_4">
+		<text>...Хлопці, ви там теє... Чорт, знову це гадство!..</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_1">
+		<text>Хлопці на зв'язок не виходять. Гляньте, що там і як.</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_2">
+		<text>Ми втратили зв'язок із хлопцями. Перевірте, що в них діється.</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_3">
+		<text>Хлопці не відповідають. Думаю, в них щось сталося. Перевірте там.</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_1">
+		<text>Зрозумів. Зробимо.</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_2">
+		<text>Уже збираємося.</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_3">
+		<text>Із ким то вони там перетнулися? Добре, перевіримо.</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_1">
+		<text>Помстимося за друзів!</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_2">
+		<text>Бий гадів!</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_3">
+		<text>Кінчаємо їх!</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_1">
+		<text>Загін! Висуваємося!</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_2">
+		<text>Так, збираємося, хлопці, збираємося!</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_3">
+		<text>Загін, за мною!</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_1">
+		<text>Розсипалися, розсипалися! Швидше!</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_2">
+		<text>Розділитися по одному, швидко!</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_3">
+		<text>Загін, позиції займати поодинці!</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_1">
+		<text>Ет, знову... Ну, добре, діло є діло.</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_2">
+		<text>Ну що, хлопці? По конях, чи що.</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_3">
+		<text>Ех, скоріше б уже цих ідіотів здолати... а то пруть і пруть!</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_4">
+		<text>Бойова сурма кличе! Ну, рушили!</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_5">
+		<text>Ну що, пішли... Раз треба, значить треба.</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_1">
+		<text>Як ми їх розчесали, га?!</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_2">
+		<text>Ми їх зліпили!</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_3">
+		<text>Оце так ми! Добре повоювали!</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_1">
+		<text>Знайшли ворога! Хто бажає допомогти - усі сюди!</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_2">
+		<text>Приготуватися! Ворог!..</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_3">
+		<text>Напоролися на ворога! Давайте до нас, хто може допомогти!</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_1">
+		<text>Атакуємо за моїм сигналом!</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_2">
+		<text>Без сигналу не атакувати!</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_3">
+		<text>Стріляти тільки за командою!</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_1">
+		<text>А от і вони... Приготуватися до бою!</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_2">
+		<text>Оно, оно вони!</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_3">
+		<text>Бачу їх! Наближаються!</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_1">
+		<text>База, ми взяли точку!</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_2">
+		<text>База, ми захопили позицію. Повторюю: точка наша.</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_3">
+		<text>База, ми вибили ворога із точки!</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_1">
+		<text>Бий їх!</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_2">
+		<text>В атаку!</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_3">
+		<text>Вогонь!</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_1">
+		<text>Ти не заснув там? Ми вже заждалися!</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_2">
+		<text>Ну ти знущаєшся, чи що? Де сигнал?!</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_3">
+		<text>Агов, ти живий узагалі? Коли воювати будемо?</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_1">
+		<text>У-у! Не розслабятися! Зважаючи на все, треба чекати на гостей...</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_2">
+		<text>Стежте уважно! Може, вони саме на підході!</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_3">
+		<text>Усім бути напоготові! Думаю, вони ще можуть напасти...</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_1">
+		<text>Найманцю, ми готові! Розпочинаємо бій за твоїм сигналом!</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_2">
+		<text>Найманцю, будемо атакувати за твоїм сигналом.</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_3">
+		<text>Найманцю, ми чекаємо на твій сигнал!</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_1">
+		<text>Чорт! Нас засікли!</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_2">
+		<text>Нас помітили!</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_3">
+		<text>Нас бачать! Вони нас бачать!</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_1">
+		<text>Ми це... карочє, не забудєм. Пора тєрь пацанам кой-шо пояснить!</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_2">
+		<text>Ну що, козлота? Ми вас предупреждали?!</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_3">
+		<text>А от ща пойде настояща п'янка!</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_1">
+		<text>Я таких сложняков і не пригадаю ващє... Ти якшо на вогник забредьош, нагадай, шо з нас причитається.</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_2">
+		<text>А-а, паца-ан! От ета пацан, реально виручив! Корочє, за нами не заржавєєт, так ти на базу нашу подрулюй скорійш.</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_3">
+		<text>Я думав, усьо, пора коні двигать... а нє! Ти б ето, заглянув до нас на базу, а то ж із нас причитаєця.</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_1">
+		<text>Прийшов, побачив... і всосав! Га-га-га!</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_2">
+		<text>А-ах-ха-а! Получили, терпіли?..</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_3">
+		<text>Іщьо хто сунеться - так само отимєєм!</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_csky_1">
+		<text>Сишиш, нє? Поможи од педрил одмудохаться!</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_dolg_1">
+		<text>Пацан, виручай! Гондураси приклеїлися не по-децьки!..</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_freedom_1">
+		<text>Корєш, нас «свободовці» засношали, виручай!</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_military_1">
+		<text>Виручай, брателло! Вертухаї щемять!</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_mutant_1">
+		<text>Братан, виручай! Тут звірів стрьомних трьоться, шо звиздець!..</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_stalker_1">
+		<text>Брателло, підсоби! Лохи насєдають!..</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_zombied_1">
+		<text>Ей, дуй швидко до нас! Тут мертвяки пацанов колбасять!..</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_1">
+		<text>Нас тут крєплять нереально! Покажи, шо ти реальний пацан!..</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_2">
+		<text>Ми загнемся щас, братан! Бігом чеши до нас!..</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_3">
+		<text>Де ти ващє дєвся?! Нас кончать у два міга!..</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_1">
+		<text>...Сишиш, пацани, є тема...</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_2">
+		<text>...Ви шо там, дуба дали?..</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_3">
+		<text>…Е, я не пойняв! Трубу хто возьме, на?..</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_4">
+		<text>...Альо, пацани! Ви де ваще? Ми тут в нєпонятках!..</text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_1">
+		<text>Шо-то непонятне нарисувалося. Треба пробить, шо там і як у пацанов.</text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_2">
+		<text>Непонятки які-то в пацанов... Карочє, змотайтеся, позирьте, шо там. </text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_3">
+		<text>Пацани, блін, шифруються! Карочє, нада метнуться на мєсто, позирить, як там і шо.</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_1">
+		<text>Говно вопрос! Зараз бистро пробьом!</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_2">
+		<text>Не хоботись, бугор. Ща метньомся!</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_3">
+		<text>Замьотано, вже вирулюєм.</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_1">
+		<text>Хавайте маслини, казли!</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_2">
+		<text>В очєрєдь, суки, в очєрєдь!</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_3">
+		<text>Пацани, щеми фраєров!</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_1">
+		<text>Подорвали булки і за мной!</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_2">
+		<text>Понеслась! Рванулі, пацани!</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_3">
+		<text>На дєло пора, свєті волини! </text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_1">
+		<text>Не трьомся кодлом, не трьомся!...</text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_2">
+		<text>Зара накриєм гонудрасов! Мєтнуліся, пацани!</text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_3">
+		<text>Не товпись, як лохоботи! Будем їх щемить!</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_1">
+		<text>Ви задолбали реально...</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_2">
+		<text>Ну шо за ботва?! Тока похавать собрався...</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_3">
+		<text>Хто там іще припьорся, на?</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_4">
+		<text>Ща всєх там кончу!</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_5">
+		<text>Прикол, да?!</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_1">
+		<text>Отимєли як пєтухов, в натурє!</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_2">
+		<text>Лохи в аутє! Шмонай лопатники, пацани!</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_3">
+		<text>Ги-и, пустили биков на фарш!..</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_1">
+		<text>О, лошки нарисовалися! Валі їх!</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_2">
+		<text>Ей, кому охота фраєров попресовать - ходи сюда!</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_3">
+		<text>Пацани, давай з нами олєнєй щєміть!</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_1">
+		<text>Так, на... Скажу пригать - пригнули, скажу шмалять - шмаляйте. Усєкли?</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_2">
+		<text>Як маякну - валимо казлов нафіг! Усє всосалі?</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_3">
+		<text>Починаєм хєрачіть, када сам скажу!</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_1">
+		<text>Опа! Нарисова-алісь...</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_2">
+		<text>Шухер, пацани, фраєра валять!</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_3">
+		<text>Чікі-пікі! От ета встрєча!</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_1">
+		<text>Лягли, гондураси! Наша точка тепер!</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_2">
+		<text>Кончили козлов. Територія наша!</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_3">
+		<text>Опа! Точка наша! І жмурики…</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_1">
+		<text>Хрєначь їх! Шоб знали, падли!</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_2">
+		<text>Усьо, харе порожняк ганять! Понеслась!</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_3">
+		<text>Лові маслину, сука!</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_1">
+		<text>Не тармазі, брателло, ждьом тя.</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_2">
+		<text>Ми запарились уже! Када валитю їх будем?</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_3">
+		<text>Сишиш, ти шо притих? Када там уже війна начнеться, а то пацани інтірєсуються!</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_1">
+		<text>Буркали на тємєчко! Зирить в оба!</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_2">
+		<text>Рано піть «Боржомі»! Ща опять повалять!</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_3">
+		<text>Усє на стрьомє! І нєхєр либу давить - рано.</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_1">
+		<text>Усьо в ажурі, ждьом одмашку!</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_2">
+		<text>Ми на мєстє. Як разчехлишся - ізобразі.</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_3">
+		<text>Ну ми, тіпа, тута. Маякуй, брателло!</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_1">
+		<text>Атас! Нас вицепили, пацани!</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_2">
+		<text>Мля, заход с туза не прокатив!</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_3">
+		<text>Шухер! Нас попалили!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_comander_to_squad_1">
+		<text>Спокійно! Без паніки!</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_comander_to_squad_2">
+		<text>Без паніки, кажу.</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_1">
+		<text>Що то було?..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_2">
+		<text>Чув, ні?..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_3">
+		<text>Що воно шуміло?</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_1">
+		<text>Кровосо-о-ос!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_2">
+		<text>Тварюко проклята!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_3">
+		<text>Ах ти, мерзото!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_4">
+		<text>Як же це?!</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_5">
+		<text>Пильнуй як слід!</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_6">
+		<text>Так, мужики, дивіться уважно!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_fire_1">
+		<text>Скотина-а!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_fire_2">
+		<text>Оно він де!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_1">
+		<text>Невже знову?!</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_2">
+		<text>Ех, аби пронесло!..</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_3">
+		<text>Може, вчулося?..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_comander_to_squad_1">
+		<text>Не дрейфь! Спокойно!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_comander_to_squad_2">
+		<text>Та-ак... Нормально всё.</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_1">
+		<text>Что это?..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_2">
+		<text>Слышал, нет?..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_3">
+		<text>Что за шум?</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_1">
+		<text>Кровосо-о-ос!..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_2">
+		<text>Тварь проклятая!..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_3">
+		<text>Ух, мразь!..</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_4">
+		<text>Да что это?!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_5">
+		<text>Внимание!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_6">
+		<text>Оружие к бою!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_fire_1">
+		<text>Сдохни!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_fire_2">
+		<text>Вон он!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_1">
+		<text>Опять?!</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_2">
+		<text>Хоть бы в этот раз обошлось...</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_3">
+		<text>Послышалось?..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_2">
+		<text>Двоє до клапана, двоє за мною! Найманцю, твоя позиція на даху ангара. Прикрий обидва загони!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad1_ready">
+		<text>Ми біля клапана. За наказом готові починати. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad2_ready">
+		<text>Клапан закрито. Розпочинайте активацію! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_building_wave">
+		<text>Увага, зомбі ліворуч від будинку!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_truck_wave">
+		<text>Увага, зомбі біля вантажівки!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_alarm_roof">
+		<text>Вони вже на даху!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_alarm_hangar">
+		<text>Зомбі в ангарі!.. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_1">
+		<text>Молодці! Триматися!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_2">
+		<text>Так тримати!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_3">
+		<text>Ще один готовий!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_freezer_fixed">
+		<text>Відмінно! Охолоджувальна установка працює як слід, псі-поле стабілізувалося. Настав час вибиратися звідси...</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_psy_reduced">
+		<text>Отже, вам удалося запустити систему знову! Датчики показують, що потужність псі-випромінювання почала знижуватися, відтак установка стала працювати стабільно. Сподіваюся, тепер «Янтар» стане спокійнішим місцем. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_psy_reduced_reply">
+		<text>Гарна новина, професоре! Ми повертаємося до бункера. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_go_red_forest">
+		<text>Найманцю, спасибі вам. До речі, про Стрільця: я отримую чіткий сигнал. Судячи за цими даними, він зовсім поруч із вами. Прямує у бік Рудого лісу. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad_assemble">
+		<text>Загін, рушаємо! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_go_to_roof">
+		<text>Найманцю, твоя позиція на даху! Іди за сталкером!  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_not_go_to_roof">
+		<text>Найманцю, не барись. Швидше за мною! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_actor_on_roof">
+		<text>Чудово, ти на місці. Тримай позицію.  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_prikritie">
+		<text>Я вас прикрию! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_ready">
+		<text>Ми на позиції, на даху чисто. Починаю закривати клапан.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave1_go">
+		<text>Паскудство, зомбі лізуть з усіх боків!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval">
+		<text>Та скільки ж їх там?! Вони повсюди!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker3">
+		<text>А-а! Їх надто багато! Допоможіть!..  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker4">
+		<text>Нам потрібна допомога! Підтримайте вогнем!  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker5">
+		<text>А-а-а! Вони всюди! Ми всі тут ляже-емо-о!.. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_clear_roof">
+		<text>Зомбі ломляться до ангара! Їх дедалі більше!..  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval_roof2">
+		<text>Нас валять!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval_roof1">
+		<text>Уф-ф, відстрілялися... Зараз має бути легше.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_group_in_angar">
+		<text>Ми в ангарі! Починаю закривати клапан.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_1">
+		<text>На, хапайте кулю, трупи ходячі!.. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_2">
+		<text>Тримай, гадюко!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_3">
+		<text>Що, не любиш?! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_4">
+		<text>От зара я вас свинцем нафарширую!.. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_5">
+		<text>Я їх тримаю!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_begin">
+		<text>Чорт, вони вже сюди дісталися!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_1">
+		<text>Та коли ж ви закінчитеся?! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_2">
+		<text>Брешеш, тварюко, не дамся!.. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_help_base_sci">
+		<text>Усім, хто нас чує! Напад на бункер учених, просимо допомоги! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levwa_perimetr_before_attack">
+		<text>Найманцю, добре, що ти відгукнувся! Швидше займай позицію, ціль вибирай сам!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levwa_perimetr_after_attack">
+		<text>Спасибі тобі за допомогу, найманцю! Останнім часом зомбі часто нападати почали, прямо не знаю, що за лихо таке. А з ученими якщо хочеш поговорити, то вони у бункері. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_hello_actor">
+		<text>Здоров був, найманцю. Під час операції чітко слухати мене, і щоб без самодіяльності! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_right_1">
+		<text>Праворуч один! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_left_1">
+		<text>Ліворуч іще один! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_right_2">
+		<text>Правого зняв! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_left_2">
+		<text>Лівого зняв! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_take_position">
+		<text>Зайняти позиції. Спостерігайте за тилом! Ви, двоє, всипте їм перцю! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_clear">
+		<text>Чисто! Ідемо далі! </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_about_actor">
+		<text>Шановний Лівша, у мене є нові дані! Здається, ми зможемо стабілізувати рівень псі-випромінювання. Зараз до вас підійде молодий чоловік, у нього є детальні інструкції.  </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professr_reply_actor">
+		<text>Так, професоре. Чекаємо на вказівки. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_about_switcher">
+		<text>Лівша, мої дані свідчать, що псі-випромінювання генерується невідомою установкою, розташованою під заводським комплексом. Параметри псі-поля нестабільні через збій системи охолодження цієї установки. Ваша задача - здійснити перезапуск системи. Відправляю Вам усі дані. Зверніть увагу: на схемі позначено два клапани, котрі використовують для перезапуску. Відкриті мають бути обидва. Займайте позицію, а я подам сигнал, як тільки інтенсивність псі-випромінювання знизиться до мінімуму. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_reply_switcher">
+		<text>Добре, професоре. Будемо готові і за сигналом почнемо. </text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_start_operation">
+		<text>Лівша, рівень псі-випромінювання мінімальний! Розпочинайте операцію! Усі наші надії лише на вас! Хай щастить!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad_diary">
+		<text>Чорт, голова...  гуде, я майже нічого не тямлю!.. Іван ні сіло ні впало напав на нас... Ці голоси у голові, бісове псі-випромінювання... добре хоч документи забрали... лише б дістатися бункера Сахарова... Дідько, попереду собаки, нас вчули... побоююся, що... а-а, курва!..</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_1">
+		<text>Ми майже на місці. Повторюю ще раз: наша мета - закрити два клапани і перезапустити охолоджувальну установку.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_scientist_start_frase_1">
+		<text>Зараз буду!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_scientist_start_frase_2">
+		<text>Одну хвилину!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_check_actor_position_1">
+		<text>Найманцю, повернися на позицію, ми втрачаємо людей!</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_check_actor_position_2">
+		<text>Ми втратили загін! Установка вийшла з-під контролю, наближається викид... а-а-а!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_talk_1">
+		<text>Радий бачити тебе, найманцю. Сталося теоретично неможливе: ми все-таки пробилися до самого центру Зони, до станції. Багато в чому - завдяки тобі.</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_talk_2">
+		<text>Петренко, перевір за сканером частоту КПК Стрільця!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_petrenko_talk_1">
+		<text>Командире, Стрілець зовсім поруч!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_scout_talk_1">
+		<text>Командире, це група розвідки. Є візуальний контакт зі Стрільцем.</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_objective_talk_1">
+		<text>Найманцю, піднімайся на теплотрасу і перехопи Стрільця. Ми прикриємо знизу. </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_objective_talk_2">
+		<text>Це електромагнітна рушниця. Теоретично вона дозволить відключити псі-захист Стрільця, а без такого захисту потужного випромінювання не витримати. Рухайся назустріч Стрільцеві та намагайся узяти його на приціл. </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_1">
+		<text>Бий із по Стрільцю! Це послабить його псі-захист!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_2">
+		<text>Ну що ж ти? Бий по Стрільцю!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_3">
+		<text>Найманцю, твоя головна мета - Стрілець. Рухайся вперед і відкривай по ньому вогонь. </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_4">
+		<text>Найманцю, не гай часу! Доганяй Стрільця, інакше ми впустимо його!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_5">
+		<text>Стрілець втікає! Найманцю, що з тобою?!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_6">
+		<text>Псі-захист Стрільця майже на нулі! Найманцю, ну ж бо! Ще трохи, і ти вирубиш його зовсім!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_1">
+		<text>Хлопці, відверніть увагу «монолітівців»!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_2">
+		<text>Мужики, прикрийте!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_3">
+		<text>Бий зомбаків!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_4">
+		<text>С-скотина! Бий їх!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_5">
+		<text>Не давайте їм обійти!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_6">
+		<text>Хлопці, зліва попереду!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_7">
+		<text>Вогонь, вогонь!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_8">
+		<text>Пішли ви в дупу, суки-и!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_9">
+		<text>Напрасно старушка ждьот сина дамо-ой!.. </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_10">
+		<text>Петрович, твою мать, тримай тил!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_11">
+		<text>Без паніки! Тримаємося!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_12">
+		<text>Е-ех, більше разу не помирати!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_13">
+		<text>Увага на правому фланзі! Почастуйте їх від усієї душі!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_14">
+		<text>Патрони-и!.. Відходь до аномалій!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_15">
+		<text>Мужики, атакуємо! Підтримайте вогнем!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_16">
+		<text>Хлопці, я спікся!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_17">
+		<text>Гади! Не-на-виджу-у!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_18">
+		<text>Я ж вам, худоба!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_19">
+		<text>Не поминайте лихом!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_20">
+		<text>Бий «монолітівців»!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_21">
+		<text>Вибийте цього довбаного снайпера!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_22">
+		<text>Зліва! Обережніше!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_23">
+		<text>Пішли-пішли! Вперед!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_24">
+		<text>Спробую обійти їх!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_25">
+		<text>От чорт, зачепило! Ай, маму вашу!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_26">
+		<text>Мужики, гину!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_27">
+		<text>Комарові хана! Беру команду на себе!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_28">
+		<text>Не гальмуємо! Розчавимо їх!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_29">
+		<text>Дожимаємо гадів! Вперед!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_30">
+		<text>Здається, я все... прощайте, хлопці!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_31">
+		<text>Хто тут іще є живий? Не від... а-а-а!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_32">
+		<text>Саню, ти де? Відповідай!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_33">
+		<text>Не давай їм висунутися, Ігоре!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_34">
+		<text>Палич, любий, гранатою його почастуй, гранатою!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_35">
+		<text>Нагорі! Нагорі засів, гад!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_36">
+		<text>Звідки ж вас стільки?!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_1">
+		<text>Значить, так. Псі-захист Стрільця відключено, а без захисту він... Коротше кажучи, лишилося тільки чекати.</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_2">
+		<text>Що показують прилади? Аномальна активність знижується?  </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_3">
+		<text>От чортівня... зовсім не те, на що я очікував!.. Рівень аномальної активності просто зашкалює!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_4">
+		<text>Маячня якась... Зона мала заспокоїтися!  </text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_5">
+		<text>Що... що відбувається?! А-а, моя голова-а... голова розколюється-а!..</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_lost_strelok_1">
+		<text>Ми впустили Стрільця! Він уже всередині станції!</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_lost_strelok_2">
+		<text>Зараз буде викид... і який - прилади зашкалюють! Увага, усім в укриття... а-а-а!..</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_locate_strelok">
+		<text>Найманцю, давай швидше! Ти зовсім недалеко від Стрільця!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_bounty_hunters_attack">
+		<text>Це він! Вали його!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_defend_tunel_1">
+		<text>Не пускайте його до тунелю! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_defend_tunel_2">
+		<text>Затримайте його, поки Стрілець не пішов тунелем!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_strelok_spich">
+		<text>Найманцю, це Стрілець. Тунель я підірвав, тож зупинити мене не вийде. Я все одно потраплю до центру Зони, чого б це мені не вартувало.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_1">
+		<text>Сигнал Стрільця… він пропав! Ми втратили його. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_2">
+		<text>Він пішов у бік Випалювача, а там і до центру Зони недалеко. Для нас шлях через Випалювач без прототипу вчених - вірна загибель. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_3">
+		<text>Єдина для нас можливість наздогнати Стрільця - пройти через Лиманськ. У бік міста веде тунель, він одразу за мостом.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_4">
+		<text>Це єдина відома дорога до міста. Опустити міст можна лише з іншого берега, але його контролюють бандити. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_5">
+		<text>Паскудство! Але ж має бути якийсь спосіб дістатися того берега! Може, є інші варіанти, не лише міст?.. Так, якщо хто і допоможе нам потрапити до Лиманська, то лише Лісник. Подейкують, цей старий може знайти безпечну стежку навіть там, де раніше ніколи не бував. Халупа старого знаходиться в околицях Рудого лісу. Найманцю, знайди Лісника. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_greet_1">
+		<text>Драстуй, найманцю. Із чим прийшов? </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_hail">
+		<text>Найманцю, швидше сюди! Загін Лісовика уже на підході! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_come">
+		<text>Загін Лісовика може підійти із хвилини на хвилину. Наша задача - прикрити їх, поки вони пробиватимуться до мосту. Найманцю, ти займай позицію на другому ярусі будівлі та будь напоготові! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_leshiy_start">
+		<text>Це Лісовик. Наш загін наближається до мосту. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_leshiy_reply">
+		<text>Лісовик, це Лебедєв. Чекаємо на вас із нетерпінням. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_clear_path">
+		<text>Усім увага! Розчистимо Лісовикові дорогу! Вогонь! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_assault_start">
+		<text>Це Лісовик! Ми закріпилися біля мосту! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_start_lower">
+		<text>Тепер спробуємо опустити міст. Командире, прикрийте нас!  </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_1">
+		<text>Хлопче, дуй до пульта керування! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_2">
+		<text>Боєць, давай до пульта керування мостом! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_3">
+		<text>Боєць, давай швидко до пульта керування! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_attention_control">
+		<text>Лебедєв, прикрий мого бійця за пультом керування мостом! Не дайте бандитам прибрати його! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_first">
+		<text>От же ж чорт! Пульт прострілюється снайперами із пагорба! Поки вони там сидять, міст опустити не вийде!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_1">
+		<text>Мамцю вашу, на пагорбі снайпер! Зніміть його!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_2">
+		<text>Куди ви дивитеся?! Снайпера угорі зніміть! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_1">
+		<text>Снайпер на пагорбі! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_2">
+		<text>Зніміть снайпера! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_3">
+		<text>Зробіть того снайпера! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_1">
+		<text>Бандюків надто багато! Голови не можемо підняти! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_2">
+		<text>Бандюки притисли нас вогнем! Прикрийте!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_3">
+		<text>Лебедєв, прищеми бандитів! Ми з місця рушити не можемо! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_flee">
+		<text>Найманцю, ти куди зібрався?! А ну, на позицію! Ми повинні опустити міст!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_fail">
+		<text>Усім, хто мене чує! Наближається ще один великий викид, потужність достеменно не відома. Зважаючи на все, Стрільцеві вдалося дістатися до центру Зони. Усі в укриття, швидше! Бігом!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lowered">
+		<text>Міст опущено! В атаку! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy">
+		<text>Спасибі, Лісовик! Виручив нас! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply1">
+		<text>Скажи спасибі найманцеві. Якби не він, сто років би у цьому чортовому «Пузирі» стирчали. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply2">
+		<text>Як би там не було, ми тобі завинили. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply3">
+		<text>Нічого, якось розрахуємося! Щасти!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply4">
+		<text>Згода! </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_finished">
+		<text>Хлопці! Бійці! Ви чудово провели операцію. Міст опущено, дорога на Лиманськ вільна. Передовий загін, починайте висування до міста і намацайте безпечну дорогу через нього. Іншим поки закріпитися біля мосту і чекати на підхід основного загону.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_last_call">
+		<text>Найманцю, терміново повернися на позицію! Загін Лісовика тримається з останніх сил. Ми провалимо всю операцію, якщо не опустимо міст!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_task_for_player">
+		<text>Найманцю, йди із передовими групами до міста. Ваша задача - знайти безпечний шлях через нього для основного загону. Попереджаю: у Лиманську точиться справжня війна, тож будь обережний. </text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_strelok_threat">
+		<text>Найманцю, припини погоню, інакше загинеш.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_lebedev_about_red_forest">
+		<text>Скажу чесно, найманцю: я не маю достовірної інформації про шляхи через Рудий ліс. Про це місце ходять різні чутки... але зараз у нас немає іншого виходу. Потрібно знайти дорогу до Лісника.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_lebedev_about_red_forest_2">
+		<text>Чудово, ти пройшов Рудий ліс! До халупи Лісника - два кроки.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_stalker_greeting">
+		<text>Давно не бачив нікого, крім тварюк, які виходять із лісу. Ну, підходь, герою! Багато часу минуло, як я із кимось розмовляв.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_1">
+		<text>...Допоможіть... хто-небудь нас чує?.. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_2">
+		<text>...Не можемо вийти із вісімдесят четвертого квадрата... викривлення... повертаємося... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_3">
+		<text>...База, прийом... база... прийом... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_6">
+		<text>...Витягніь нас звідси... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_7">
+		<text>...вижили після викиду... зійшли з маршруту... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_8">
+		<text>...якийсь паскудний лабіринт... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_first_1">
+		<text>Давно нікого не було видко з боку Рудого лісу! Привіт, найманцю. Не бійсь, підходь: розповім, що до чого. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_bs_dead">
+		<text>Оце так! Ніколи не думав, що можна із кровососом сам на сам упоратися! </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_stalker_radio_1">
+		<text>Усім, хто нас чує. Прийом. Прийом. Курва... Ми потрапили до аномалії... не можемо вибратися... ми як у клітці,  простір замкнувся... куди не підеш... не можемо рушити із цього місця... прилади зовсім здуріли... На обрії начебто бачимо місто... Наші координати: п'ять один... десять...  три... один... два... Усім, хто нас чує... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_1">
+		<text>Найманцю, це Лісник. Я накидав тут схему, як можна вибратися із «Пузиря». Передаю тобі координати. Після того, як вони їх отримають, вибратися буде нескладно. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_greetings">
+		<text>Якщо хочеш поговорити, так ствол опусти і підходь пові-ільно... </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_2">
+		<text>Костюк, це Хог. Пам'ятаєш мене? Я тебе врятував пару тижнів тому. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_3">
+		<text>Звісно, Хог. Чим можу допомогти? </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_4">
+		<text>Костюк, треба допомогти одній людині дістатися антени на базі військових. Я чув, ви десь поруч? </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_5">
+		<text>Є таке. Намагаємося відбити склади у військових. До речі, підтягуйтеся: разом їм перцю в очі сипнемо!</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_6">
+		<text>Не цього разу, Костюк, вибач. Нам не можна світитися в операціях проти військових. Наша людина буде сама. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_7">
+		<text>І то добре. Ми тут не перебираємо, навіть один ствол зайвим не буде.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_actor">
+		<text>Найманцю, іди до Костюка. Він допоможе тобі дістатися передавача. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_task">
+		<text>Найманцю, ми застрягли біля будівлі штабу! Там сидять вояки і вогнем накривають усю територію, висунутися не можемо! Допоможи вибити їх звідтіль. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_finish_task">
+		<text>Вперед! Доб'ємо їх! </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_radio">
+		<text>Чудово, база під нашим контролем! Нарешті «Воля» зможе надійно закрити Бар'єр!.. Дякую за допомогу, найманцю. Передавач оно там на вишці, він увесь твій, роби що хочеш. </text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hires_in_bubble_thanks_1">
+		<text>Ми одержали схему, зараз спробуємо вибратися... так... тепер ліворуч... Йой, мамцю моя рідна! Ми вибралися із цього зачарованого кола! Ви чуєте?! Ми вибралися з аномалії, рухаємося у бік Лиманська!</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_meet_4n_com_task">
+		<text>Говорить Лебедєв. Ми на позиціях біля мосту. Найближчим часом очікуємо на появу найманців із боку бандитського табору. Повертайся до мосту, нам без тебе не обійтися. Незабаром тут буде жарко. </text>
+	</string>
+	<string id="characters_voice_scenario_military_esc_forester_pda_talk">
+		<text>Слухай, найманцю, оці ось переговори багато що пояснюють! Давай-но назад до мене: обмізкуємо пару ідей щодо того, як тих хлопців із «Пузиря» витягти.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tower_captured">
+		<text>Задачу виконано! Вишка під нашим контролем. Тепер слід утримати її.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tower_captured_to_actor">
+		<text>Найманцю, бігом на вишку і пильнуй як слід! </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_defend_tower">
+		<text>Ворога виявлено! Прямує з боку зруйнованої церкви. Приготуватися! </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_capture_plant">
+		<text>Вишка наша. Тепер ми зможемо розчистити шлях до заводу. Відкривай КПК і дій за обставинами. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_scan">
+		<text>База, это «ноль двенадцатый». На Болотах замечен наёмник. Какие будут указания? </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_base_attack">
+		<text>«Ноль двенадцатый», это база. Уничтожить. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_attack_confirm">
+		<text>База, вас понял, выполняю. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_lost">
+		<text>Гад, а?! В камыши ушёл! Выжечь бы их все, а то хрен кого поймаем.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_base_moveout">
+		<text>«Ноль двенадцатый», это база. Продолжайте патрулирование. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_moveout_confirm">
+		<text>База, вас понял. Продолжаю патрулирование. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_boars_killed">
+		<text>Чудово, шлях до заводу вільний. Просуваємося вперед! </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_plant_captured">
+		<text>Прекрасно, хлопці! Очисник знову під нашим контролем! </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_barman_0">
+		<text>Холод, закінчуй із розмовами! Найманець нехай зайде до мене. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_reply_0">
+		<text>Ну от! Лебедєв сказав «Треба!», боєць відповів «Так точно!». Тому давай, брате... раз уже Лебедєв на тебе чекає.  </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_trader_0">
+		<text>Суслов, зараз у тебе буде боєць, видай йому все необхідне для завдання.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_reply_0">
+		<text>Прийнято. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_hurry_player_0">
+		<text>Найманцю, поквапся. </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_hide_in_tower_0">
+		<text>Давай на вишку, тут можна укритися від монстрів! </text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_player_in_tower_0">
+		<text>Ух, братику, і вчасно ж ти нагодився. У мене патронів на самому денці лишалося. А ну, давай їх зараз у два стволи відстріляємо!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_starting_surge_0">
+		<text>Усім бійцям! Увага, наближається викид! Бігом до укриття, біго-ом!..</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_forpost_sos">
+		<text>Це другий форпост! Нас атакують, просимо допомоги!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_commander_tutorial_anomalies">
+		<text>Найманцю, будь уважний, пам'ятай про аномалії! Спочатку використовуєш болт, а сам ідеш, лише якщо попереду чисто.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_commander_tutorial_artefacts">
+		<text>Так, до речі: в аномаліях іноді можна знайти артефакти. Неозброєним оком їх не помітити, однак детектори легко їх виявляють. Якщо підійти досить близько, прилад спрямованим імпульсом «засвітить» артефакт. Після цього підняти здобич уже неважко. Однак врахуй - твій теперішній детектор дуже слабкий. Він може хіба визначити відстань до артефакту.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_0_up">
+		<text>Вітаю, бійці! Ми добре зміцнили свої позиції на Болотах і тепер зможемо дати гідну відсіч усім, хто до нас сунеться! Наступна наша мета - головна база ренегатів.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_1_up">
+		<text>Ми захопили лігвище ренегатів! Тепер справа така: встановити контроль над стежками, що ведуть на Болота.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_1_down">
+		<text>Чорт, ренегати знову мають перевагу над нами у силі. Ситуацію слід переломити, перш ніж вона обернеться нашою поразкою.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_2_up">
+		<text>Болота під нашим контролем! Молодці, хлопці, попрацювали відмінно. Увага, усім загонам: закріпитися на точках і чекати на подальші вказівки.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_2_down">
+		<text>Ренегатам вдалося відбити своє лігвище. Але ми не можемо їм дозволити залишатися у нас під самісіньким носом! Треба будь-що вибити їх із бази.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_3_down">
+		<text>Увага всім! Ми втратили контроль над стежками. Якщо нам не вдасться повернути його, незабаром Болота знову стануть рідною домівкою для всякої сволоти!</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_00">
+		<text>Дивись, оце твій головний провідник - розділ «Задачі»</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_01">
+		<text>Тут відображається твоє основне завдання...</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_02">
+		<text>...а також обране додаткове завдання</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_03">
+		<text>Додаткових завдань може бути кілька. Прокручувати їхній список можна за допомогою цих кнопок.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_04">
+		<text>Зазвичай місця виконання завдань відображаються на карті за винятком рідких випадків, коли їх неможливо локалізувати</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_05">
+		<text>Нам знадобиться твоя допомога не лише у бою із ворогом, але й у захопленні ключових позицій. У подібних ситуаціях дуже важливим і цінним може виявитися вміння надійно прикрити бійців, поки вони займають точку. До речі, раджу не ігнорувати заклики про допомогу: ти справді можеш врятувати чиєсь життя.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_06">
+		<text>За наведення на позначку на карті ти отримуєш додаткову інформацію</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_07">
+		<text>Крім міток завдань на твоїй карті будуть також відображатися позиції дружніх загонів та координати помічених ворогів</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_08">
+		<text>Добро. Як ти розумієш, наша основна задача - контроль над Болотами, а значить - війна із ренегатами.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_09">
+		<text>У цьому розділі ти у будь-який момент можеш знайти повну тактичну інформацію про перебіг воєнних дій</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_10">
+		<text>Ліворуч відображається інформація про угруповання, в якому ти на цей момент перебуваєш. Як бачиш, це «Чисте Небо»... тобто ми.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_11">
+		<text>Праворуч - інформація про основного ворога</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_12">
+		<text>Це - приблизний рівень нашого бойового потенціалу</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_13">
+		<text>Тут позначено кількість наших бійців на поточний момент</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_14">
+		<text>А тут - рівень нашого матеріального забезпечення</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_15">
+		<text>У самому низу знаходяться символи, котрі демонструють особливості нашого військового спорядження</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_16">
+		<text>Аналогічні індикатори існують і для нашого ворога</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_17">
+		<text>Нарешті, у цьому полі ти зможеш побачити поточну стратегічну мету, а також тактичні задачі, які потрібно виконати для її досягнення</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_18">
+		<text>Внизу буде відображено виконані стратегічні задачі</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_19">
+		<text>На останній закладці ти зможеш довідатися про свої поточні відносини з усіма угрупованнями, а також бойовий потенціал кожного з них</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_20">
+		<text>Крім того, тут же надано твою особисту статистику</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_21">
+		<text>Оце, власне, й усе</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_pathfinder_go_out_1">
+		<text>Ми прийшли, можеш зняти пов'язку. І не намагайся іти за мною - це безглуздо. Коли захочеш повернутися на базу, знайди одного з провідників на рибацькому хуторі.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_pathfinder_go_in_1">
+		<text>От ми й на базі, знімай пов'язку!.. Як вирішиш вийти на Болота, знайдеш мене тут.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_arrive_on_open_marsh_1">
+		<text>Найманцю, бачу, тебе вивели на Великі болота. Будь гранично обережний і не намагайся корчити із себе героя. Заглянь до КПК, там мають бути позначені наші загони. Раджу тобі рухатися до них, на рибацький хутір.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_limansk_intro">
+		<text>Відмінно, найманцю, ти в Лиманську. Врахуй, війна там іде не на жарт, тому будь обережніший. Потім допоможеш хлопцям знайти безпечний прохід через місто.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_request_help">
+		<text>Чорт! Ми потрапили під обстріл, є втрати! Потребуємо допомоги! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_spich">
+		<text>Найманцю, давай сюди, новини розповім! Та не надто висовуйся - завалять!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_hint">
+		<text>Оце так у заваруху ми вляпалися! Значить, дивись: на балконі в будинку ліворуч кулеметна точка. Садить так, що мама рідна. Як зможемо її винести до біса, спробуємо пройти далі. Я відверну вогонь на себе, а ти давай до будинку і зліпи того, котрий за кулеметом. Почнеш за моїм сигналом.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_1">
+		<text>Найманцю, вперед! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_2">
+		<text>Ну тиць-гриць! Не гальмуй! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_3">
+		<text>На що чекаєш?! Вперед! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_clear_street">
+		<text>Тут Сєров, загін «Чистого неба». Ми вже на підході до перехрестя. Найманцю, зараз допоможемо, тримайся!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_to_actor1">
+		<text>Усе, ми їх розчесали!.. Так, найманцю, давай-но я тобі розповім, що робимо далі.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_to_actor2">
+		<text>Просуваємося углиб міста: треба дістатися до каналу за площею. Там зараз застрягла група наших, будемо допомагати. Ти начебто хлопець меткий, тому пропоную іти з нами. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_order1">
+		<text>Усе чисто, рухаємося далі! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_order2">
+		<text>Лізуть з усіх боків! Кругова оборона! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_nerves">
+		<text>Чорт, та скільки ж їх?! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_stay1">
+		<text>Мамцю моя, та скільки ж їх?! Лізуть з усіх боків!.. Найманцю, давай швидше до каналу, ми їх затримаємо! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_stay2">
+		<text>Найманцю, не пали даром патрони! Іди швидше!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_parley1">
+		<text>Перший, тримати позицію! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_parley2">
+		<text>Командир, на нас тиснуть! Потрібна підмога!.. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order1">
+		<text>Без паніки! Тримайте цих виродків! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor1">
+		<text>Найманцю, дуже вчасно! Ми застрягли - і ні туди, ні сюди. Вони сидять у будинку по тім боці й нас бачать як на долоні, носа не висунеш. Лебедєв сказав, міст треба взяти. Отже, хоч там як, але треба вибити їх із будинку.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor2">
+		<text>Ці суки засіли у будинку навпроти. Ми в них як на долоні, тож сіпатися даремно: лише хлопців даремно покладу. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor3">
+		<text>Ми відвернемо увагу на себе, а ти дуй чимдуж швидше до будинку. Проберешся між укриттями, а далі що пояснювати... Винеси кулеметника: цей виродок нам уже чимало нервів помотав! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor4">
+		<text>Найманцю, ти, головне, без особливого геройства, добре? Рвонеш там, де укритися можна. Тільки за моєю командою!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order2">
+		<text>Хлопці, прикриваємо його! Вогонь! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_military_1">
+		<text>Чёрт, он уже в здании! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order3">
+		<text>Чудово, кулемет мовчить! Вперед!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor5">
+		<text>Займаємо будинок. Позиція - просто шик!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor6">
+		<text>Спасибі, за допомогу, найманцю. Ми тут поки посидимо: треба за мостом доглянути до приходу основного загону. А ти рушай далі, не буду затримувати. Судячи з карти, околиці Лиманська вже зовсім близько. Координати - на твоєму КПК. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_alert">
+		<text>Привіт, найманцю!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_clear">
+		<text>Радий тебе бачити.  </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_to_actor">
+		<text>Так, до виходу з міста лишився пшик... Не розслабятися! Ідемо обережно: береженого Бог береже.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_sniper_alert">
+		<text>Снайпер на вежі! Усі до укриттів! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_order1">
+		<text>Василенко, підберися і викури цього снайпера!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electro_fence">
+		<text>Чорт! Ці паскуди збацали огорожу із напругою!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_confused">
+		<text>Стоп! Усе місто вже років понад двадцять без електрики. Значить, десь поруч працює генератор…</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_destroy_generator">
+		<text>А осьде дроти... значить, він оно там, праворуч. Найманцю, ми відвернемо увагу снайпера, а ти проберися туди і вируби генератор! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off">
+		<text>Прекрасно, паркан знеструмлено! Ідемо далі.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report1">
+		<text>Лебедєв, ворога знищено! Чекаємо на подальші вказівки.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report2">
+		<text>Лебедєв, міст наш! Добре, якщо без контратак обійдеться.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report3">
+		<text>Сєров доповідає. Атаку відбили, шлях вільний!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_leader_next_task">
+		<text>Чудово, хлопці. Основний загін готовий рухатися через Лиманськ. Передова група, ваша задача - знайти вхід до підзмель Прип'яті. Він десь у районі старого госпіталю, це на околиці Лиманська. Координати передаю. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_attention">
+		<text>Просуваємося вперед. Усім увага.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_see_target">
+		<text>Бачу ворога! Попереду зліва!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_check">
+		<text>Вперед, хлопці. Перевіримо, що там. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_help">
+		<text>Допоможіть, допоможіть!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_fire1">
+		<text>От уже що не думав, то це зустріти тут бандитів! Що ж, доведеться розбиратися…</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_dont_shoot">
+		<text>Не шмаляйте, не нада! Я... я вам засаду здам!</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_threat1">
+		<text>Якщо вирішиш заговорити, залишишся жити.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_medkit1">
+		<text>Сиште, ета... Дайте аптечку для корєша мого, а?</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_threat2">
+		<text>Дулю тобі, а не аптечку. Значить, так: даю тобі  хвилину. Не скажеш, де засідка, - накажу розстріляти. </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_medkit2">
+		<text>Дайте аптечку! </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_fire2">
+		<text>Стріляйте його до біса.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_senks">
+		<text>Спасіба за аптечку, найомнік.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_about_ambush">
+		<text>Засада тут рядом, два шага... Одмєтка вже должна буть у КПК.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_bandit_free">
+		<text>Добре, живіть собі, виродки. Тільки щоб очі мої вас більше не бачили!</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_1">
+		<text>…опускаючи подробиці, скажу лише, що нічого подібного я раніше не бачив. Енцефалограма свідчить про серйозне ушкодження нервової системи, однак показники інших функцій організму просто відмінні. Парадокс!  </text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_2">
+		<text>Вважаєте, це пов'язано із викидом? </text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_3">
+		<text>Безумовно! Втім, я поки не можу знайти цьому раціональне пояснення. </text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_4">
+		<text>Здається, він починає приходити до тями. </text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_5">
+		<text>Отямився? Це добре. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_about_hall">
+		<text>Хоч хтось відгукнувся!.. Слухай, по тім боці зали засіли снайпер та кулеметник, висунутися не дають!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_about_sniper">
+		<text>Кур-рва, ще в одного нерви не витримали! Найманцю, допоможи зняти снайпера, інакше усі тут поляжемо. Ми відвернемо увагу кулеметника на себе, щоб ти встиг пробігти вперед. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_arrived">
+		<text>Молодець, дядьку, витримав! Ну, зараз ми їх!.. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_1">
+		<text>Чого тупиш?! Зараз ми знову спробуємо їх притиснути! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_2">
+		<text>Не спи! Ми не зможемо тримати його до завтра! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_3">
+		<text>Йоп... чого ж ти баришся?! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_1">
+		<text>Чого застряг?! Зараз ми знову спробуємо їх притиснути! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_2">
+		<text>Не спи! Ми не зможемо тримати його до завтра! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_3">
+		<text>Йоп... чого гаєш час?! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_block_1">
+		<text>Є один!.. Ще один лишився. Просуваємося! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_block_2">
+		<text>Є другий!.. Підходи перекрито!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_cover_us">
+		<text>Сталкер, прикрий нас вогнем! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_danger">
+		<text>Перший поверх прострілює кулемет. Не висовуйся без моєї команди! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_go">
+		<text>Пішов! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_go_pda">
+		<text>Пішов! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_gunner_killed">
+		<text>Кулемет знищено! Шлях вільний! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_hold_on">
+		<text>Тримайся, ми йдемо на допомогу! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_dot">
+		<text>Петре, винеси дот унизу! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_gunner">
+		<text>Хапай гранату, гад! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper">
+		<text>Так!.. Тепер можна обійти снайпера з тилу. Кінчай його!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper_now_1">
+		<text>Прибери його з дороги, інакше нас усіх тут покладуть! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper_now_2">
+		<text>Убий снайпера, швидше!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_request_help">
+		<text>На допомогу! Нас затисли на вході!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_runner_killed">
+		<text>А-а-а!.. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_start_block">
+		<text>Завалюйте проходи, щоб вони не змогли підтягти підкріплення! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_start_raid">
+		<text>Клас, снайпер мертвий. Шлях вільний, висуваємося вперед. Зараз спробуємо підірвати дот. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_suicide">
+		<text>Прикрийте! Я спробую зняти його! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_thanks_actor">
+		<text>Рухайся далі! Ми затримаємо ворога!  </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_victory">
+		<text>Центр, ми біля входу до катакомб! Що далі?  </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_victory_reply">
+		<text>Чудово, займіть позиції та контролюйте вхід до катакомб. Основний загін уже на підході. </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_wait">
+		<text>Чекай на мою команду! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_wait_pda">
+		<text>Чекай на мою команду! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_well">
+		<text>Молодець! Так і продовжуй! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_enemy_see_helicopter">
+		<text>Чорт, вертоліт! Збийте його! По кабіні бийте, по кабіні!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_kill_order">
+		<text>«Ноль двадцать первый», вали их всех! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_killed">
+		<text>А-а, мать! Горим!.. Уходи, уходи со снижением!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_see_enemy">
+		<text>База, это «ноль двадцать первый». Вижу отряд противника, с ними неопознанный сталкер. Жду указаний.</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_start_attack">
+		<text>База, вас понял! Атакую! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_kill_actor">
+		<text>Один намагається прорватися! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_kill_actor_intercept">
+		<text>Перехопити його! </text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_z3_csky_com_apply">
+		<text>Прийнято, виконуємо!</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_z3_csky_com_order">
+		<text>Найманцю, ми затримаємо «монолітівців», а ти спускайся в катакомби!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_dead_digger_leader_rec">
+		<text>Віддав Кликові ту деталь, котру ми знайшли у схроні. Ну, Клик до-овго матюкався! Сказав, поки не знайдемо решту деталей, грошей не дасть. Ми посиділи, макітри посушили... коротше, вирішили відправити за ним Васяна. У Васяна язик добре підвішений: може, і вмовить Клика віддати хоча б частину грошей. Лише б дорогою не напоровся на когось.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_warning">
+		<text>Дядьку, обережно! Тут собак до біса! Лізь на камінь, швидко!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_1">
+		<text>Ну, ти, агов! Ша! Відстань, кажу!.. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_2">
+		<text>Фу! Фу, сволото! Відчепися від мене! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_3">
+		<text>Пішли до біса, шавки блошиві!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_thanks">
+		<text>Оце так спасибі, мужик! Врятував мене!.. Я Васян, будемо знайомі. Ех, ну ти тіки прикинь! Іду ото я на захід за сталкером одним, нікого не чіпаю, і тут ці тварюки безокі! Загнали мене сюди - ніяк одному не виберешся! Я в них три магазини всадив, а вони усе лізуть, виродки!.. Так, сталкера тепер шукай, як того вітра, оце справді погано. Він уже, мабуть, давно у Темній Долині.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_pda_rec">
+		<text>Ця паскудна зграя собак!.. Коротше, вони мене від Клика одрізали. Думаю, він рушив на схід, у бік Темної Долини. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_1">
+		<text>Йоптить, класний підвальчик! А сталкера один за одним пруть! Шо їм тут, медом помазано?</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_2">
+		<text>Да-а, мля... Жалько, шо той урод змився. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_3">
+		<text>Та хєр з ним. Жир скинув, і нормально!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_4">
+		<text>Угу... Карочє, хапаємо самий жир і валимо.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_fang_pda_rec">
+		<text>Клик, ситуація змінилася. Хтось довідався, що ми були у центрі Зони, і відкрив сезон полювання. Треба діяти якнайшвидше. Докладний план знайдеш у схованці. Я змінив код. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_find_fang_pda">
+		<text>Найманцю, живий? Нарешті оклигав! КПК Клика десь зовсім поруч із тобою, знайди його! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_csky_leader_goto_agroprom">
+		<text>Найманцю, це Лебедєв. Інформація із КПК Клика підтверджує мої здогади. Група невідомих сталкерів побувала у центрі Зони - і, вже не знаю, як, але вони навіть примудрилися вижити після Великого викиду. Краще б вони загинули! Викиди не припиняться, поки дорога до центру Зони знову не стане таємницею. Тепер лише так: або ми знищимо цих сталкерів, або Зона, активуючи дедалі нові викиди, знищить усе живе всередині периметра, а може, і за його межами. Ясна річ, краще буде, як ми впораємося перші, але тоді слід поспішати. У КПК Клика лишилися координати їхньої схованки. Ймовірно, там ми зможемо довідатися нові подробиці про плани цієї групи.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_1">
+		<text>Нє, ну ти як хочеш... Сам свойо щастє профукав, не жалуйся! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_2">
+		<text>Ну ти шо... ну ти як не пацан прямо! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_3">
+		<text>Пацан, ти шо, перестрємався? </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_1">
+		<text>Сишиш, ти ета... ти прибери волину і топай до нас, побазаримо. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_2">
+		<text>Ета, дядька... ходи сюда, разговор є. Тока ствол спряч. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_3">
+		<text>Сишиш, мужик! Ти ховай стол і вали до нас. Поговоримо. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_1">
+		<text>А ну постой тут, братішка! Тока так, шоб я твої грабалки бачив! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_2">
+		<text>А тепер замри. І волину зря не дьоргай. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_3">
+		<text>Ну-ка стой, ти! І шоб ствол твой дулом у зємлю смарєл!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_1">
+		<text>От і молодця, так і стой. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_2">
+		<text>Ну і класно, і не дьоргайся! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_3">
+		<text>І не рипайся, мужик! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_see_actor_1">
+		<text>Сишиш, мужик! Якшо хочеш пройти, нада забашлять. Та ти подходь, перетрьом.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_see_actor_2">
+		<text>Ну шо ти морозисся? Подходь давай! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_1">
+		<text>Проходь, не задєржуйся! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_2">
+		<text>Ти тупой?! Валі давай! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_3">
+		<text>Сишиш, мужик, будеш тут шариця - завалимо, це як два пальца! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_4">
+		<text>У-у... сам напросився. Пацани, валі єго! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_1">
+		<text>Сишиш, ти! Валі, откудова пришол! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_2">
+		<text>Фраєр, ти шо, не доганяєш?! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_3">
+		<text>Ну як знаєш... Мочі його! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_1">
+		<text>Валі його!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_2">
+		<text>Мочі його! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_move_1">
+		<text>Стоять, нах! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_move_2">
+		<text>Стій, козьол! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_weap_1">
+		<text>Пушку нах! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_weap_2">
+		<text>Ствол убрав! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_traitor_attack">
+		<text>Бабки в нього, пацани! Мочи урода! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor">
+		<text>КПК Контрабандиста? Ух ти!.. Слухай, а виведи-но мені останні записи. Так, ага... є! Є координати схованки зі зброєю! Зараз своїх хлопців туди відправлю. А ти давай до мене: є приватна розмова.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_captive_leader_reward">
+		<text>Ну, мужик, я вже думав, тут і здохну! Цеє... я навіть не знаю, як тобі оддячити. Хоча стій, знаю! Значить, я тобі на КПК зараз скину координати одного місця: ми там із хлопцями хабар зберігали, поки ці покидьки нас не загребли. Хлопцям уже це все ні до чого, земля їм м'якою постіллю, а я більше до Зони ні ногою, доста! У Зажопинську якомусь і то краще, ніж у цьому пеклі.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_attack">
+		<text>Найманцю, поруч із тобою якась погань атакує групу наших хлопців! Без допомоги їм - край!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_gone">
+		<text>Усе, пипоть. І хлопців більше нема, і сволота ця, сто відсотків, змилася вже. Ехе-хе-хе, життя жорстоке, за що ж ти нас так?..</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_killed">
+		<text>Герой! Сквитався, сквитався за наших хлопців, Зона їм пухом. Однак одним «спасибі» ситий не будеш. Так, будеш пробігати повз Барахолку - заглядай. Є в мене для тебе одна штукенція.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_go_away">
+		<text>Сишиш, фраєр, ішов би ти отсюдова! А то ми пацани нєрвниє, іще шльопнемо вдруг…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_blockpost">
+		<text>Сишиш, село! Тут наші місця, концлагєрь тіпа, так що пилі по другой дорогє, якшо жить охота... Усьок?</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_1">
+		<text>От ета пацан! От ета видав!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_2">
+		<text>У, мужик... в натурє снайпер! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_3">
+		<text>Ти бачив, як он їх знімав? От ета круть! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_1">
+		<text>Нє, ну с етого стрілок ваще нікакой! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_2">
+		<text>Фігня фігньой! Шо грав, шо радіо слухав... </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_3">
+		<text>Нє, ну, може, в нього руки з опохмєла дрожать.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_1">
+		<text>Та вон она полетіла! Ти шо тупиш?! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_2">
+		<text>Давай, гаси їх! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_3">
+		<text>Ти шо, ващє стрілять не вмєєш?</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_4">
+		<text>Давай, мужик, я в тебе вєрю! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_5">
+		<text>По крилах, по крилах бєй! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_1">
+		<text>Ну шо, рискну. Поставлю на мужика півсотні.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_2">
+		<text>Та ну єго нах, я на етого лоха ставить не буду! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_3">
+		<text>О, пальба намічається! Ща позирим.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_1">
+		<text>Ща глянемо, як оно стрілять буде. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_2">
+		<text>Та он же ж ні фіга не настріляє! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_3">
+		<text>Та тіпа на нормального мужика тянєт.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_first">
+		<text>Ну ти дайош! Щітай, мій рекорд похєрив!.. На от, держи. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_player">
+		<text>Мужик, ну ти дайош! Свій рекорд побив! Ну всьо, награда твоя. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_npc">
+		<text>Оп-па... та ти по-новой чемпіон! Ну, за мной не заржавєєт.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_1">
+		<text>Ну, не фарт пока. Спробуй іщо! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_2">
+		<text>Давай іщо, мужик! Щас точно виїграєш! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_3">
+		<text>Ну, тіпа, буває. Давай іщо спробуй! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_1">
+		<text>Мужик, ти куди?.. Ти шо, больше грать не будеш? </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_2">
+		<text>Ей, мужик, повертайся! Ти ж нормально грав! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_3">
+		<text>Мужик, не свалюй! Тобі ж уже попьорло! </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_ambush">
+		<text>Шо?! Авоська тебе до засади заманив?! Та за таке... та замочить за таке падлу!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_dead">
+		<text>Ну шо, здох він, падлюка?.. Ти глянь, може при ньому є щось важливе.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_join_message">
+		<text>Ну шо, брателло, ета Йога! Бачу, ти не баклан... Карочє, ета... будеш у наших краях, навєдуйся. Возьму тебе в бригаду.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_destroy_flea_market_done">
+		<text>Значить, Барахолку зачистив?.. От ета я понімаю кадр! Дай краба! І учті: ето тобі Йога сказав, а Йога такими словами не розбрасується. Доля твоя, як обично, в Зуба.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_a">
+		<text>Судя по сигналу, Авоська готов... Клас. Твоя награда - в баригі Зуба. Кстаті, думаю, ти й дєло посложнєй потянєш. Вполнє потянєш!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_b">
+		<text>Найомнік! Авоську тіки шо шльопнули мої парні, када он пробував злинять со Свалкі. Карочє, шо-то он просьок і решив по-тихому сдриснуть, так шо мази нема, косяк не твой. Давай-ка подгоню тобі другую работьонку...</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done">
+		<text>Смарі. Авоська зливав мені дигерскую інформацію. Мабуть шо в останнє врєм'я дигери стали сєчь тєму, так шо пользи с нього стало нуль. Хоча останні свіжаки були інтиресні: тут на северє Свалки в дигеров скоро стрєлка з одним рилом, в которого вони збираються взять партію стволов. Мені нада, шоб ніхто - ні то рило, ні дигери - оттуда живими не ушли. Мєсто, де буде стрєлка, я вже злил на твой КПК.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_call">
+		<text>Авоська? Харе спать. Давай, подходь до остановки. Я одправив туда чєлавєчка, він с тобой рощітається.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_smuggler_done">
+		<text>Ну шо, всі зажмурились? Молоток, чистая робота! Свой гешефт заберьош в Зуба. Кстаті, ти конкретно ростеш. Значить, слухай сюда: тепер під тобой буде п'ятеро моїх пацанов, і для вас у мене вже єсть робота. Нада, шоб дигери і во снє більше не могли залупаться. Ти со своїми хлопцями влаштуй показатєний розбор. Спросіш, де? А на Барахолкє! Як кончітє дигеров, прослєді, шоб мєсто взяли наші люди і нікого не пускали. Учті, бригада вже на мєстє, но без твого сигнала ніхто і жопу од стула не подиме. </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_0_up">
+		<text>Молодця, пацани! Лафа нашой малінє!.. Тока пора перекрить всі дорожки со Свалки: хай башляють, якшо хочуть артефакти тягати!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_1_up">
+		<text>Ну всьо-о... Свалка навєчно приписана за Йогой та єго шоблой! Усьо, пацани, зара можна розслабиться, тока бабло рубай на сталкерах!.. Правда, в цих виродков база цела на Кордоні... Нада б їх навєдать - і к ногтю, шоб залупаться больше не могли.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_1_down">
+		<text>Братва, щемлять нас! А ну, собралися! Покажемо, хто тут главний!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_2_up">
+		<text>Пацани, я бачу, у вас в натурє єсть яйця, хе-хе!.. Карочє, ми зара на Кордон можемо гулять, як до себе домой. Усьо, починаєм трясти сталкеров прямо в них на хатє! Прищеміть їх так, щоб носа за ворота не висовували!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_2_down">
+		<text>Вашу мать, ви шо, ващє страх перед Йогой потеряли, шо такіє розслабони пошлі?! Сталкери одрізали дорогу на Кордон, придурки! Ви шо, хочете, шоб вони безплатно артефакти в нас з-под носа тягали?! А ну, бігом работать!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_3_up">
+		<text>От ета да, от ета бригада! Замкнули вошек у самий угол, осталося тока тапком шльопнуть, хе-хе!.. Ну шо, готовимося до атаки.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_3_down">
+		<text>Йоп! Наших братух із Кордону попьорли! Кажуть, сталкеров ціла товпа собралась. Карочє, прийшло врем'я стукнуть їх хорошо, шоб кришу свою не забували уважать.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_4_up">
+		<text>От ето житуха, пацани! Тепер сталкеров будем тока так щіпать, а вони нам хрєн шо зроблять! Ох, наберемо бабла і всьо - прощай, Зона, ми на морє з дєвочками!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_4_down">
+		<text>Йоп, та ці сталкери оборзєли ващє! Наших пацанов коло своєй бази реально вищемили! Карочє, хто там рядом, наваляйте цим козлам по сопаткє!</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_5_down">
+		<text>Братва! Карочє, сталкери ващє страх потєряли! Вибили пацанов с Кордона і встановили там свої порядки. Пришло врем'я повторить роз'яснєніє!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_start_pda">
+		<text>Давно нікого не бачив із боку Боліт. Ти вийшов прямо під блокпост військових. Од них сталкерові хіба куля світить, тому обережніше там.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
+		<text>Обнаружен сталкер! Огонь!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
+		<text>Цель потеряна! Дежурный, подымай своих гоблинов и прочеши сектор!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_wolf_call">
+		<text>Гей, найманцю, ти як це тут? Підходь, поспілкуємося.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_call">
+		<text>Невже утік від вояків? От везучий, чортяка!.. Печінкою відчуваю, недарма ти сюди заблукав. Ти як будеш проходити повз мою халупу, заходь, поспілкуємося. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_first">
+		<text>Здоров, радий тебе бачити! Ну що, давай про справу поговоримо. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_habar">
+		<text>Таки приніс!.. Я знав, що на тебе можна покластися! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_1">
+		<text>Є новини щодо нашої справи? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_2">
+		<text>Ти кейс приніс? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_3">
+		<text>Ну що, добув кейс? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_1">
+		<text>Ти із кейсом не зволікай. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_2">
+		<text>Знайдеш кейс - швидко тягни його до мене. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_3">
+		<text>Про кейс не забудь. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_1">
+		<text>Щасти. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_driver_treat">
+		<text>Не стреляй, не стреляй, пожалуйста!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_patrol_help_1">
+		<text>База, потрібна допомога! Ми трапили у засідку військових! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_patrol_help_2">
+		<text>Виручайте, братчики! Довго не протримаємося!.. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_1">
+		<text>Проходь швидше! Торговець замовив за тебе слівце.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_2">
+		<text>Ворушись давай! На базі на тебе вже чекають. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_3">
+		<text>Не стирчи перед очима. Іди на базу. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_1">
+		<text>Найманцю, тримайся осторонь! Тут територія сталкерів! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_2">
+		<text>Не підходь! Відкриємо вогонь! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_3">
+		<text>Найманцю, тут тобі проходу нема! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_1_1">
+		<text>Зизий, це Валеріан! Уже два дні чекаємо, де вас носить?! Ситуація паскуднувата складається, кожен ствол рахуємо!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_1_2">
+		<text>Та, курва, ніяк не можемо до вас пробратися! Аномалії дорогу перегородили, шукаємо прохід! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_1">
+		<text>Василю, пам'ятаєш, ти обіцяв мені стволами допомогти? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_2">
+		<text>Валеріане, дак я ж не проти! Ти одне врахуй: із мене потім військові спитають - мовляв, нащо зброю сталкерам продавав?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_3">
+		<text>Василю, ти сам врахуй: якщо ми воякам зараз прес не влаштуємо, вони з нас останню кров вип'ють!  </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_4">
+		<text>Добре, Валеріане. Чекай завтра на людину, вона тобі доставить усе, що в мене зараз є. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_1">
+		<text>Валеріане, це Пузо! Ходять чутки, ніби ти сталкерів навколо себе збираєш? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_2">
+		<text>Є таке діло. Ми тут вирішили дати одкоша військовим, щось вони зовсім геть знахабніли. Ти в курсі, ні? Вони нас уже бандитам здають.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_3">
+		<text>Ну не паскуди? Тоді й мене запишіть, я до них великий рахунок маю. Значить слухай, завтра зможу бути у вас, та зі мною ще троє хлопців.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_4">
+		<text>Гарна новина, спасибі. Будемо на вас чекати.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_1">
+		<text>Агов, Гобліне! Що там у вас чути? </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_2">
+		<text>Військові тільки-но когось із кулемета валили. Але далеко від бази все одно не вилазять. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_3">
+		<text>Тримай мене в курсі, як щось станеться. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalkerbase_guard_redirect">
+		<text>Ми вже усі жданики поїли, тебе виглядаючи! Чеши до головного, швидко!.. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mill_complete_reply">
+		<text>Чисто відпрацювали! Загін військових знищено. Другий їхній загін ми засікли на АТП. Найманцю, висувайся туди. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_dead_military_pda_request">
+		<text>Ну, все, військових знищено. Без дружків Халецькому більше нема на що сподіватися! Тепер ми розколемо цю армійську собаку. Найманцю, вертайся на базу.  </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_jail_monologue">
+		<text>Бачиш, до чого призвела твоя впертість? І сам не врятувався, і своїх згубив. Не буде тобі ніякої рятувальної операції! Кажи, де кейс сховав?! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_1">
+		<text>Ладно, крыса, я скажу. На старой мельнице кейс спрятан... под крышей.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_2">
+		<text>Ладно, крыса, я скажу. В тоннеле, в машине перевернутой.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_3">
+		<text>Ладно, крыса, я скажу. В доме, он недалеко отсюда... на чердаке спрятал.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_founded">
+		<text>Ти диви, розколовся! Гнилуватий горішок виявився, хутко луснув. Значить, координати схованки у тебе в КПК. Усе, що знайдеш, тягни до Сидоровича. Він, мабуть, усі жданики вже поїв. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_request">
+		<text>Чудово, найманцю! Чекаю на тебе із кейсом. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_2">
+		<text>Зона зведе - побачимося! </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_3">
+		<text>Ну, бувай здоровий. </text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_give_habar">
+		<text>Агов, ти куди?! А ну, віддай кейс!..</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_can_join_stalker_1">
+		<text>Найманцю, це Валеріан. Братерство сталкерів готове прийняти тебе. Якщо усе ще хочеш стати одним із нас, приходь на нашу базу.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_0_up">
+		<text>Прекрасно! Тепер у нас вистачить сили, щоб зламати карк кожному, хто підніме руку на нашого брата!.. Так, хлопці, слухайте сюди. Треба захопити контроль над стежками, що ведуть на Кордон. Якщо діло вигорить, жодна бандитська потолоч і на постріл не підійде до нашої бази!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_1_up">
+		<text>Зробили! Усе, тепер бандюкам просто так на Кордон не проскочити!.. Але це ще не все. Саме час готуватися до походу на Смітник. Пора цим виродкам такий урок дати, щоб вони нас до кінця життя запам'ятали!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_1_down">
+		<text>Сил у бандюків більше. Паскудне діло, хлопці! Якщо ми зараз сили не зрівняємо, незабаром усі на Смітнику опинимося, на цю курвину братву горба гнути почнемо...</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_2_up">
+		<text>Так! Вийшло, ми закріпилися на Смітнику!.. Хто не зрозумів, повторюю: шлях на Смітник відкрито, данина за вхід скасовується! Тепер останній ривок: настав час наскочити до самого їхнього лігвиська, пропісочити бандюків як слід!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_2_down">
+		<text>Хлопці, слухай мене! Бандюки організували блокпост на Кордоні. Якщо ми не повернемо контроль над Кордоном, цієї сволоти сюди набіжить неміряно.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_3_up">
+		<text>Усе, ми перекрили єдиний вихід із бандитської бази. Чудово, хлопці, чудово! Готуйтеся до штурму!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_3_down">
+		<text>Паскудство... нас вибили зі Смітника. Добре, хлопці, ще не вечір! Давайте-но зберемося і виб'ємо їх до бісової мами!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_4_up">
+		<text>Цей день увійде до історії Зони! Вітаю всіх сталкерів із повним розгромом бандюків! Усе, більше жодних відкатів та башлянь за право проходу! Із перемогою вас, хлопці!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_4_down">
+		<text>Усім увага! Бандити організували вилазку з бази і знищили загін наших. Потрібно за будь-яку ціну перекрити їм вихід, поки уся ця сволота не повиповзала!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_5_down">
+		<text>Усім сталкерам! Це Валеріан. Бандитів знову повно на Смітнику. Біс його зна, звідки вони взялися, але тепер їх там як лайна! Будьте обережні. Повторюю: усім бути обережними!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_enter">
+		<text>Стояти! Темна Долина на карантині! Прибирай зброю і пові-і-ільно до мене. І щоб без різких рухів! Будемо говорити...</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_1">
+		<text>Підходь, не бійся, стріляти не станемо!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_2">
+		<text>Підходь-підходь! Треба з'ясувати, що ти за один... </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_3">
+		<text>Чого стоїш, підходь! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_stop">
+		<text>Стояти! Заховай зброю і не смикайся. Якщо по ствол полізеш - пристрелю! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_return">
+		<text>Підходь, не бійся, стріляти не будемо! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_stand_still">
+		<text>Стій спокійно, брате, бо-бо не буде. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_kill_actor">
+		<text>Валимо недоумка! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_after_pay">
+		<text>Вільний. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos_done">
+		<text>Наче тихо все. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos_1">
+		<text>«Четвертий», це «перший». Що за стрілянина? Що у вас коїться?  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos">
+		<text>Чорт, іще один напад!.. Найманцю, перевір, що сталося! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_1">
+		<text>Агов, що у вас сталося? Відповідайте! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_2">
+		<text>Патруль чотири, відповідайте! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_3">
+		<text>Ну налякали вже, налякали... Курва мать, та не мовчіть ви!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_base_enter">
+		<text>Гей, мужик, ти на території бази «Волі»! Усякі пустощі пустувати тут аж ніяк не дозволяється. Давай до мене, якщо питання обсіли.  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_comendant_come_back">
+		<text>Молодець, розібрався із мутантами! Тепер давай назад - за подальшими вказівками.  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_leader_help">
+		<text>Найманцю, це Чехов. Форпост атаковано. Не знаю, чи вижив хто. Але один із КПК усе ще активний. Можливо, на ньому знайдеться корисна інформація. Знайди його і принеси мені.  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_attack_help">
+		<text>Усім загонам «Волі»! Ми наштовхнулися на ворожий загін біля ферми! Серйозний опір, потрібна допомога! Повторюю - хлопці, потрібна допомога, забезпечте підкріплення!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_leader_pda_come_back">
+		<text>Да-а, недалеко втік наш Комендант!.. Одначе гарне місце йому знайшли нові друзі - на дереві... Добре, досить лірики. Захопи КПК цієї сволоти і давай до мене. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_control">
+		<text>Прекрасно! Перша і друга антени під контролем! Тепер слід захопити третю!   </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_finish">
+		<text>Чудова робота! Усі антени в нас під контролем. Розпочинаю сканування.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_good">
+		<text>Ми зафіксували координати тунеля! Це район закинутого заводу, саме звідти до Темної Долини лізуть найманці!.. Усім групам, увага! Знайти і знищити тунель!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_help">
+		<text>Ми біля старого заводу... от лайно! Тут повно найманців! Потребуємо допомоги!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_task">
+		<text>Спасибі, що прийшов! Нас затисли біля входу, надто щільний вогонь! Допоможи зняти найманців із даху!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_quest_finish">
+		<text>Покидьків, які поклали стільки наших хлопців, знищено! Ось так! Бійці «Волі», ми ще раз показали клас! Прийде день, коли вся Зона стане вільною!.. Найманцю, буду завжди радий тебе бачити. Будеш поруч - заходь за нагородою!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_1">
+		<text>Круті й підкручені перці! Лише у «Волі» вас оцінять і приймуть як рідних! Жодної обязаловки та ідеологічної пурги, жодних ранкових побудок і мінімум сухого закону! Якщо ти справжній сталкер і любиш вільне життя серед таких же, як сам, - вливайся до наших лав! Час вливання довільний: приймаємо без перерв і вихідних, щодня та щоночі! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_2">
+		<text>Сталкере! Життя дарує тобі можливість знайти вірних товаришів у лавах «Волі»! Лише тут ти знайдеш тих, хто прикриє тобі спину і поділиться останнім куснем хліба!  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_3">
+		<text>Ветерани і новачки! Якщо для вас воля і дружнє коло - дорогоцінні речі, вступайте до наших лав! «Воля» вітає усіх, кого привели до нас шляхи Зони. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_4">
+		<text>Хочеш стати авторитетним сталкером? Бажаєш завжди мати вірних друзів, які прикривають твою спину? Мрієш надавати по пиці «Долгу»? Ці та багато інших можливостей відкриються перед тобою після вступу до лав «Волі»! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_5">
+		<text>Зона дарує тобі можливість примкнути до кращого зі сталкерских кланів! Не згай свій шанс вступити до «Волі»! Лише тут тебе зрозуміють і приймуть таким, який ти є! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_6">
+		<text>Зона - це сталкери, сталкери - це воля. Будь сталкером до кінця: вступай до «Волі»! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_7">
+		<text>Вливайся до лав «Волі»! Спільно ми збережемо Зону - єдину на планеті державу справжді вільних людей! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_1">
+		<text>Хлопці, по кому гамселите?! Відповідайте!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_2">
+		<text>Люде, що у вас коїться? Прийом! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_3">
+		<text>Що там у вас за вистава?.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_4">
+		<text>Хлопці, допомога потрібна? Прийом. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_1">
+		<text>...Прийом, прийом! Відповідайте!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_2">
+		<text>...Не мовчіть, відповідайте!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_3">
+		<text>...Чому не відповідаєте?.. Хлопці, прийом!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_4">
+		<text>...Та що ж там таке... Прийом!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_1">
+		<text>...Чорт, нема зв'язку... Що там сталося? </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_2">
+		<text>...Мовчать. Що будемо робити? </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_3">
+		<text>...Прийом, прийом! Агов, там, трясця вашій мамі! Прийом!.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_4">
+		<text>...Куди ж вони поділися?.. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_1">
+		<text>Увага, всім групам! Ми тільки-но втратили ще один загін. Будьте напоготові, хлопці! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_2">
+		<text>Ще один загін не виходить на в'язок. Що ж воно діється?  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_3">
+		<text>Зв'язок із патрулем втрачено. Усім загонам посилити пильність. Бути гранично обережними.  </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_4">
+		<text>Бійці, увага. Ще одна група не виходить на зв'язок. Зважаючи на все, наші хлопці більше не повернуться на базу. Будьте пильні, щоб із вами такого не трапилося! Пам'ятайте: ворог поруч! </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_ambush_in_yard">
+		<text>Пруть ну просто з усіх боків! Спробуємо затримати їх у дворі, а ти, найманцю, давай через будинок!..</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_leader_join_freedom">
+		<text>Найманцю, це Чехов! Якщо твоє бажання працювати із нами ще не вивітрилося, чекаю тебе на базі «Волі». Ми готові прийняти тебе до своїх лав. </text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_0_up">
+		<text>Піпл, є гарна новина! Ми взяли під контроль усі дороги до нашої Долини. Думаю, настав час навідатися в гості до «Долга». Усі, хто хоче взяти участь, чухайте у бік Смітника!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_1_up">
+		<text>Народе, ви кращі! У нас вийшло закріпитися на Смітнику! Тепер треба просуватися у бік «Агропрома». Вільних сталкерів не зачіпаємо у жодному разі.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_1_down">
+		<text>Ворог рветься до Темної Долини! Народе, захистимо «Волю»!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_2_up">
+		<text>Чудово, чудово! Наш загін закріпився біля дороги на «Агропром». Лишається тільки постукатися у двері до «Долга».</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_2_down">
+		<text>Народ, ми втратили загін на Смітнику. Дорога до Долини ніким не охороняється! Із цим треба щось робити.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_3_up">
+		<text>«Воля» прийшла на «Агропром»! Класно відпрацювали! Саме час замкнути «долговців» на їхній власній базі!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_3_down">
+		<text>Погана новина, чуваки: убили хлопців, які контролили дорогу на «Агропром»... Потрібно хоч як, але повернути контроль над дорогою!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_4_up">
+		<text>Зашибись! У нас вийшло рознести базу «Долга»! До-овго їм тепер не оговтатися... Усе, піпл, можна розслабитися і відчути себе по-справжньому вільними!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_4_down">
+		<text>Є дані, що «Долг» пішов у контратаку і вибив нас із «Агропрома». Це реально хріново, хлопці! Так війні кінця не буде!..</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_5_down">
+		<text>Агов, піпл, хто скучив за війною? Кажуть, «Долг» знову з'явився у наших краях! Прилетіли на вертушках, відбили свою базу і зачистили там усе, що рухалося.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_task_sniper_dead">
+		<text>На даху чисто! Просуваємося вперед!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_leader_dolg_pda">
+		<text>Это генерал Крылов. Не расслабляйся: подземка кишит мутантами. Согласно плану, блок управления насосной станцией находится уровнем выше тебя, передаю точные координаты. Поосторожней там. Удачи.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_leader_clear_sky_pda">
+		<text>Найманцю, це Лебедєв. Листування зі схованки багато що пояснює. Тепер ми знаємо, що в центрі Зони побувала група Стрільця. І ще - вони готують другий похід до центра Зони... ідіоти! Якщо в них вийде ця задумка, станеться другий Великий Викид. Потужність цього разу буде такою, що все живе загине, а Зона перейде в абсолютно нестабільний стан. Цього не можна допустити. Стрілець пішов на Янтар. Ти найближчий до нього, тож спробуй перехопити. Про Клика та Привида ми подбаємо самі. </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_blokpost_shout_1">
+		<text>Эй, наёмник, ты какого чёрта здесь делаешь?! А ну, давай сюда, пока мутанты не набежали! </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_blokpost_dialog">
+		<text>Ну ты даёшь! Наёмник, где твоя снаряга?! Тут, знаешь, вообще-то опасно. Без хорошего оружия и прочего никак. Монстры в последнее время совсем озверели, так что мы готовы дружить со всеми, кто поможет в борьбе с Зоной. Если хочешь заработать, поговори с командованием на базе. Наш отряд как раз туда направляется. Держись с ребятами - целее будешь.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_1">
+		<text>Мутанты-ы! Получайте, погань!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_2">
+		<text>Снорки! Бей их!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_3">
+		<text>Без паники! Очередями!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_1">
+		<text>Ветераны Чернобыля, вступайте в ряды «Долга». На нас лежит огромная ответственность: нужно защитить мир от наступления Зоны.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_2">
+		<text>Свободные сталкеры, ветераны и охотники! Вливайтесь в ряды «Долга»! Защитить мир от заразы Зоны - наша общая задача!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_3">
+		<text>Сталкер, защити мир от Зоны. Вступи в «Долг»! </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_4">
+		<text>Мир со страхом смотрит на расползающуюся заразу Зоны. Вступи в «Долг», спаси своих родных и близких!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_5">
+		<text>Смертельным аномалиям, опасным мутантам, а также анархистам и бандитам не остановить «Долг»! Мы победоносной поступью идём на помощь гражданам всей планеты!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_6">
+		<text>Сражаясь с мутантами, вы покроете себя вечной славой! Кроме того, все, кто вступил в группировку «Долг», обеспечиваются оружием и отличным снаряжением!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_7">
+		<text>Мы верим в нашу победу! Верим в то, что Зона будет уничтожена! </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_1">
+		<text>Здорово, солдат!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_2">
+		<text>Рад видеть живым!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_3">
+		<text>С возвращением!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_1">
+		<text>Эй, салага! Вступай к нам в «Долг»!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_2">
+		<text>Сталкер! На территории базы не шали, понял?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_3">
+		<text>Учти: ты соблюдаешь наши правила - тебя никто не трогает.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_1">
+		<text>Приветствую. Давай поговорим.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_2">
+		<text>Ну, что стоишь? Подходи, я не кусаюсь.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_3">
+		<text>Так, наёмник, ко мне!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_1">
+		<text>Сержант Наливайко, направляю к вам наёмника. Он будет спускаться в подземелья. Приказываю обеспечить ему проход к норе.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_2">
+		<text>Тащ генерал, неужто нашёлся кто-то, кто согласен туда лезть?</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_3">
+		<text>Нашёлся. Позаботься, чтобы у него хватило патронов. </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_4">
+		<text>Слушаюсь.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_5">
+		<text>Ну что ж... удачи. Сержант выдаст тебе всё необходимое снаряжение и поможет парой полезных советов. Координаты норы я передал на твой ПДА. </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_1">
+		<text>Всем внимание! Они могут полезть в любую минуту!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_2">
+		<text>Не расслабляться! Нору держать на прицеле!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_3">
+		<text>Всем глядеть в оба!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_attack_1">
+		<text>Полезли, гады! Огонь!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_reward_pda">
+		<text>Да, сталкер, сработано было отлично. Туннели затоплены, так что теперь нам будет полегче. Хорошее выполнение обязанностей я всегда поощряю, поэтому приходи за наградой.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_hello_1">
+		<text>День добрый. Провериться на меткость не хочешь? </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_win_1">
+		<text>Неплохо, неплохо! Ну, раз так, тебе награда. </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_lose_1">
+		<text>Жизнь - такая штука... Не повезло сейчас, повезёт потом. Ты придходи ещё, не стесняйся. </text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_bye_1">
+		<text>Захочешь ещё пострелять - заходи.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_0_up">
+		<text>Сообщаю всем отрядам: нам удалось установить контроль над территорией «Агропрома». В данный момент также формируются отряды добровольцев для атаки «Свободы». Ближайшая цель - захват плацдарма на Свалке.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_1_up">
+		<text>Плацдарм на Свалке захвачен. Теперь необходимо получить контроль над дорогой на Тёмную Долину. Внимание, на нейтральных сталкеров нападать воспрещается. Повторяю: нейтралов не трогать!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_1_down">
+		<text>Отряды противника проникли на территорию «Агропрома». Мы не можем воевать со «Свободой», не обезопасив сперва свою базу. Приказываю уничтожить противника и установить контроль над всеми известными дорогами на «Агропром».</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_2_up">
+		<text>Мы готовы к атаке на Тёмную Долину. Всем, кто будет участвовать в атаке, оставаться в состоянии готовности номер один.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_2_down">
+		<text>Внимание, всем отрядам! Мы потеряли плацдарм на Свалке, без которого не сможем провести атаку на базу «Свободы». Прежние позиции необходимо отбить!..</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_3_up">
+		<text>Бойцы, есть хорошая новость. Наши передовые отряды захватили блокпост в Тёмной Долине. Теперь мы в состоянии провести атакую на базу «Свободы».</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_3_down">
+		<text>Всем отрядам! Противник атаковал наши силы на Свалке! Мы потеряли контроль над дорогой в Тёмную Долину.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_4_up">
+		<text>Всем, всем, всем! База «Свободы» захвачена! Теперь эти неформалы не будут мешаться у нас под ногами! Поздравляю всех, кто сделал свой вклад в эту победу!</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_4_down">
+		<text>Наши отряды в Тёмной Долине потерпели поражение и были отброшены на Свалку. Без плацдарма в Тёмной Долине мы не в состоянии провести атаку на базу «Свободы».</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_5_down">
+		<text>Внимание всем! Согласно разведданым, крупный отряд «свободовцев» захватил базу и установил контроль над Тёмной Долиной. Необходимо напомнить им, каково их место в Зоне!..</text>
+	</string>
+</string_table>

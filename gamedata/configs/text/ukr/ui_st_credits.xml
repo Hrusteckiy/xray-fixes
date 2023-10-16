@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_stuff">
+  <text>Гру створили</text> 
+</string>
+<string id="st_producer">
+  <text>Продюсер</text> 
+</string>
+<string id="st_gsc">
+  <text>Сергій "-GSC-" Григорович</text> 
+</string>
+<string id="st_project_lead">
+  <text>Керівник проекту</text> 
+</string>
+<string id="st_bolshakov">
+  <text>Антон Большаков</text> 
+</string>
+<string id="st_lead_designer">
+  <text>Провідний дизайнер</text> 
+</string>
+<string id="st_negrobov">
+  <text>Юрій Негробов</text> 
+</string>
+<string id="st_art_director">
+  <text>Арт-директор</text> 
+</string>
+<string id="st_tolmachev">
+  <text>Ілля Толмачов</text> 
+</string>
+<string id="st_lead_programmer">
+  <text>Головний програміст</text> 
+</string>
+<string id="st_iassenev">
+  <text>Дмитро Ясенєв</text> 
+</string>
+<string id="st_lead_game_designer">
+  <text>Провідний геймдизайнер</text> 
+</string>
+<string id="st_didenko">
+  <text>Руслан Діденко</text> 
+</string>
+<string id="st_art_department">
+  <text>Відділ графіки</text> 
+</string>
+<string id="st_level_design">
+  <text>Дизайн рівнів</text> 
+</string>
+<string id="st_zaitsev">
+  <text>Євген Зайцев</text> 
+</string>
+<string id="st_mironov">
+  <text>Костянтин Миронов</text> 
+</string>
+<string id="st_kurbatov">
+  <text>Сергій Курбатов</text> 
+</string>
+<string id="st_androshchuk">
+  <text>Роман Андрощук</text> 
+</string>
+<string id="st_konstantinov">
+  <text>Юрій Константинов</text> 
+</string>
+<string id="st_pasichniy">
+  <text>Ігор Пасічний</text> 
+</string>
+<string id="st_merkulov">
+  <text>Віктор Меркулов</text> 
+</string>
+<string id="st_maistrenko">
+  <text>Сергій Майстренко</text> 
+</string>
+<string id="st_lead_animator">
+  <text>Провідний аніматор</text> 
+</string>
+<string id="st_markevich">
+  <text>Павло Маркевич</text> 
+</string>
+<string id="st_animators">
+  <text>Аніматори</text> 
+</string>
+<string id="st_yablun">
+  <text>Євген Яблонь</text> 
+</string>
+<string id="st_korunchak">
+  <text>Володимир Корунчак</text> 
+</string>
+<string id="st_character_models">
+  <text>Моделі персонажів</text> 
+</string>
+<string id="st_kovach">
+  <text>Олександр Ковач</text> 
+</string>
+<string id="st_textures">
+  <text>Текстури</text> 
+</string>
+<string id="st_starodub">
+  <text>Людмила Стародуб</text> 
+</string>
+<string id="st_sidorenko">
+  <text>Ігор Сидоренко</text> 
+</string>
+<string id="st_ui_art">
+  <text>Інтерфейс та графіка</text> 
+</string>
+<string id="st_nesin">
+  <text>Роман Несін</text> 
+</string>
+<string id="st_lead_programmers">
+  <text>Провідні програмісти</text> 
+</string>
+<string id="st_kolomiech">
+  <text>Андрій Коломієць</text> 
+</string>
+<string id="st_kolomiech2">
+  <text>- Геймплей та UI</text> 
+</string>
+<string id="st_lobanchikov">
+  <text>Ігор Лобанчиков</text> 
+</string>
+<string id="st_lobanchikov2">
+  <text>- Рендер</text> 
+</string>
+<string id="st_slipchenko">
+  <text>Костянтин Сліпченко</text> 
+</string>
+<string id="st_slipchenko2">
+  <text>- Фізика та анімація</text> 
+</string>
+<string id="st_programmers">
+  <text>Програмісти</text> 
+</string>
+<string id="st_maniluyk">
+  <text>Олександр "loopzilla" Манилюк</text> 
+</string>
+<string id="st_maniluyk2">
+  <text>- Мережа</text> 
+</string>
+<string id="st_chechin">
+  <text>Сергій "Lain" Чєчін</text> 
+</string>
+<string id="st_chechin2">
+  <text>- AI монстрів</text> 
+</string>
+<string id="st_sokolov">
+  <text>Євген "sea" Соколов</text> 
+</string>
+<string id="st_sokolov2">
+  <text>- Геймплей та UI</text> 
+</string>
+<string id="st_ivanchov">
+  <text>Сергій Іванцов</text> 
+</string>
+<string id="st_ivanchov2">
+  <text>- Оптимізація</text> 
+</string>
+<string id="st_plichko">
+  <text>Олександр Плічко</text> 
+</string>
+<string id="st_scriptoman">
+  <text>- скрипти та наповнення гри</text> 
+</string>
+<string id="st_prishchepa">
+  <text>Сергій Прищепа</text> 
+</string>
+<string id="st_khimera">
+  <text>Денис Химера</text> 
+</string>
+<string id="st_gamedesign_department">
+  <text>Відділ геймдизайну</text> 
+</string>
+<string id="st_verpahovskiy">
+  <text>Андрій Верпаховський</text> 
+</string>
+<string id="st_dushinskiy">
+  <text>Петро Душинський</text> 
+</string>
+<string id="st_zakolukin">
+  <text>Андрій Заколюкін</text> 
+</string>
+<string id="st_skripal">
+  <text>Юрій Скрипаль</text> 
+</string>
+<string id="st_demidenko">
+  <text>Олександр Демиденко</text> 
+</string>
+<string id="st_sound_producer">
+  <text>Звукорежисер</text> 
+</string>
+<string id="st_kuzmenko">
+  <text>Дмитро Кузьменко</text> 
+</string>
+<string id="st_original_music">
+  <text>Музика</text> 
+</string>
+<string id="st_mooze">
+  <text>MoozE</text> 
+</string>
+<string id="st_omelchuk">
+  <text>Олексій Омельчук</text> 
+</string>
+<string id="st_additional_music">
+  <text>Додаткова музика</text> 
+</string>
+<string id="st_firelake">
+  <text>FireLake</text> 
+</string>
+<string id="st_addaraya">
+  <text>...</text> 
+</string>
+<string id="st_localization">
+  <text>Локалізація</text> 
+</string>
+<string id="st_kuchma">
+  <text>Євген "Smile" Кучма</text> 
+</string>
+<string id="st_dialogs">
+  <text>Складання діалогів</text> 
+</string>
+<string id="st_besarab">
+  <text>Юрій Бесараб</text> 
+</string>
+<string id="st_volinech">
+  <text>Тарас "Tatarik" Волинець</text> 
+</string>
+<string id="st_lefty">
+  <text>Lefty</text> 
+</string>
+<string id="st_texts">
+  <text>Робота із текстами</text> 
+</string>
+<string id="st_litvinenko">
+  <text>Володимир "Fiachna" Литвиненко</text> 
+</string>
+<string id="st_lead_qa_department">
+  <text>Провідні тестери</text> 
+</string>
+<string id="st_krivets">
+  <text>Дмитро Кривець</text> 
+</string>
+<string id="st_mikhailov">
+  <text>Павло "CoRR" Михайлов</text> 
+</string>
+<string id="st_qa_department">
+  <text>Тестери</text> 
+</string>
+<string id="st_shelest">
+  <text>Сергій Шелест</text> 
+</string>
+<string id="st_koval">
+  <text>Кирило Коваль</text> 
+</string>
+<string id="st_konovaya">
+  <text>Ігор Коновал</text> 
+</string>
+<string id="st_shevchuk">
+  <text>Гліб Шевчук</text> 
+</string>
+<string id="st_gurbanov">
+  <text>Ельшан Гурбанов</text> 
+</string>
+<string id="st_gaiduchenko">
+  <text>Іван Гайдученко</text> 
+</string>
+<string id="st_semeniy">
+  <text>Максим Семеній</text> 
+</string>
+<string id="st_voskolovich">
+  <text>Анастасія Восколович</text> 
+</string>
+<string id="st_voronin">
+  <text>Володимир Воронін</text> 
+</string>
+<string id="st_davidian">
+  <text>Дмитро "Abe" Давидян</text> 
+</string>
+<string id="st_kirienko">
+  <text>Андрій "Darin" Кириєнко</text> 
+</string>
+<string id="st_poperechniy">
+  <text>Данило "West" Поперечний</text> 
+</string>
+<string id="st_falchenko">
+  <text>Юрій "Dark" Фальченко</text> 
+</string>
+<string id="st_dvornikov">
+  <text>Михайло "Chips" Дворніков</text> 
+</string>
+<string id="st_usupov">
+  <text>Денис "Tetri$Zz" Юсупов</text> 
+</string>
+<string id="st_dovgoluk">
+  <text>Олена "redstain" Довгалюк</text> 
+</string>
+<string id="st_mopev">
+  <text>Володимир "Hein" Морєв</text> 
+</string>
+<string id="st_kozhukhar">
+  <text>Олексій Кожухарь</text> 
+</string>
+<string id="st_polozov">
+  <text>Микола "vortigaunt" Полозов</text> 
+</string>
+<string id="st_pr_department">
+  <text>Відділ PR</text> 
+</string>
+<string id="st_yavorsky">
+  <text>Олег Яворський</text> 
+</string>
+<string id="st_yeltyshev">
+  <text>Валентин Єлтишев</text> 
+</string>
+<string id="st_kuzhel">
+  <text>Ольга Кужель</text> 
+</string>
+<string id="st_promotional_material">
+  <text>Рекламні матеріали</text> 
+</string>
+<string id="st_troekyrova">
+  <text>Ольга Троєкурова</text> 
+</string>
+<string id="st_khivrenko">
+  <text>Іван Хивренко</text> 
+</string>
+<string id="st_sales_department">
+  <text>Відділ продажів та розвитку бізнесу</text> 
+</string>
+<string id="st_boyko">
+  <text>Вікторія Бойко</text> 
+</string>
+<string id="st_web_programmer">
+  <text>Web-програміст</text> 
+</string>
+<string id="st_terlik">
+  <text>Сергій Терлюк</text> 
+</string>
+<string id="st_special_thanks">
+  <text>Окрема подяка</text> 
+</string>
+<string id="st_thanks_chernobyl">
+  <text>Олександрові Новікову, Ігореві Грамоткіну і решті персоналу та адміністрації Чорнобильської електростанції за підтримку</text> 
+</string>
+<string id="st_thanks_chernobyl2">
+  <text>Адміністрації Зони відчуження за дозвіл проводити наші божевільні досліди</text> 
+</string>
+<string id="st_thanks_chernobyl3">
+  <text>Персоналу агентства "Чорнобильінтерінформ" за сприяння</text> 
+</string>
+<string id="st_thanks_naumova">
+  <text>Олександрові Наумову за величезний інформаційний внесок та за його благородну місію</text> 
+</string>
+<string id="st_thanks_firelake">
+  <text>Групі FIRELAKE (www.firelake.in.ua)</text> 
+</string>
+<string id="st_thanks_firelake2">
+  <text>Іллі Новаку за допомогу в роботі над сценарієм</text> 
+</string>
+<string id="st_thanks_firelake3">
+  <text>Порталу UKRGAME.NET за постійну підтримку гри S.T.A.L.K.E.R. у мережі</text> 
+</string>
+<string id="st_thanks_fanbase">
+  <text>Від щирого серця дякуємо Олексієві "Don Reba" Бадалову, Marcos "Pixel" Duarte, Megamat, Abe, Dark, Артемові "BAC9-FLCL" Зуєву, Maciej "Stierlitz" Prieditis, Dennis "Siro" Tchernov, Олексієві "Хеш" Белендинову, Sooltan DJ, Ygrek, NatVac, Іванові "xStream" Сидорову, Євгенові "sokol_jack" Соколовському, Дмитрові "Red75" Рощину, сайту Stalker-Portal.ru (Олександр "Leks" Абрамов, Ігор "Gag" Соловйов, Олексій "DaimoN" Дронов)</text> 
+</string>
+<string id="st_thanks_fanbase2">
+  <text>Усім, хто брав активну участь в організації та проведенні рольової страйкбольної гри S.T.A.L.K.E.R.: Reality, і особливо</text> 
+</string>
+<string id="st_thanks_fanbase3">
+  <text>Дмитрові "Comandor" Іванову</text> 
+</string>
+<string id="st_thanks_fanbase4">
+  <text>Євгенові "Mulder" Халецькому</text> 
+</string>
+<string id="st_thanks_fanbase5">
+  <text>Сергієві "Тур" Лещенку</text> 
+</string>
+<string id="st_thanks_fanbase6">
+  <text>Денисові "Fiedel" Котляру</text> 
+</string>
+<string id="st_thanks_fanbase7">
+  <text>Володимирові "Rover" Смолькіну</text> 
+</string>
+<string id="st_thanks_fanbase8">
+  <text>Дмитрові "Професор" Гуревичу</text> 
+</string>
+<string id="st_thanks_fanbase9">
+  <text>Станіславові "Chesba" Легкобиту</text> 
+</string>
+<string id="st_thanks_fanbase10">
+  <text>Костянтинові "Інквізитор" Крюкову</text> 
+</string>
+<string id="st_thanks_fanbase11">
+  <text>Ігуменові Валеріану (Головченку) aka oVal</text> 
+</string>
+<string id="st_thanks_fanbase12">
+  <text>Ашотові, BigZ, Gild, Zeel, Андрієві Пауку</text> 
+</string>
+<string id="st_thanks_fanbase13">
+  <text>а також усім іншим численним прихильникам у всьому світі, які палко підтримували розробку проекту S.T.A.L.K.E.R.</text> 
+</string>
+<string id="st_thanks_all">
+  <text>Від усієї команди ВЕЛИЧЕЗНЕ СПАСИБІ всім прихильникам та фанатам проекту S.T.A.L.K.E.R.</text> 
+</string>
+<string id="st_thanks_litconc">
+  <text>Переможцям другого літконкурсу за мотивами гри "*S.T.A.L.K.E.R.*"</text> 
+</string>
+<string id="st_thanks_litconc1">
+  <text>Михайлові Черепанову</text> 
+</string>
+<string id="st_thanks_litconc2">
+  <text>Єгорові Пєскову</text> 
+</string>
+<string id="st_thanks_litconc3">
+  <text>Олександрові Гордіану</text> 
+</string>
+<string id="st_thanks_litconc4">
+  <text>Hitman</text> 
+</string>
+<string id="st_thanks_litconc5">
+  <text>Кащєєву</text> 
+</string>
+<string id="st_thanks_litconc6">
+  <text>Сергієві Куликову</text> 
+</string>
+<string id="st_thanks_litconc7">
+  <text>Владиславові Білогородському</text> 
+</string>
+<string id="st_thanks_litconc8">
+  <text>Романові Шемякіну</text> 
+</string>
+<string id="st_thanks_litconc9">
+  <text>Дмитрові Калініну</text> 
+</string>
+<string id="st_thanks_litconc10">
+  <text>Сергієві Беркову</text> 
+</string>
+<string id="st_thanks_litconc11">
+  <text>Максимові Ваганову</text> 
+</string>
+<string id="st_thanks_litconc12">
+  <text>М.В. Чистякову</text> 
+</string>
+<string id="st_thanks_litconc13">
+  <text>Андрієві Петрову</text> 
+</string>
+<string id="st_thanks_litconc14">
+  <text>Ірині Грін та Вікторові Кузнєцову</text> 
+</string>
+<string id="st_thanks_litconc15">
+  <text>Сергієві Недорубу</text> 
+</string>
+<string id="st_thanks_litconc16">
+  <text>Вероніці Авериній</text> 
+</string>
+<string id="st_thanks_litconc17">
+  <text>О. Лобіну</text> 
+</string>
+<string id="st_thanks_litconc18">
+  <text>Владиславові Діку</text> 
+</string>
+</string_table>

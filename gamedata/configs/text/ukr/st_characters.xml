@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_bar_stalker_1_name">
+		<text>Фьокл</text>
+	</string>
+	<string id="agr_bar_stalker_2_name">
+		<text>Мілютін</text>
+	</string>
+	<string id="agr_bar_stalker_3_name">
+		<text>Лис Бандикут</text>
+	</string>
+	<string id="agr_bar_stalker_4_name">
+		<text>Судар</text>
+	</string>
+	<string id="agr_bar_stalker_5_name">
+		<text>Семен Семенович</text>
+	</string>
+	<string id="agr_barman_name">
+		<text>Колобок</text>
+	</string>
+	<string id="agr_duty_base_commander_name">
+		<text>Генерал Крилов</text>
+	</string>
+	<string id="agr_duty_base_mechanic_name">
+		<text>Громов</text>
+	</string>
+	<string id="agr_duty_base_trader_name">
+		<text>Митяй</text>
+	</string>
+	<string id="agr_gotoman2_name">
+		<text>Охоронець Боря</text>
+	</string>
+	<string id="agr_gotoman_name">
+		<text>Охоронець Вася</text>
+	</string>
+	<string id="agr_holeman_name">
+		<text>Сержант Наливайко</text>
+	</string>
+	<string id="agr_hourman_name">
+		<text>Галін</text>
+	</string>
+	<string id="agr_prisoner_1_name">
+		<text>Савелій</text>
+	</string>
+	<string id="agr_prisoner_2_name">
+		<text>Понтій Пілат</text>
+	</string>
+	<string id="agr_secret_trader_name">
+		<text>Пустельник</text>
+	</string>
+	<string id="agr_stalker_base_leader_name">
+		<text>Орест</text>
+	</string>
+	<string id="agr_stalker_base_mechanic_name">
+		<text>Айдар</text>
+	</string>
+	<string id="agr_stalker_base_trader_name">
+		<text>Дрізд</text>
+	</string>
+	<string id="agr_stalker_map_animals_name">
+		<text>Лосєв</text>
+	</string>
+	<string id="agr_stalker_pda_for_secret_trader_name">
+		<text>Авель</text>
+	</string>
+	<string id="agr_stalker_pda_name">
+		<text>Аміт</text>
+	</string>
+	<string id="agr_stalker_scientist_name">
+		<text>Вчений Платонов</text>
+	</string>
+	<string id="agr_weaponmaster">
+		<text>Майор Звягінцев</text>
+	</string>
+	<string id="agr_zooman_name">
+		<text>Інквізитор</text>
+	</string>
+	<string id="esc_driver_friend_name">
+		<text>Пупін</text>
+	</string>
+	<string id="esc_driver_name">
+		<text>Семен Овечко</text>
+	</string>
+	<string id="esc_flashman_name">
+		<text>Гайкін</text>
+	</string>
+	<string id="esc_leader_stalkerbase_name">
+		<text>Панотець Валеріан</text>
+	</string>
+	<string id="esc_military_general_name">
+		<text>Генерал</text>
+	</string>
+	<string id="esc_military_secret_trader_name">
+		<text>Агент майора Халецького</text>
+	</string>
+	<string id="esc_st_patrol_lead_name">
+		<text>Вовка Їжак</text>
+	</string>
+	<string id="esc_stalker_novice_quest_name">
+		<text>Бурлака</text>
+	</string>
+	<string id="esc_tech_stalkerbase_name">
+		<text>Фургон</text>
+	</string>
+	<string id="esc_trader_stalkerbase_name">
+		<text>Шилов</text>
+	</string>
+	<string id="esc_wolf_brother_name">
+		<text>Пес</text>
+	</string>
+	<string id="esc_wolf_name">
+		<text>Вовк</text>
+	</string>
+	<string id="esc_zak_stalkerbase_2_name">
+		<text>Майор Халецький</text>
+	</string>
+	<string id="esc_zak_stalkerbase_name">
+		<text>Майор Халецький</text>
+	</string>
+	<string id="escape_trader_name">
+		<text>Сидорович</text>
+	</string>
+	<string id="gar_bandit_barman_name">
+		<text>Сікач</text>
+	</string>
+	<string id="gar_bandit_fixer_name">
+		<text>Прозорий</text>
+	</string>
+	<string id="gar_bandit_leader_name">
+		<text>Йога</text>
+	</string>
+	<string id="gar_bandit_minigame_name">
+		<text>Шкуродер</text>
+	</string>
+	<string id="gar_bandit_trader_name">
+		<text>Зуб</text>
+	</string>
+	<string id="gar_digger_messenger_man_name">
+		<text>Васян</text>
+	</string>
+	<string id="gar_digger_quester_name">
+		<text>Дикий Напр</text>
+	</string>
+	<string id="gar_digger_smuggler_name">
+		<text>Контрабандист</text>
+	</string>
+	<string id="gar_digger_traitor_name">
+		<text>Авоська</text>
+	</string>
+	<string id="mar_csky_barman_name">
+		<text>Холод</text>
+	</string>
+	<string id="mar_csky_commander_name">
+		<text>Лебедєв</text>
+	</string>
+	<string id="mar_csky_guide_name">
+		<text>Іван Стежкар</text>
+	</string>
+	<string id="mar_csky_scientist_name">
+		<text>Професор Каланча</text>
+	</string>
+	<string id="mar_csky_tactic_name">
+		<text>Спритник</text>
+	</string>
+	<string id="mar_csky_tech_name">
+		<text>Новиков</text>
+	</string>
+	<string id="mar_csky_trader_name">
+		<text>Суслов</text>
+	</string>
+	<string id="red_ally_leshiy_name">
+		<text>Лісовик</text>
+	</string>
+	<string id="st_actor_name">
+		<text>Найманець Шрам</text>
+	</string>
+	<string id="yan_st_levsha_name">
+		<text>Лівша</text>
+	</string>
+	<string id="yan_st_sakharov_name">
+		<text>Професор Сахаров</text>
+	</string>
+	<string id="red_forester_name">
+		<text>Лісник</text>
+	</string>
+	<string id="gar_bandit_senya">
+		<text>Сєнька</text>
+	</string>
+	<string id="gar_digger_fixer_name">
+		<text>Гарін</text>
+	</string>
+	<string id="mil_freedom_blockpost_name">
+		<text>Ворон</text>
+	</string>
+	<string id="mil_hog_name">
+		<text>Хог</text>
+	</string>
+	<string id="mil_kostiuk_name">
+		<text>Костюк</text>
+	</string>
+	<string id="val_freedom_comendant_name">
+		<text>Щукін</text>
+	</string>
+	<string id="val_freedom_fixer_name">
+		<text>Яр</text>
+	</string>
+	<string id="val_freedom_leader_name">
+		<text>Чехов</text>
+	</string>
+	<string id="val_freedom_trader_name">
+		<text>Ашот</text>
+	</string>
+	<string id="sim_strelok_name">
+		<text>Стрілець</text>
+	</string>
+	<string id="agr_weaponmaster_name">
+		<text>Майор Звягінцев</text>
+	</string>
+</string_table>

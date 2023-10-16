@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="red_artefact_huntesr_capture_smart_name">
+		<text>Охороняти сталкерів на шляху до аномальної зони</text>
+	</string>
+	<string id="red_artefact_huntesr_capture_smart_text">
+		<text>Охороняти сталкерів на шляху до аномальної зони</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_name">
+		<text>Захищати сталкерів у аномальній зоні</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_text">
+		<text>Захищати сталкерів у аномальній зоні</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_name">
+		<text>Прикривати найманців</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_text">
+		<text>Найманці атакують бандитів на іншому березі. Необхідно прикрити найманців вогнем і допомогти їм закріпиться на позиціях.</text>
+	</string>
+	<string id="red_bridge_cover_allyes_name">
+		<text>Знищити бандитів</text>
+	</string>
+	<string id="red_bridge_cover_allyes_text">
+		<text>Бандитів надто багато, тож найманці не можуть опустити міст. Необхідно знищити якомога більше бандитів.</text>
+	</string>
+	<string id="red_bridge_cover_bridge_name">
+		<text>Прикривати найманця біля пульта</text>
+	</string>
+	<string id="red_bridge_cover_bridge_text">
+		<text>Найманці вже зайняли позиції біля пульта керування мостом. Необхідно прикривати вогнем бійця, який спробує опустити міст.</text>
+	</string>
+	<string id="red_bridge_go_to_positon_name">
+		<text>Зайняти вогневу позицію</text>
+	</string>
+	<string id="red_bridge_go_to_positon_text">
+		<text>Зайняти вогневу позицію на другому поверсі КПП. Це прекрасна вогнева точка для обстрілу бандитів.</text>
+	</string>
+	<string id="red_bridge_kill_sniper_name">
+		<text>Знищити снайперів на пагорбі</text>
+	</string>
+	<string id="red_bridge_kill_sniper_text">
+		<text>Ворожі снайпери з пагорбу ведуть вогонь по пульту керування мостом. Необхідно знищити снайперів.</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_name">
+		<text>Поговорити із Лебедєвим</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_text">
+		<text>Міст опущено і дорога до Лиманська вільна. Необхідно поговорити із Лебедєвим.</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_name">
+		<text>Очікувати на прибуття загону сталкерів</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_text">
+		<text>Очікувати на прибуття загону сталкерів</text>
+	</string>
+	<string id="red_bring_compass_name">
+		<text>Принести «Компас» Лісникові</text>
+	</string>
+	<string id="red_bring_compass_text">
+		<text>За допомогою «Компаса» Лісник кілька днів тому зміг вибратися із «Пузиря». Тепер цей артефакт має допомогти вивести загін найманців із такої самої аномалії. Треба принести «Компас» Лісникові.</text>
+	</string>
+	<string id="red_find_compass_name">
+		<text>Знайти артефакт «Компас»</text>
+	</string>
+	<string id="red_find_compass_text">
+		<text>У просторовій аномалії, дуже схожій на просторовий пузир, до якого трапили найманці, Лісник знайшов унікальний артефакт. На зворотному шляху його пограбували бандити, відібравши артефакт. Необхідно знайти та повернути «Компас».</text>
+	</string>
+	<string id="red_find_forester_name">
+		<text>Поговорити із Лісником</text>
+	</string>
+	<string id="red_find_forester_text">
+		<text>Хатина Лісника, який може підказати спосіб потрапити до Лиманська, знаходиться у закинутому капері. Необхідно поговорити із Лісником.</text>
+	</string>
+	<string id="red_find_teleport_name">
+		<text>Знайти просторову аномалію</text>
+	</string>
+	<string id="red_find_teleport_text">
+		<text>На КПК загиблої групи були замітки про шляхи через Рудий ліс. У глибині цього лісу знаходиться просторова аномалія, котра веде до старого капера на окраїні лісу. Саме там мешкає Лісник. Необхідно знайти просторову аномалію.</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_name">
+		<text>Принести КПК із картою Рудого лісу</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_text">
+		<text>Принести КПК із картою Рудого лісу</text>
+	</string>
+	<string id="red_go_to_signal_sos_name">
+		<text>Іти на сигнал SOS</text>
+	</string>
+	<string id="red_go_to_signal_sos_text">
+		<text>Дорога до Лісника через Рудий ліс точно не відома. Із лісу лунає сигнал SOS. Прийти на допомогу.</text>
+	</string>
+	<string id="red_help_with_bridge_name">
+		<text>Допомогти «Чистому небу» захопити міст</text>
+	</string>
+	<string id="red_help_with_bridge_text">
+		<text>Загін найманців уже на підході до мосту, що веде до Лиманська. Вийдуть вони саме з боку позицій бандитів, тому незабаром біля моста буде гаряче. Допомогти «Чистому небу» опустити міст, що веде до Лиманська.</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_name">
+		<text>Знищити засідку</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_text">
+		<text>Стрільця прикриває загін сталкерів. Знищити їхню засідку.</text>
+	</string>
+	<string id="red_pursuit_strelok_name">
+		<text>Зупинити Стрільця</text>
+	</string>
+	<string id="red_pursuit_strelok_text">
+		<text>Стрілець сховався у тунелі. Необхідно наздогнати Стрільця і зупинити його просування до центру Зони.</text>
+	</string>
+	<string id="red_pursuit_talk_csky_name">
+		<text>Зупинити Стрільця</text>
+	</string>
+	<string id="red_pursuit_talk_csky_text">
+		<text>Стрілець знаходиться зовсім поруч - до нього не більш як сотня метрів. Необхідно наздогнати Стрільця.</text>
+	</string>
+	<string id="red_stalker_reinforced_name">
+		<text>Захопити стару шахту</text>
+	</string>
+	<string id="red_stalker_reinforced_text">
+		<text>Захопити стару шахту. Увага: у цьому районі високий рівень аномальної активності та безліч рідких артефактів.</text>
+	</string>
+	<string id="red_go_to_military_base_name">
+		<text>Іти на базу військових</text>
+	</string>
+	<string id="red_go_to_military_base_text">
+		<text>На базі військових є потужний передавач - він дозволить передати повідомлення групі, що застрягла у просторовому пузирі під Лиманськом. Треба іти на військові склади</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_name">
+		<text>Знайти прохід до аномальної зони</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_text">
+		<text>На КПК загиблої групи були замітки про шлях через Рудий ліс. У глибині цього лісу знаходиться просторова аномалія, котра веде до старого капера на узліссі. Саме там і мешкає Лісник. Необхідно знайти прохід до аномалії.</text>
+	</string>
+	<string id="red_find_signals_on_military_name">
+		<text>Отримати радіоповідомлення</text>
+	</string>
+	<string id="red_find_signals_on_military_text">
+		<text>Лісник отримує уривки радіоповідомлень від невідомого загону, що потрапив до дивної аномалії під Лиманськом. Можливо, ці хлопці знають таємний шлях до міста. Необхідно відправитися на військові склади і знайти місце, в якому можна було б упіймати чіткіший радіосигнал.</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_name">
+		<text>Підняти КПК</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_text">
+		<text>КПК одного із загиблих сталкерів усе ще активний. Він може містити важливу інформацію про Рудий ліс. Необхідно підняти КПК.</text>
+	</string>
+	<string id="red_recover_item_1_name">
+		<text>Принести КПК із картою Рудого лісу</text>
+	</string>
+	<string id="red_recover_item_1_text">
+		<text>Найманцю, добре б нам скористатися твоєю допомогою. Ми шукаємо точну карту Рудого лісу. Я чував, кілька загонів сталкерів намагалися його досліджувати, але в більшості загинули. Знайди вцілілі записи і принеси їх мені.</text>
+	</string>
+	<string id="red_recover_item_2_name">
+		<text>Принести кулемет із танка</text>
+	</string>
+	<string id="red_recover_item_2_text">
+		<text>Є для тебе завданнячко. Я від Лісника чув, що в глибині лісу стоїть старий радянський танк. Ніхто не знає, як він туди потрапив - кажуть, що після потужного викиду. Справа в тім, що танк майже цілий... ну тобто їздити тепер на ньому навряд чи можна, а от кулемет із його зняти - запросто. Ну, а коли кулемет принесеш, то вже не скривдимо.</text>
+	</string>
+	<string id="red_recover_item_3_name">
+		<text>Повернути експериментальний пристрій</text>
+	</string>
+	<string id="red_recover_item_3_text">
+		<text>Можеш дістати одну штуку? Ми для вчених було проводили випробування такого собі прототипу. Маленький такий пристрій, за його допомогою можна заміряти потужність аномалій, але поки від нього малувато користі: нас цілих два дні навчали лише тому, як показання знімати. Коли ми проводили виміри - там, у старій шахті, - так там щось таке незрозуміле сталося, щось напало на нас... З усіх боків полетів усякий мотлох, і вибратися нагору встиг один я. Прилад лишився із хлопцями внизу. Їхні тіла вкинуло до аномалій, та й ця штука, котра на нас напала, напевно, теж там чигає. Дістати пристрій тепер не просто, але якщо дістанеш, то й нагороду матимеш відповідну.</text>
+	</string>
+</string_table>

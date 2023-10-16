@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gar_defend_bandit_base_name">
+		<text>Захистити базу бандитів</text>
+	</string>
+	<string id="gar_defend_bandit_base_text">
+		<text>Захистити базу бандитів від нападу ворогів</text>
+	</string>
+	<string id="gar_quest_bring_money_name">
+		<text>Принести Напрові дві тисячи, коли стемніє</text>
+	</string>
+	<string id="gar_quest_bring_money_text">
+		<text>Купити в Дикого Напра на Барахолці медкомплект за дві тисячі. Такі серйозні угоди на Барахолці відбуваються лише вночі, після настання темряви</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_name">
+		<text>Принести Напрові старий КПК</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_text">
+		<text>Принести Дикому Напрові на Барахолку старий КПК, знайдений у подвійному дні ящика з інструментами у знищеному таборі Свіжака.</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_name">
+		<text>Убити зрадника</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_text">
+		<text>Убити Авоську, який заманив тебе до засідки</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_name">
+		<text>Зайняти Барахолку разом із бандитами</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_text">
+		<text>Влаштувати показову розправу над дигерами на Барахолці й простежити, щоб хтось із бандитів залишився там охоронцем</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_name">
+		<text>Узяти старий КПК у ящику з інструментами</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_text">
+		<text>Узяти в таборі Свіжака старий КПК для Дикого Напра. КПК має знаходитися у подвійному дні ящика з інструментами</text>
+	</string>
+	<string id="gar_quest_get_old_pda_name">
+		<text>Узяти старий КПК у таборі Свіжака</text>
+	</string>
+	<string id="gar_quest_get_old_pda_text">
+		<text>Взяти у Свіжака в його таборі старий КПК для Дикого Напра. Якщо Свіжака не буде на місці, узяти КПК у подвійному дні ящика з інструментами</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_name">
+		<text>Забрати речі з трупа Авоськи</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_text">
+		<text>Обшукати труп Авоськи і забрати все, що становить інтерес</text>
+	</string>
+	<string id="gar_quest_get_weapons_name">
+		<text>Принести Авосьці дві тисячі</text>
+	</string>
+	<string id="gar_quest_get_weapons_text">
+		<text>Принести Авосьці дві тисячі для закупівлі партії контрабандної зброї</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_name">
+		<text>Прибрати людину на прізвисько Авоська</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_text">
+		<text>Прибрати такого собі Авоську, якого замовив Йога</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_name">
+		<text>Прибрати Контрабандиста та дигерів</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_text">
+		<text>Знищити Контрабандиста та дигерів, які хочуть купити в нього партію зброї</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_name">
+		<text>Знищити «нічних мисливців»</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_text">
+		<text>Знайти й убити істот, які полюють на дигерів. Пошуки можна розпочати з того місця, де вони розірвали групу вцілілого дигера. Швидше за все, зустрітися із ними вдасться лише вночі</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_name">
+		<text>Знищити охоронців концтабору бандитів</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_text">
+		<text>Разом із групою дигерів звільнити бранців, знищивши охоронців концтабору бандитів</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_name">
+		<text>Зустрітися із групою дигерів</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_text">
+		<text>Зустрітися із групою дигерів, щоб повести їх в атаку на концтабір бандитів</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_name">
+		<text>Поговорити із Диким Напром</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_text">
+		<text>Довідатися в Дикого Напра на Барахолці, яка важлива справа у нього до тебе є</text>
+	</string>
+	<string id="gar_story_chase_digger_name">
+		<text>Оотримати інформацію від дигера-посланця</text>
+	</string>
+	<string id="gar_story_chase_digger_text">
+		<text>Довідатися в дигера-посланця, куди відправився Клик</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_name">
+		<text>Знайти Клика</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_text">
+		<text>Знайти Клика у підвалі, йдучи за сигналом його КПК</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_name">
+		<text>Наздогнати Клика</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_text">
+		<text>Наздогнати Клика, йдучи за сигналом його КПК</text>
+	</string>
+	<string id="gar_story_find_cache_name">
+		<text>Знайти схованку</text>
+	</string>
+	<string id="gar_story_find_cache_text">
+		<text>Знайти схованку групи Клика</text>
+	</string>
+	<string id="gar_story_find_diggers_name">
+		<text>Отримати в дигерів інформацію про Клика</text>
+	</string>
+	<string id="gar_story_find_diggers_text">
+		<text>Спробувати довідатися місцеперебування Клика від дигерів, до яких, за словами торговця, він пішов</text>
+	</string>
+	<string id="gar_story_get_pda_name">
+		<text>Підняти КПК Клика</text>
+	</string>
+	<string id="gar_story_get_pda_text">
+		<text>Підняти КПК, що його кинув Клик</text>
+	</string>
+	<string id="gar_story_go_to_freedom_name">
+		<text>Відправитися за Кликом до Темної Долини</text>
+	</string>
+	<string id="gar_story_go_to_freedom_text">
+		<text>Відправитися до Темної Долини навздогін за Кликом</text>
+	</string>
+	<string id="gar_story_kill_dogs_name">
+		<text>Убити сліпих псів</text>
+	</string>
+	<string id="gar_story_kill_dogs_text">
+		<text>Убити сліпих псів, які заблокували дигера-посланця у видолинку</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_name">
+		<text>Обшукати тіло дигера</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_text">
+		<text>Обшукати тіло дигера в пошуках інформації про Клика</text>
+	</string>
+	<string id="gar_quest_bandit_reward_name">
+		<text>Забрати нагороду в Зуба</text>
+	</string>
+	<string id="gar_quest_bandit_reward_text">
+		<text>Одержати в бариги Зуба нагороду за зачищення Барахолки.</text>
+	</string>
+	<string id="gar_quest_bandit_secret_name">
+		<text>Забрати ствол зі схованки в аномалії</text>
+	</string>
+	<string id="gar_quest_bandit_secret_text">
+		<text>Забрати зі схованки в аномалії ствол, про який казав Йога.</text>
+	</string>
+	<string id="gar_quest_captive_reward_name">
+		<text>Забрати здобич зі схованки</text>
+	</string>
+	<string id="gar_quest_captive_reward_text">
+		<text>Забрати хабар зі старої схованки дигерів, звільнених із концтабору бандитів.</text>
+	</string>
+	<string id="gar_quest_more_reward_name">
+		<text>Зажадати нагороду в Йоги</text>
+	</string>
+	<string id="gar_quest_more_reward_text">
+		<text>Зажадати в Йоги додаткову винагороду за зачищення Барахолки.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_name">
+		<text>Знайти інформацію про посилений бронежилет</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_text">
+		<text>Потрібно принести Прозорому пляшку та інформацію про посилені армійські бронежилети, тоді він зможе створити щось схоже.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_name">
+		<text>Знайти інформацію про екранування костюма</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_text">
+		<text>Дивно, однак Прозорий ніколи не чував про псі-вплив. Але якщо дістати для нього потрібну інформацію, він зможе зібрати і встановити на костюм систему захисту від псі-випромінювання.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_name">
+		<text>Знайти інформацію про замкнуту систему дихання</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
+		<text>Технік із бази бандитів - Прозорий - здатен здійснити майже будь-яку модифікацію, але для встановлення на костюм системи дихання замкнутого циклу йому потрібна додаткова інформація.</text>
+	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Повернути свої речі</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Повернути речі, що їх відібрали бандити у підвалі.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Повернути «Чейзер-13»</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Тут такой розклад случився: один наш братуха... как там його... отловив фраєрка з дигеров і тіпа пошутковать рєшив - сдєлать лоху прогулку серед аномалій. То, шо «Граві» обоїх скушала - ета похрєн, та тока там мой «чєйзєр» остався, єго братуха на ето дєло в мене взяв. Єслі б ружжо знову в мєня було - от ета бил би жирок!</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Знайти модифіковану зброю</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>О, братан! Можеш помогти? Недавно сідєли ми в Прозрачного, а він тада для типа одного ствол кльовий дєлав: волина то шо нада, всє навороти і всьо такоє. Тока тіпок той із паханом нашим шо-то не подєлілі, і Йога сказав здєлать так, щоб етого фраєра довго іскали і не нашлі. Ну, ми його без лішнєго шуму в аномалії загнали. Тока от волина його при ньом і осталася. От прінєсьош мені ствол етот, я із Зубом договорюся, він тобі бабосов нормально отвалить.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Принести пляшку горілки «Козаки»</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Корєш, будь другом, принеси водяри, тока не ето палєво, шо всє хльостають. Я пару пузирів нормального бухла спрятав, я б і сам сходив, тока не можу зараз, зайнятой. Да, і корєшам не свєті мєсто, де бухло лежить, а з мене причитається.</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Повернути куртку новачка</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>Прийшов до нас із Кордону недавно один хлопчик - знаєш, із таких зелених, але надто вже докучливих. Усім вуха продзижчав про те, що його круту куртку аномалії взагалі не беруть. Кажуть, навіть коли потрапив до бандитів, то й там рота закрити не міг, поки вони його до «граві» не вкинули. Що цікаво, хлопчик був правий: куртці в аномалії анічогісінько не сталося, а от йому... Думаю, я б знайшов застосування цьому предметові гардеробу, якби ти зміг його дістати.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Принести іменний пістолет</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Так, ти можеш допомогти. У мене був пістолет, на перший погляд нічого примітного, але іменна зброя, від дідуся дістався. Я його в одній сутичці втратив... ну, по п'яному ділу вирішили бандитів уночі навідати. Як сутеніло, підкралися до табору, котрий ми ще вдень запримітили, і почали на всі голоси монстрів зображувати. Але виявилося, що бандюків там уже й не було, а на нас двоє кровососів я-ак вибігло!.. Ледве втік, а пістолет там залишив.</text>
+	</string>
+</string_table>
