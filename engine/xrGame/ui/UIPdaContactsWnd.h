@@ -1,7 +1,7 @@
 
 #pragma once
 
-#include "UIWindow.h"
+#include "UIDialogWnd.h"
 
 
 class CUIFrameWindow;
@@ -11,10 +11,10 @@ class CUIAnimatedStatic;
 class CUIScrollView;
 class CPda;
 
-class CUIPdaContactsWnd: public CUIWindow  
+class CUIPdaContactsWnd: public CUIDialogWnd  
 {
 private:
-	typedef CUIWindow inherited;
+	typedef CUIDialogWnd inherited;
 	enum				{flNeedUpdate  =(1<<0),};
 	Flags8				m_flags;
 	xr_vector<CPda*>	m_pda_list;
@@ -28,7 +28,8 @@ public:
 	virtual void				Update					();
 	virtual void				Reset					();
 
-	virtual void				Show					(bool status);
+	virtual void				Show					();
+	virtual void				Hide					();
 
 	void 						AddContact				(CPda* pda);
 	void 						RemoveContact			(CPda* pda);

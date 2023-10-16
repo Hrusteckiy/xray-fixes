@@ -9,15 +9,16 @@
 #pragma once
 
 #include "UIWindow.h"
-/*
+
 #include "../encyclopedia_article_defs.h"
 
 class CEncyclopediaArticle;
 class CUIFrameWindow;
 class CUIFrameLineWnd;
+class CUIListWnd;
 class CUIAnimatedStatic;
 class CUIStatic;
-class CUIListWnd;
+class CUIListBoxCOP;
 class CUIEncyclopediaCore;
 class CUIScrollView;
 class CUITreeViewItem;
@@ -46,10 +47,12 @@ public:
 protected:
 	u32					prevArticlesCount;
 	// Элементы графического оформления
-	CUIFrameWindow*		UIEncyclopediaIdxBkg;
-	CUIFrameWindow*		UIEncyclopediaInfoBkg;
-	CUIFrameLineWnd*	UIEncyclopediaIdxHeader;
-	CUIFrameLineWnd*	UIEncyclopediaInfoHeader;
+
+	CUIFrameLineWnd*	UIBackground;
+	CUIFrameLineWnd*		UIEncyclopediaIdxBkg;
+	CUIFrameLineWnd*		UIEncyclopediaInfoBkg;
+	CUIStatic*			UIEncyclopediaIdxHeader;
+	CUIStatic*			UIEncyclopediaInfoHeader;
 	CUIAnimatedStatic*	UIAnimation;
 	CUIStatic*			UIArticleHeader;
 
@@ -63,9 +66,8 @@ protected:
 	CGameFont*				m_pTreeItemFont;
 	u32						m_uTreeItemColor;
 
-	CUIListWnd*				UIIdxList;
+	CUIListWnd*			UIIdxList;
 	CUIScrollView*			UIInfoList;
 
 	void				SetCurrentArtice(CUITreeViewItem *pTVItem);
 };
-*/

@@ -329,8 +329,9 @@ bool CUIWindow::OnMouse(float x, float y, EUIMessages mouse_action)
 	//происходит в обратном порядке, чем рисование окон
 	//(последние в списке имеют высший приоритет)
 	WINDOW_LIST::reverse_iterator it = m_ChildWndList.rbegin();
+	WINDOW_LIST::reverse_iterator first = m_ChildWndList.rend();
 
-	for(; it!=m_ChildWndList.rend(); ++it)
+	for(; it!= first; ++it)
 	{
 		CUIWindow* w	= (*it);
 		Frect wndRect	= w->GetWndRect();
@@ -504,10 +505,10 @@ void CUIWindow::SetKeyboardCapture(CUIWindow* pChildWindow, bool capture_status)
 void CUIWindow::SendMessage(CUIWindow *pWnd, s16 msg, void *pData)
 {
 	//оповестить дочерние окна
-	for(WINDOW_LIST_it it = m_ChildWndList.begin(); m_ChildWndList.end()!=it; ++it)
+	for(int i = 0; i < m_ChildWndList.size(); ++i)
 	{
-		if((*it)->IsEnabled())
-			(*it)->SendMessage(pWnd,msg,pData);
+		if(m_ChildWndList[i]->IsEnabled())
+			m_ChildWndList[i]->SendMessage(pWnd,msg,pData);
 	}
 }
 
@@ -544,17 +545,13 @@ CUIWindow* CUIWindow::GetChildMouseHandler(){
 //false если такого дочернего окна нет
 bool CUIWindow::BringToTop(CUIWindow* pChild)
 {
-	//найти окно в списке
-/*	WINDOW_LIST_it it = std::find(m_ChildWndList.begin(), 
-										m_ChildWndList.end(), 
-										pChild);
-*/
 	if( !IsChild(pChild) ) return false;
 
-	//удалить со старого места
-	SafeRemoveChild(pChild);
-//	m_ChildWndList.remove(pChild);
-	//поместить на вершину списка
+	WINDOW_LIST_it it		= std::find(m_ChildWndList.begin(),m_ChildWndList.end(),pChild); 
+
+	if (it==m_ChildWndList.end()) return false;
+
+	m_ChildWndList.erase	(it);
 	m_ChildWndList.push_back(pChild);
 
 	return true;

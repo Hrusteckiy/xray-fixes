@@ -7,8 +7,6 @@
 #include "UIFrameLineWnd.h"
 #include "UIAnimatedStatic.h"
 #include "UIScrollView.h"
-#include "../actor.h"
-#include "../string_table.h"
 
 #define PDA_CONTACT_HEIGHT 70
 
@@ -21,11 +19,15 @@ CUIPdaContactsWnd::~CUIPdaContactsWnd()
 {
 }
 
-void CUIPdaContactsWnd::Show(bool status)
+void CUIPdaContactsWnd::Show()
 {
-	inherited::Show(status);
-	if(status) UIDetailsWnd->Clear();
+	inherited::Show();
+	UIDetailsWnd->Clear();
+}
 
+void CUIPdaContactsWnd::Hide()
+{
+	inherited::Hide();
 }
 
 void CUIPdaContactsWnd::Init()
@@ -37,32 +39,32 @@ void CUIPdaContactsWnd::Init()
 
 	xml_init.InitWindow					(uiXml, "main_wnd", 0, this);
 
-	UIFrameContacts						= xr_new<CUIFrameWindow>();UIFrameContacts->SetAutoDelete(true);
+	UIFrameContacts						= xr_new <CUIFrameWindow>();UIFrameContacts->SetAutoDelete(true);
 	AttachChild							(UIFrameContacts);
 	xml_init.InitFrameWindow			(uiXml, "left_frame_window", 0, UIFrameContacts);
 
 
-	UIContactsHeader					= xr_new<CUIFrameLineWnd>();UIContactsHeader->SetAutoDelete(true);
+	UIContactsHeader					= xr_new <CUIFrameLineWnd>();UIContactsHeader->SetAutoDelete(true);
 	UIFrameContacts->AttachChild		(UIContactsHeader);
 	xml_init.InitFrameLine				(uiXml, "left_frame_line", 0, UIContactsHeader);
 
-	UIRightFrame						= xr_new<CUIFrameWindow>();UIRightFrame->SetAutoDelete(true);
+	UIRightFrame						= xr_new <CUIFrameWindow>();UIRightFrame->SetAutoDelete(true);
 	AttachChild							(UIRightFrame);
 	xml_init.InitFrameWindow			(uiXml, "right_frame_window", 0, UIRightFrame);
 
-	UIRightFrameHeader					= xr_new<CUIFrameLineWnd>();UIRightFrameHeader->SetAutoDelete(true);
+	UIRightFrameHeader					= xr_new <CUIFrameLineWnd>();UIRightFrameHeader->SetAutoDelete(true);
 	UIRightFrame->AttachChild			(UIRightFrameHeader);
 	xml_init.InitFrameLine				(uiXml, "right_frame_line", 0, UIRightFrameHeader);
 
-	UIAnimation							= xr_new<CUIAnimatedStatic>();UIAnimation->SetAutoDelete(true);
+	UIAnimation							= xr_new <CUIAnimatedStatic>();UIAnimation->SetAutoDelete(true);
 	UIContactsHeader->AttachChild		(UIAnimation);
 	xml_init.InitAnimatedStatic			(uiXml, "a_static", 0, UIAnimation);
 
-	UIListWnd							= xr_new<CUIScrollView>();UIListWnd->SetAutoDelete(true);
+	UIListWnd							= xr_new <CUIScrollView>();UIListWnd->SetAutoDelete(true);
 	UIFrameContacts->AttachChild		(UIListWnd);
 	xml_init.InitScrollView				(uiXml, "list", 0, UIListWnd);
 
-	UIDetailsWnd						= xr_new<CUIScrollView>();UIDetailsWnd->SetAutoDelete(true);
+	UIDetailsWnd						= xr_new <CUIScrollView>();UIDetailsWnd->SetAutoDelete(true);
 	UIRightFrame->AttachChild			(UIDetailsWnd);
 	xml_init.InitScrollView				(uiXml, "detail_list", 0, UIDetailsWnd);
 	
@@ -74,7 +76,8 @@ void CUIPdaContactsWnd::Init()
 
 void CUIPdaContactsWnd::Update()
 {
-	if(TRUE==m_flags.test(flNeedUpdate)){
+	if(TRUE==m_flags.test(flNeedUpdate))
+	{
 		RemoveAll			();
 
 		CPda*	pPda		= Actor()->GetPDA	();
@@ -98,7 +101,7 @@ void CUIPdaContactsWnd::AddContact(CPda* pda)
 
 
 	CUIPdaContactItem* pItem		= NULL;
-	pItem							= xr_new<CUIPdaContactItem>(this);
+	pItem							= xr_new <CUIPdaContactItem>(this);
 	UIListWnd->AddWindow			(pItem, true);
 	pItem->InitPdaListItem			(Fvector2().set(0,0), Fvector2().set(UIListWnd->GetWidth(),85.0f));
 	pItem->InitCharacter			(pda->GetOriginalOwner());
@@ -132,6 +135,7 @@ void CUIPdaContactsWnd::RemoveAll()
 void CUIPdaContactsWnd::Reload()
 {
 	m_flags.set(flNeedUpdate,TRUE);
+	Update();
 }
 
 void CUIPdaContactsWnd::Reset()
@@ -157,7 +161,7 @@ void CUIPdaContactItem::SetSelected	(bool b)
 		CSE_ALifeTraderAbstract*	T = ch_info_get_from_id(UIInfo->OwnerID());
 		chInfo.Init					(T);
 
-//.		ADD_TEXT_TO_VIEW2( *(chInfo.Bio()), m_cw->UIDetailsWnd);
+		ADD_TEXT_TO_VIEW2( *(chInfo.Bio()), m_cw->UIDetailsWnd);
 	}
 }
 

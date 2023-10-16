@@ -30,6 +30,7 @@
 #include "UIFactionWarWnd.h"
 #include "UIRankingWnd.h"
 #include "UILogsWnd.h"
+#include "UIEncyclopediaWnd.h"
 
 #define PDA_XML		"pda.xml"
 
@@ -43,6 +44,7 @@ CUIPdaWnd::CUIPdaWnd()
 	pUIFactionWarWnd = NULL;
 	pUIRankingWnd    = NULL;
 	pUILogsWnd       = NULL;
+	pUIEncyclopediaWnd = NULL;
 	m_hint_wnd       = NULL;
 	Init();
 }
@@ -53,6 +55,7 @@ CUIPdaWnd::~CUIPdaWnd()
 	delete_data( pUIFactionWarWnd );
 	delete_data( pUIRankingWnd );
 	delete_data( pUILogsWnd );
+	delete_data( pUIEncyclopediaWnd );
 	delete_data( m_hint_wnd );
 	delete_data( UINoice );
 }
@@ -96,6 +99,9 @@ void CUIPdaWnd::Init()
 
 		pUILogsWnd						= xr_new<CUILogsWnd>();
 		pUILogsWnd->Init				();
+
+		pUIEncyclopediaWnd 				= xr_new<CUIEncyclopediaWnd>();
+		pUIEncyclopediaWnd->Init		();
 
 	}
 
@@ -158,6 +164,7 @@ void CUIPdaWnd::Hide()
 	inherited::Hide						();
 	InventoryUtilities::SendInfoToActor	("ui_pda_hide");
 	HUD().GetUI()->UIMainIngameWnd->SetFlashIconState_(CUIMainIngameWnd::efiPdaTask, false);
+	HUD().GetUI()->UIMainIngameWnd->SetFlashIconState_(CUIMainIngameWnd::efiEncyclopedia, false);
 	m_pActiveDialog->Show				(false);
 	m_btn_close->Show					(false);
 	g_btnHint->Discard					();
@@ -196,6 +203,10 @@ void CUIPdaWnd::SetActiveSubdialog(const shared_str& section)
 	else if ( section == "eptLogs" )
 	{
 		m_pActiveDialog = pUILogsWnd;
+	}
+	else if (section == "eptEnc")
+	{
+		m_pActiveDialog = pUIEncyclopediaWnd;
 	}
 
 	R_ASSERT						(m_pActiveDialog);
@@ -323,4 +334,40 @@ void RearrangeTabButtons(CUITabControl* pTab)
 	pos.x = pTab->GetWndPos().x - pos.x;
 	pos.y = pTab->GetWndPos().y;
 	pTab->SetWndPos( pos );
+}
+
+void CUIPdaWnd::PdaContentsChanged(pda_section::part type)
+{
+	bool bTask = true;
+	bool bEncyclopedia = false;
+
+	if (type == pda_section::encyclopedia)
+	{
+		pUIEncyclopediaWnd->ReloadArticles();
+		bEncyclopedia = true;
+		bTask = false;
+
+	}
+	else if (type == pda_section::news)
+	{
+	//	pUIDiaryWnd->ReloadArticles();
+	}
+
+	//else if (type == pda_section::quests)
+	//	UIEventsWnd->Reload();
+
+	else if (type == pda_section::contacts)
+	{
+	//	pUIPdaContactsWnd->Reload();
+	}
+
+	if (bTask)
+	{
+		HUD().GetUI()->UIMainIngameWnd->SetFlashIconState_(CUIMainIngameWnd::efiPdaTask, true);
+	}
+
+	if (bEncyclopedia)
+	{
+		HUD().GetUI()->UIMainIngameWnd->SetFlashIconState_(CUIMainIngameWnd::efiEncyclopedia, true);
+	}
 }
