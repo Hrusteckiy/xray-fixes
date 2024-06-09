@@ -20,6 +20,7 @@ CFontManager::CFontManager()
 	m_all_fonts.push_back(&pFontMedium				);// used cpp
 	m_all_fonts.push_back(&pFontDI					);// used cpp
 	m_all_fonts.push_back(&pFontArial14				);// used xml
+	m_all_fonts.push_back(&pFontArial21				);// used xml
 	m_all_fonts.push_back(&pFontGraffiti19Russian	);
 	m_all_fonts.push_back(&pFontGraffiti22Russian	);
 	m_all_fonts.push_back(&pFontLetterica16Russian	);
@@ -44,6 +45,7 @@ void CFontManager::InitializeFonts()
 	InitializeFont(pFontMedium				,"hud_font_medium"				);
 	InitializeFont(pFontDI					,"hud_font_di",					CGameFont::fsGradient|CGameFont::fsDeviceIndependent);
 	InitializeFont(pFontArial14				,"ui_font_arial_14"				);
+	InitializeFont(pFontArial21				,"ui_font_arial_21"				);
 	InitializeFont(pFontGraffiti19Russian	,"ui_font_graffiti19_russian"	);
 	InitializeFont(pFontGraffiti22Russian	,"ui_font_graffiti22_russian"	);
 	InitializeFont(pFontLetterica16Russian	,"ui_font_letterica16_russian"	);

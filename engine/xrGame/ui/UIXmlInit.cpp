@@ -763,6 +763,10 @@ bool CUIXmlInit::InitFont(CUIXml &xml_doc, LPCSTR path, int index, u32 &color, C
 		{
 			pFnt = UI()->Font()->pFontArial14;
 		}
+		else if(!xr_strcmp(*font_name, "arial_21"))
+		{
+			pFnt = UI()->Font()->pFontArial21;
+		}
 		else if(!xr_strcmp(*font_name, MEDIUM_FONT_NAME))
 		{
 			pFnt = UI()->Font()->pFontMedium;
