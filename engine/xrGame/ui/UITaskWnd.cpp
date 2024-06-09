@@ -23,6 +23,8 @@
 CUITaskWnd::CUITaskWnd()
 {
 	hint_wnd = NULL;
+	m_background = NULL;
+	m_center_background = NULL;
 }
 
 CUITaskWnd::~CUITaskWnd()
@@ -38,7 +40,8 @@ void CUITaskWnd::Init()
 
 	CUIXmlInit::InitWindow			(xml, "main_wnd", 0, this);
 
-	m_background					= UIHelper::CreateFrameLine( xml, "background", this );
+	if (xml.NavigateToNode("background", 0))
+		m_background					= UIHelper::CreateFrameLine( xml, "background", this );
 	m_task_split					= UIHelper::CreateFrameLine( xml, "task_split", this );
 
 	m_pMapWnd						= xr_new<CUIMapWnd>(); 
@@ -47,7 +50,8 @@ void CUITaskWnd::Init()
 	m_pMapWnd->Init					(PDA_TASK_XML,"map_wnd");
 	AttachChild						(m_pMapWnd);
 
-	m_center_background				= UIHelper::CreateStatic( xml, "center_background", this );
+	if (xml.NavigateToNode("center_background", 0))
+		m_center_background				= UIHelper::CreateStatic( xml, "center_background", this );
 //	m_right_bottom_background		= UIHelper::CreateStatic( xml, "right_bottom_background", this );
 
 	m_pStoryLineTaskItem			= xr_new<CUITaskItem>();
