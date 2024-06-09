@@ -76,14 +76,14 @@
 
 	</map_wnd>
 
-	<!--btn_prev_task x="42" y="139" width="40" height="33">
+	<btn_prev_task x="42" y="139" width="40" height="33">
 		<window_name>btn_prev_task</window_name>
 		<texture>ui_task_bt_left</texture>
 	</btn_prev_task>
-	<btn_next_task x="943" y="139" width="40" height="33">
+	<btn_next_task x="843" y="139" width="40" height="33">
 		<window_name>btn_next_task</window_name>
 		<texture>ui_task_bt_right</texture>
-	</btn_next_task-->
+	</btn_next_task>
 
 	<btn_second_task x="42" y="138" width="40" height="33">
 		<window_name>btn_second_task</window_name>
@@ -120,9 +120,12 @@
 	<secondary_task_item x="94" y="139" width="810" height="35">
 		<window_name>pda_task_item2</window_name>
 
-		<t_caption x="0" y="8" width="800" height="20">
+		<t_name x="0" y="0" width="800" height="20" stretch="1">
 			<text align="l" font="letterica18" color="ui_4"/>
-		</t_caption>
+		</t_name>
+		<t_descr x="0" y="16" width="800" height="20" stretch="1">
+			<text align="l" font="arial_14" color="ui_4"/>
+		</t_descr>
 
 		<!--t_time x="0" y="20" width="200" height="14">
 			<text align="l" font="letterica16" color="ui_3"/>

@@ -228,6 +228,7 @@ void CGameTask::save_task(IWriter &stream)
 
 	save_data				(m_Title,			stream);
 	save_data				(m_Description,		stream);
+	save_data				(m_DescriptionOld,	stream);
 	save_data				(m_pScriptHelper,	stream);
 	save_data				(m_icon_texture_name,stream);
 	save_data				(m_map_hint,		stream);
@@ -247,6 +248,7 @@ void CGameTask::load_task(IReader &stream)
 
 	load_data				(m_Title,			stream);
 	load_data				(m_Description,		stream);
+	load_data				(m_DescriptionOld,	stream);
 	load_data				(m_pScriptHelper,	stream);
 	load_data				(m_icon_texture_name,stream);
 	load_data				(m_map_hint,		stream);

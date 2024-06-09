@@ -47,10 +47,9 @@ private:
 //	CUIFrameLineWnd*			UIMainMapHeader;
 	CUIMapLocationHint*			m_map_location_hint;
 
-#ifdef DEBUG
-//	CUIStatic*					m_dbg_text_hint;
-//	CUIStatic*					m_dbg_info;
-#endif // DEBUG
+	CUIStatic*					m_dbg_text_hint;
+	CUIStatic*					m_dbg_info;
+
 
 	enum EBtnPos
 	{

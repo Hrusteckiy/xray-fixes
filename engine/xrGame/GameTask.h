@@ -79,6 +79,7 @@ public:
 	shared_str				m_ID;
 	shared_str				m_Title;
 	shared_str				m_Description;
+	shared_str				m_DescriptionOld;
 	ALife::_TIME_ID			m_ReceiveTime;
 	ALife::_TIME_ID			m_FinishTime;
 	ALife::_TIME_ID			m_TimeToComplete;
@@ -108,6 +109,7 @@ public:
 	void					SetID_script			(LPCSTR _id)				{m_ID = _id;}
 	void					SetType_script			(int t)						{m_task_type = (ETaskType)t;}
 	void					SetDescription_script	(LPCSTR _desc)				{m_Description = _desc;}
+	void					SetOldDescription_script(LPCSTR _desc)				{m_DescriptionOld = _desc;}
 	void					SetIconName_script		(LPCSTR _tex)				{m_icon_texture_name = _tex;}
 	void					SetMapHint_script		(LPCSTR _hint)				{m_map_hint = _hint;}
 

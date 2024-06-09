@@ -72,23 +72,28 @@ void CUITaskWnd::Init()
 	m_btn_focus->set_hint_wnd(  hint_wnd );
 	m_btn_focus2->set_hint_wnd( hint_wnd );
 
-//	m_pBtnNextTask					= UIHelper::Create3tButton( xml, "btn_next_task", this );
-//	AddCallback						(m_pBtnNextTask->WindowName(),BUTTON_CLICKED,CUIWndCallback::void_function(this,&CUITaskWnd::OnNextTaskClicked));
+	m_pBtnNextTask					= UIHelper::Create3tButtonEx( xml, "btn_next_task", this );
+	Register						(m_pBtnNextTask);
+	AddCallback						(m_pBtnNextTask->WindowName(), BUTTON_CLICKED, CUIWndCallback::void_function(this, &CUITaskWnd::OnNextTaskClicked));
 
-	m_BtnSecondaryTaskWnd	= UIHelper::Create3tButtonEx( xml, "btn_second_task", this );
-	AddCallback				(m_BtnSecondaryTaskWnd->WindowName(), BUTTON_CLICKED, CUIWndCallback::void_function(this, &CUITaskWnd::OnShowSecondTaskWnd));
-	m_BtnSecondaryTaskWnd->set_hint_wnd( hint_wnd );
+	m_pBtnPrevTask					= UIHelper::Create3tButtonEx( xml, "btn_prev_task", this );
+	Register						(m_pBtnPrevTask);
+	AddCallback						(m_pBtnPrevTask->WindowName(), BUTTON_CLICKED, CUIWndCallback::void_function(this, &CUITaskWnd::OnPrevTaskClicked));
+
+	/*m_BtnSecondaryTaskWnd			= UIHelper::Create3tButtonEx( xml, "btn_second_task", this );
+	AddCallback						(m_BtnSecondaryTaskWnd->WindowName(), BUTTON_CLICKED, CUIWndCallback::void_function(this, &CUITaskWnd::OnShowSecondTaskWnd));
+	m_BtnSecondaryTaskWnd->set_hint_wnd( hint_wnd );*/
 
 	m_second_task_index		= UIHelper::CreateStatic( xml, "second_task_index", this );
 
-	m_second_task_wnd					= xr_new<UISecondTaskWnd>(); 
+	/*m_second_task_wnd					= xr_new<UISecondTaskWnd>(); 
 	m_second_task_wnd->SetAutoDelete	(true);
 	m_second_task_wnd->hint_wnd			= hint_wnd;
 	m_second_task_wnd->init_from_xml	(xml, "second_task_wnd");
 	m_pMapWnd->AttachChild				(m_second_task_wnd);
 	m_second_task_wnd->SetMessageTarget	(this);
 	m_second_task_wnd->Show				(false);
-	m_second_task_wnd_show				= false;
+	m_second_task_wnd_show				= false;*/
 
 	m_map_legend_wnd					= xr_new<UIMapLegend>(); 
 	m_map_legend_wnd->SetAutoDelete		(true);
@@ -137,19 +142,19 @@ void CUITaskWnd::DrawHint()
 
 void CUITaskWnd::SendMessage(CUIWindow* pWnd, s16 msg, void* pData)
 {
-	/*if ( pWnd == m_pSecondaryTaskItem )
+	if ( pWnd == m_pSecondaryTaskItem )
 	{
 		if ( msg == WINDOW_MOUSE_WHEEL_UP )
 		{
-			OnNextTaskClicked();
+			OnNextTaskClicked(pWnd, pData);
 			return;
 		}
 		if ( msg == WINDOW_MOUSE_WHEEL_DOWN )
 		{
-			OnPrevTaskClicked();
+			OnPrevTaskClicked(pWnd, pData);
 			return;
 		}
-	}*/
+	}
 	
 	if ( msg == PDA_TASK_SET_TARGET_MAP && pData )
 	{
@@ -211,7 +216,7 @@ void CUITaskWnd::ReloadTaskInfo()
 		m_second_task_index->SetVisible( false );
 		m_second_task_index->SetText( "" );
 	}
-	m_second_task_wnd->UpdateList();
+	//m_second_task_wnd->UpdateList();
 }
 
 void CUITaskWnd::Show(bool status)
@@ -224,12 +229,12 @@ void CUITaskWnd::Show(bool status)
 	
 	if ( status )
 	{
-		m_second_task_wnd->Show( m_second_task_wnd_show );
+		//m_second_task_wnd->Show( m_second_task_wnd_show );
 	}
 	else
 	{
-		m_second_task_wnd_show = false;
-		m_second_task_wnd->Show(false);
+		//m_second_task_wnd_show = false;
+		//m_second_task_wnd->Show(false);
 	}
 }
 
@@ -238,34 +243,34 @@ void CUITaskWnd::Reset()
 	inherited::Reset	();
 }
 
-void CUITaskWnd::OnNextTaskClicked()
+void CUITaskWnd::OnNextTaskClicked(CUIWindow* w, void* d)
 {
-	/*CGameTask* t = Level().GameTaskManager().IterateGet( m_pSecondaryTaskItem->OwnerTask(), eTaskStateInProgress, eTaskTypeAdditional, true);
+	CGameTask* t = Level().GameTaskManager().IterateGet( m_pSecondaryTaskItem->OwnerTask(), eTaskStateInProgress, eTaskTypeAdditional, true);
 	if ( t )
 	{
 		Level().GameTaskManager().SetActiveTask(t);
-	}*/
+	}
 }
 
-void CUITaskWnd::OnPrevTaskClicked()
+void CUITaskWnd::OnPrevTaskClicked(CUIWindow* w, void* d)
 {
-	/*CGameTask* t = Level().GameTaskManager().IterateGet( m_pSecondaryTaskItem->OwnerTask(), eTaskStateInProgress, eTaskTypeAdditional, false);
+	CGameTask* t = Level().GameTaskManager().IterateGet( m_pSecondaryTaskItem->OwnerTask(), eTaskStateInProgress, eTaskTypeAdditional, false);
 	if ( t )
 	{
 		Level().GameTaskManager().SetActiveTask(t);
-	}*/
+	}
 }
 
 void CUITaskWnd::OnShowSecondTaskWnd( CUIWindow* w, void* d )
 {
-	m_second_task_wnd_show = false;
-	m_second_task_wnd->Show( !m_second_task_wnd->IsShown() );
+	//m_second_task_wnd_show = false;
+	//m_second_task_wnd->Show( !m_second_task_wnd->IsShown() );
 }
 
 void CUITaskWnd::Show_SecondTasksWnd(bool status)
 {
-	m_second_task_wnd->Show( status );
-	m_second_task_wnd_show = status;
+	//m_second_task_wnd->Show( status );
+	//m_second_task_wnd_show = status;
 }
 
 void CUITaskWnd::TaskSetTargetMap( CGameTask* task )
@@ -373,10 +378,31 @@ void CUITaskItem::Init(CUIXml& uiXml, LPCSTR path)
 		AttachChild					(S);
 	}
 	m_info["t_icon_over"]			= S;
-	
-	S = init_static_field			(uiXml, path, "t_caption");
-	AttachChild						(S);
-	m_info["t_caption"]				= S;
+
+	strconcat(sizeof(buff), buff, path, ":t_caption");
+	if (uiXml.NavigateToNode(buff))
+	{
+		S = init_static_field(uiXml, path, "t_caption");
+		AttachChild(S);
+		m_info["t_caption"] = S;
+	}
+
+	strconcat(sizeof(buff), buff, path, ":t_name");
+	if (uiXml.NavigateToNode(buff))
+	{
+		S = init_static_field(uiXml, path, "t_name");
+		AttachChild(S);
+		m_info["t_name"] = S;
+	}
+
+	strconcat(sizeof(buff), buff, path, ":t_descr");
+	if (uiXml.NavigateToNode(buff))
+	{
+		S = init_static_field(uiXml, path, "t_descr");
+		AttachChild(S);
+		S->SetTextComplexMode(true);
+		m_info["t_descr"] = S;
+	}
 
 /*	S = init_static_field			(uiXml, path, "t_time");
 	AttachChild						(S);
@@ -413,8 +439,23 @@ void CUITaskItem::InitTask(CGameTask* task)
 		}
 	}
 
-	S								= m_info["t_caption"];
-	S->SetTextST					((task) ? task->m_Title.c_str() : "");
+	if (m_info["t_caption"])
+	{
+		S = m_info["t_caption"];
+		S->SetTextST((task) ? task->m_Title.c_str() : "");
+	}
+
+	if (m_info["t_name"])
+	{
+		S = m_info["t_name"];
+		S->SetTextST((task) ? task->m_Title.c_str() : "");
+	}
+
+	if (m_info["t_descr"])
+	{
+		S = m_info["t_descr"];
+		S->SetTextST((task) ? task->m_DescriptionOld.c_str() : "");
+	}
 
 	/*S								= m_info["t_time"];
 	xr_string	txt					="";
@@ -472,7 +513,7 @@ void CUITaskItem::Update()
 
 void CUITaskItem::OnMouseScroll( float iDirection )
 {
-	/*if ( iDirection == WINDOW_MOUSE_WHEEL_UP )
+	if ( iDirection == WINDOW_MOUSE_WHEEL_UP )
 	{
 		GetMessageTarget()->SendMessage(this, WINDOW_MOUSE_WHEEL_UP, NULL);
 		show_hint     = false;
@@ -481,7 +522,7 @@ void CUITaskItem::OnMouseScroll( float iDirection )
 	{
 		GetMessageTarget()->SendMessage(this, WINDOW_MOUSE_WHEEL_DOWN, NULL);
 		show_hint     = false;
-	}*/
+	}
 }
 
 bool CUITaskItem::OnMouse( float x, float y, EUIMessages mouse_action )
@@ -506,7 +547,7 @@ bool CUITaskItem::OnMouse( float x, float y, EUIMessages mouse_action )
 
 void CUITaskItem::SendMessage( CUIWindow* pWnd, s16 msg, void* pData )
 {
-	/*if ( pWnd == btn_focus )
+	/*if ( pWnd == m_btn_focus)
 	{
 		if ( msg == BUTTON_DOWN )
 		{

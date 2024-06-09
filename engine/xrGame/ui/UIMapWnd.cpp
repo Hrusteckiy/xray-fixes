@@ -41,11 +41,10 @@ CUIMapWnd::CUIMapWnd()
 	m_currentZoom			= 1.0f;
 	m_map_location_hint		= NULL;
 	m_map_move_step			= 10.0f;
-/*
-#ifdef DEBUG
-//	m_dbg_text_hint			= NULL;
-//	m_dbg_info				= NULL;
-#endif // DEBUG /**/
+
+	m_dbg_text_hint			= NULL;
+	m_dbg_info				= NULL;
+
 
 //	UIMainMapHeader			= NULL;
 	m_scroll_mode			= false;
@@ -59,11 +58,10 @@ CUIMapWnd::~CUIMapWnd()
 	delete_data( m_ActionPlanner );
 	delete_data( m_GameMaps );
 	delete_data( m_map_location_hint );
-/*
-#ifdef DEBUG
+
 	delete_data( m_dbg_text_hint );
 	delete_data( m_dbg_info );
-#endif // DEBUG/**/
+
 	g_map_wnd				= NULL;
 }
 
@@ -149,18 +147,23 @@ void CUIMapWnd::Init(LPCSTR xml_name, LPCSTR start_from)
 	m_currentZoom							= m_GlobalMap->GetCurrentZoom();
 	
 	init_xml_nav( uiXml );
-/*
-#ifdef DEBUG
-	m_dbg_text_hint						= xr_new<CUIStatic>();
-	strconcat							(sizeof(pth),pth,start_from,":text_hint");
-	xml_init.InitStatic					(uiXml, pth, 0, m_dbg_text_hint);
-	m_dbg_text_hint->SetAutoDelete		(true);
 
-	m_dbg_info							= xr_new<CUIStatic>();
+	strconcat(sizeof(pth), pth, start_from, ":text_hint");
+	if (uiXml.NavigateToNode(pth, 0))
+	{
+		m_dbg_text_hint = xr_new<CUIStatic>();
+		xml_init.InitStatic(uiXml, pth, 0, m_dbg_text_hint);
+		m_dbg_text_hint->SetAutoDelete(true);
+	}
+
 	strconcat							(sizeof(pth),pth,start_from,":dbg_info");
-	xml_init.InitStatic					(uiXml, pth, 0, m_dbg_info);
-	m_dbg_info->SetAutoDelete			(true);
-#endif // DEBUG /**/
+	if (uiXml.NavigateToNode(pth, 0))
+	{
+		m_dbg_info = xr_new<CUIStatic>();
+		xml_init.InitStatic(uiXml, pth, 0, m_dbg_info);
+		m_dbg_info->SetAutoDelete(true);
+	}
+
 
 	// initialize local maps
 	xr_string sect_name;
@@ -353,11 +356,13 @@ void CUIMapWnd::MoveMap( Fvector2 const& pos_delta )
 void CUIMapWnd::Draw()
 {
 	inherited::Draw();
-/*
-#ifdef DEBUG
-	m_dbg_text_hint->Draw	();
-	m_dbg_info->Draw		();
-#endif // DEBUG/**/
+
+	if (m_dbg_text_hint)
+		m_dbg_text_hint->Draw();
+
+	if (m_dbg_info)
+		m_dbg_info->Draw();
+
 
 	m_btn_nav_parent->Draw();
 }
@@ -582,14 +587,15 @@ void CUIMapWnd::Update()
 	if(m_GlobalMap)m_GlobalMap->SetClipRect(ActiveMapRect());
 	inherited::Update			();
 	m_ActionPlanner->update		();
-/*	
-#ifdef DEBUG
-float gm_zoom				= m_GlobalMap->GetCurrentZoom();
-	string256					buff;
-	sprintf_s					(buff,sizeof(buff),"%5.1f", gm_zoom);
-	m_dbg_info->SetText			(buff);
-#endif // DEBUG /**/
-	
+
+	if (m_dbg_info)
+	{
+		float gm_zoom = m_GlobalMap->GetCurrentZoom();
+		string256					buff;
+		sprintf_s(buff, sizeof(buff), "%5.1f", gm_zoom);
+		m_dbg_info->SetText(buff);
+	}
+
 	UpdateNav					();
 }
 
@@ -722,10 +728,9 @@ void CUIMapWnd::HideCurHint()
 
 void CUIMapWnd::Hint(const shared_str& text)
 {
-	/*
-#ifdef DEBUG
-	m_dbg_text_hint->SetTextST( *text );
-#endif // DEBUG/**/
+	if (m_dbg_text_hint)
+		m_dbg_text_hint->SetTextST( *text );
+
 }
 
 void CUIMapWnd::Reset()

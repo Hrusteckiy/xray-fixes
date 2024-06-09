@@ -30,15 +30,17 @@ private:
 	CUITaskItem*			m_pStoryLineTaskItem;
 	CUITaskItem*			m_pSecondaryTaskItem;
 
-	CUI3tButtonEx*			m_BtnSecondaryTaskWnd;
+	CUI3tButtonEx*			m_pBtnPrevTask;
+	CUI3tButtonEx*			m_pBtnNextTask;
+	//CUI3tButtonEx*			m_BtnSecondaryTaskWnd;
 	CUIStatic*				m_second_task_index;
 	u32						m_actual_frame;
 
 	CUI3tButtonEx*			m_btn_focus;
 	CUI3tButtonEx*			m_btn_focus2;
 
-	UISecondTaskWnd*		m_second_task_wnd;
-	bool					m_second_task_wnd_show;
+	//UISecondTaskWnd*		m_second_task_wnd;
+	//bool					m_second_task_wnd_show;
 	UIMapLegend*			m_map_legend_wnd;
 
 public:
@@ -65,8 +67,8 @@ private:
 	void						TaskSetTargetMap		(CGameTask* task);
 	void						TaskShowMapSpot			(CGameTask* task, bool show);
 
-	void						OnNextTaskClicked		();
-	void 						OnPrevTaskClicked		();
+	void xr_stdcall				OnNextTaskClicked		(CUIWindow* w, void* d);
+	void xr_stdcall				OnPrevTaskClicked		(CUIWindow* w, void* d);
 	void xr_stdcall				OnShowSecondTaskWnd		(CUIWindow* w, void* d);
 
 	void xr_stdcall				OnTask1DbClicked		(CUIWindow*, void*);
