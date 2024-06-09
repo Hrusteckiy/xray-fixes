@@ -1050,7 +1050,7 @@ struct CCC_ClearSmartCastStats : public IConsole_Command {
 };
 #endif
 
-#ifndef MASTER_GOLD
+//#ifndef MASTER_GOLD
 #	include "game_graph.h"
 struct CCC_JumpToLevel : public IConsole_Command {
 	CCC_JumpToLevel(LPCSTR N) : IConsole_Command(N)  {};
@@ -1145,7 +1145,26 @@ public:
 	}
 };
 
-#endif // MASTER_GOLD
+class CCC_UIReload : public IConsole_Command
+{
+public:
+
+	CCC_UIReload(LPCSTR N) : IConsole_Command(N) { bEmptyArgsHandled = TRUE; };
+	virtual void Execute(LPCSTR args) {
+		if (g_pGamePersistent && g_pGameLevel && Level().game)
+		{
+			if (HUD().GetUI()->UIGame())
+			{
+				HUD().GetUI()->UIGame()->HideShownDialogs(); //реинит диалоговых окон вроде talk wnd
+				//HUD().GetUI()->UIGame()->ReInitShownUI();
+				//HUD().GetUI()->UIGame()->ReinitDialogs();
+			}
+			g_pGameLevel->pHUD->OnScreenRatioChanged();
+		}
+	}
+};
+
+//#endif // MASTER_GOLD
 
 #include "GamePersistent.h"
 
@@ -1734,14 +1753,15 @@ CMD4(CCC_Integer,			"hit_anims_tune",						&tune_hit_anims,		0, 1);
 	CMD4(CCC_FloatBlock,		"ph_tri_query_ex_aabb_rate",	&ph_tri_query_ex_aabb_rate	,			1.01f	,3.f			);
 #endif // DEBUG
 
-#ifndef MASTER_GOLD
+//#ifndef MASTER_GOLD
 	CMD1(CCC_JumpToLevel,	"jump_to_level"		);
 	CMD3(CCC_Mask,			"g_god",			&psActorFlags,	AF_GODMODE	);
 	CMD3(CCC_Mask,			"g_unlimitedammo",	&psActorFlags,	AF_UNLIMITEDAMMO);
 	CMD1(CCC_Script,		"run_script");
 	CMD1(CCC_ScriptCommand,	"run_string");
-	CMD1(CCC_TimeFactor,	"time_factor");		
-#endif // MASTER_GOLD
+	CMD1(CCC_TimeFactor,	"time_factor");
+	CMD1(CCC_UIReload,		"ui_reload");
+//#endif // MASTER_GOLD
 
 	CMD3(CCC_Mask,		"g_autopickup",			&psActorFlags,	AF_AUTOPICKUP);
 	CMD3(CCC_Mask,		"g_dynamic_music",		&psActorFlags,	AF_DYNAMIC_MUSIC);
