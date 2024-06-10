@@ -181,6 +181,16 @@ end
 function se_stalker:on_register()
 	cse_alife_human_stalker.on_register( self )
 
+	if (actor_stats.add_to_ranking ~= nil) then
+		local community = self:community()
+		if not(community == "zombied" or
+		   community == "monolith" or
+		   community == "arena_enemy")
+		then
+			actor_stats.add_to_ranking(self.id)
+		end
+	end
+
 	self.board 	= sim_board.get_sim_board()
 	self.tm		= task_manager.get_task_manager()
 		local obj_ini = self:spawn_ini()

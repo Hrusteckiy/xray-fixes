@@ -18,6 +18,7 @@ class CUIPdaContactsWnd;
 class CUITaskWnd;
 class CUIFactionWarWnd;
 class CUIRankingWnd;
+class CUIStalkersRankingWnd;
 class CUILogsWnd;
 class CUIEncyclopediaWnd;
 class CUIAnimatedStatic;
@@ -69,6 +70,7 @@ public:
 	CUITaskWnd*				pUITaskWnd;
 	CUIFactionWarWnd*		pUIFactionWarWnd;
 	CUIRankingWnd*			pUIRankingWnd;
+	CUIStalkersRankingWnd*	UIStalkersRanking;
 	CUILogsWnd*				pUILogsWnd;
 	CUIEncyclopediaWnd* 	pUIEncyclopediaWnd;
 

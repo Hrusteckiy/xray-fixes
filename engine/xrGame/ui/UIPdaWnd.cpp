@@ -31,6 +31,7 @@
 #include "UIRankingWnd.h"
 #include "UILogsWnd.h"
 #include "UIEncyclopediaWnd.h"
+#include "UIStalkersRankingWnd.h"
 
 #define PDA_XML		"pda.xml"
 
@@ -40,13 +41,14 @@ void RearrangeTabButtons(CUITabControl* pTab);
 
 CUIPdaWnd::CUIPdaWnd()
 {
-	pUITaskWnd       = NULL;
-	pUIFactionWarWnd = NULL;
-	pUIRankingWnd    = NULL;
-	pUILogsWnd       = NULL;
-	pUIEncyclopediaWnd = NULL;
-	m_hint_wnd       = NULL;
-	Init();
+	pUITaskWnd			= NULL;
+	pUIFactionWarWnd	= NULL;
+	pUIRankingWnd		= NULL;
+	pUILogsWnd			= NULL;
+	pUIEncyclopediaWnd	= NULL;
+	UIStalkersRanking	= NULL;
+	m_hint_wnd			= NULL;
+	Init				();
 }
 
 CUIPdaWnd::~CUIPdaWnd()
@@ -56,6 +58,7 @@ CUIPdaWnd::~CUIPdaWnd()
 	delete_data( pUIRankingWnd );
 	delete_data( pUILogsWnd );
 	delete_data( pUIEncyclopediaWnd );
+	delete_data( UIStalkersRanking );
 	delete_data( m_hint_wnd );
 	delete_data( UINoice );
 }
@@ -102,6 +105,10 @@ void CUIPdaWnd::Init()
 
 		pUIEncyclopediaWnd 				= xr_new<CUIEncyclopediaWnd>();
 		pUIEncyclopediaWnd->Init		();
+
+		// Окно рейтинга сталкеров
+		UIStalkersRanking				= xr_new<CUIStalkersRankingWnd>();
+		UIStalkersRanking->Init			();
 
 	}
 
@@ -204,6 +211,10 @@ void CUIPdaWnd::SetActiveSubdialog(const shared_str& section)
 	{
 		m_pActiveDialog = pUILogsWnd;
 	}
+	else if (section == "eptStalkerRanking")
+	{
+		m_pActiveDialog = UIStalkersRanking;
+	}
 	else if (section == "eptEnc")
 	{
 		m_pActiveDialog = pUIEncyclopediaWnd;
@@ -304,6 +315,7 @@ void CUIPdaWnd::Reset()
 	if ( pUIFactionWarWnd )	pUITaskWnd->ResetAll();
 	if ( pUIRankingWnd )	pUITaskWnd->ResetAll();
 	if ( pUILogsWnd )		pUITaskWnd->ResetAll();
+	if (UIStalkersRanking)	UIStalkersRanking->ResetAll();
 }
 
 void CUIPdaWnd::SetCaption( LPCSTR text )

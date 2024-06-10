@@ -31,48 +31,48 @@ function actor_binder:__init (obj) super(obj)
 end
 ----------------------------------------------------------------------------------------------------------------------
 function actor_binder:net_spawn(data)
-				printf("actor net spawn")
+	printf("actor net spawn")
 
-				level.show_indicators()
+	level.show_indicators()
 
-				self.bCheckStart = true
-				self.weapon_hide = false -- спрятано или нет оружие при разговоре.
-		self.weapon_hide_in_dialog = false
-				weapon_hide = {} -- устанавливаем глобальный дефолтовый флаг.
+	self.bCheckStart = true
+	self.weapon_hide = false -- спрятано или нет оружие при разговоре.
+	self.weapon_hide_in_dialog = false
+	weapon_hide = {} -- устанавливаем глобальный дефолтовый флаг.
 
-				if object_binder.net_spawn(self,data) == false then
-								return false
-				end
+	if object_binder.net_spawn(self,data) == false then
+		return false
+	end
 
-				db.add_actor(self.object)
+	db.add_actor(self.object)
 
-				if self.st.disable_input_time == nil then
-								level.enable_input()
-				end
-				xr_s.on_game_load()                                    --' Distemper 03.2008 --
-				self.weather_manager:reset()
+	if self.st.disable_input_time == nil then
+					level.enable_input()
+	end
+	xr_s.on_game_load()                                    --' Distemper 03.2008 --
+	self.weather_manager:reset()
 --        game_stats.initialize ()
 
---        if(actor_stats.add_to_ranking~=nil)then
---                actor_stats.add_to_ranking(self.object:id())
---        end
+	if (actor_stats.add_to_ranking ~= nil) then
+		actor_stats.add_to_ranking(self.object:id())
+	end
 
-				--' Загружаем настройки дропа
-				death_manager.init_drop_settings()
+	--' Загружаем настройки дропа
+	death_manager.init_drop_settings()
 
-				--'Устанавливаем ссылку на таскменеджер
-				self.task_manager = task_manager.get_task_manager()
+	--'Устанавливаем ссылку на таскменеджер
+	self.task_manager = task_manager.get_task_manager()
 
-				-- Анремте это, чтобы пропустить интро на марше.
-				--self.object:give_info_portion("mar_lvl_sim")
-				if level.name() ~= "marsh" then
-					sim_board.get_sim_board():start_sim()
-				end
+	-- Анремте это, чтобы пропустить интро на марше.
+	--self.object:give_info_portion("mar_lvl_sim")
+	if level.name() ~= "marsh" then
+		sim_board.get_sim_board():start_sim()
+	end
 
-				--spawn_items.main()
-				self.spawn_frame = device().frame
-		self.already_jumped = false
-		benchmark.main()							          --' Distemper 06.2008 --
+	--spawn_items.main()
+	self.spawn_frame = device().frame
+	self.already_jumped = false
+	benchmark.main()							          --' Distemper 06.2008 --
 
 	return true
 end

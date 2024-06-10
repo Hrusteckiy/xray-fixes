@@ -14,7 +14,6 @@
 #include "../actor.h"
 #include "../../xrServerEntities/xrServer_Objects_ALife_Monsters.h"
 
-#define		STALKERS_RANKING_XML			"stalkers_ranking.xml"
 #define		STALKERS_RANKING_CHARACTER_XML	"stalkers_ranking_character.xml"
 
 struct SStatData{
@@ -29,7 +28,9 @@ TOP_LIST						g_all_statistic_humans;
 void CUIStalkersRankingWnd::Init()
 {
 	CUIXml								uiXml;
-	uiXml.Load							(CONFIG_PATH, UI_PATH,STALKERS_RANKING_XML);
+	string256 doc_name					= "";
+	sprintf_s							(doc_name, "stalkers_ranking%s%s", UI()->is_16_9_mode() ? "_16" : "", ".xml");
+	uiXml.Load							(CONFIG_PATH, UI_PATH, doc_name);
 
 	CUIXmlInit							xml_init;
 
@@ -106,7 +107,9 @@ void CUIStalkersRankingWnd::FillList()
 {
 
 	CUIXml									uiXml;
-	uiXml.Load								(CONFIG_PATH, UI_PATH,STALKERS_RANKING_XML);
+	string256 doc_name						= "";
+	sprintf_s								(doc_name, "stalkers_ranking%s%s", UI()->is_16_9_mode() ? "_16" : "", ".xml");
+	uiXml.Load								(CONFIG_PATH, UI_PATH, doc_name);
 
 	UIList->Clear							();
 

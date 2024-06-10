@@ -2,7 +2,9 @@
 <window>
 
 	<!-- ICON -->
-	<icon_static x="0" y="0" width="165" height="108"/>
+	<icon x="0" y="0" width="165" height="108">
+		<deadbody r="255" g="160" b="160" a="205"/>
+	</icon>
 
 
 	<!-- RANK -->
